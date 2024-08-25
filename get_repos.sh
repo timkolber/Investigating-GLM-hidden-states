@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 echo "Getting Patchscopes from https://github.com/PAIR-code/interpretability/tree/master/patchscopes/code..."
 git clone --no-checkout https://github.com/PAIR-code/interpretability.git
+cd interpretability
 git sparse-checkout init
 git sparse-checkout set patchscopes/code
 git checkout master
