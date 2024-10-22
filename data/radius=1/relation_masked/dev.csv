@@ -1,0 +1,1701 @@
+graph,label,target_prompt,target_position,source_position
+"[['free software', '<extra_id_0>', 'proprietary']]",is an antonym of,summarize: free software ? proprietary,5,0
+"[['librarian', '<extra_id_0>', 'worker']]",is a,summarize: librarian ? worker,4,0
+"[['watch tv show', '<extra_id_0>', 'amuses']]",is motivated by,summarize: watch tv show ? amuses,8,0
+"[['taking exam', '<extra_id_0>', 'concentration']]",has prerequisite,summarize: taking exam ? concentration,5,0
+"[['mall', '<extra_id_0>', 'spending money']]",is used for,summarize: mall ? spending money,4,0
+"[['tennis ball', '<extra_id_0>', 'play']]",is used for,summarize: tennis ball ? play,5,0
+"[['paper', '<extra_id_0>', 'crumpled']]",is,summarize: paper ? crumpled,4,0
+"[['going to concert', '<extra_id_0>', 'getting bored']]",causes,summarize: going to concert ? getting bored,6,0
+"[['applied sciences', '<extra_id_0>', 'applied science']]",is a form of,summarize: applied sciences ? applied science,5,0
+"[['hearing news', '<extra_id_0>', 'panic']]",causes,summarize: hearing news ? panic,5,0
+"[['gametogenesis', '<extra_id_0>', 'cellular multiplication']]",is a,summarize: gametogenesis ? cellular multiplication,6,0
+"[['ambition', '<extra_id_0>', 'take care of proposals']]",causes desire,summarize: ambition ? take care of proposals,4,0
+"[['peppers', '<extra_id_0>', 'green']]",is,summarize: peppers ? green,5,0
+"[['comedian', '<extra_id_0>', 'express how funny']]",causes desire,summarize: comedian ? express how funny,4,0
+"[['playing soccer', '<extra_id_0>', 'injuries']]",causes,summarize: playing soccer ? injuries,5,0
+"[['catwalk', '<extra_id_0>', 'dangerous']]",is,summarize: catwalk ? dangerous,5,0
+"[['knot', '<extra_id_0>', 'board']]",is a part of,summarize: knot ? board,4,0
+"[['hear', '<extra_id_0>', 'look']]",is distinct from,summarize: hear ? look,4,0
+"[['writing', '<extra_id_0>', 'patience']]",has prerequisite,summarize: writing ? patience,4,0
+"[['contemn', '<extra_id_0>', 'honor']]",is an antonym of,summarize: contemn ? honor,6,0
+"[['allotropous', '<extra_id_0>', 'botany']]",has context,summarize: allotropous ? botany,7,0
+"[['drinking alcohol', '<extra_id_0>', 'designated driver']]",has prerequisite,summarize: drinking alcohol ? designated driver,5,0
+"[['reproducing', '<extra_id_0>', 'flirting']]",has subevent,summarize: reproducing ? flirting,5,0
+"[['undergraduate', '<extra_id_0>', 'professor']]",is distinct from,summarize: undergraduate ? professor,4,0
+"[['write program', '<extra_id_0>', 'compile']]",has prerequisite,summarize: write program ? compile,5,0
+"[['fumaria', '<extra_id_0>', 'fumarium']]",is a form of,summarize: fumaria ? fumarium,5,0
+"[['top dog', '<extra_id_0>', 'rule roost']]",is capable of,summarize: top dog ? rule roost,5,0
+"[['track', '<extra_id_0>', 'track meet']]",is a part of,summarize: track ? track meet,4,0
+"[['eating vegetables', '<extra_id_0>', 'salt']]",has prerequisite,summarize: eating vegetables ? salt,5,0
+"[['travel bug', '<extra_id_0>', 'go somewhere']]",causes desire,summarize: travel bug ? go somewhere,5,0
+"[['bug', '<extra_id_0>', 'anger']]",is capable of,summarize: bug ? anger,4,0
+"[['playing game of chess', '<extra_id_0>', 'think']]",has subevent,summarize: playing game of chess ? think,9,0
+"[['liberals', '<extra_id_0>', 'left wing']]",is,summarize: liberals ? left wing,5,0
+"[['release energy', '<extra_id_0>', 'stressed']]",is motivated by,summarize: release energy ? stressed,5,0
+"[['with feet', '<extra_id_0>', 'step forward']]",is capable of,summarize: with feet ? step forward,5,0
+"[['recharged', '<extra_id_0>', 'recharge']]",is a form of,summarize: recharged ? recharge,5,0
+"[['wash hands', '<extra_id_0>', 'clean']]",is motivated by,summarize: wash hands ? clean,5,0
+"[['convict suspect for crime', '<extra_id_0>', 'call police']]",has prerequisite,summarize: convict suspect for crime ? call police,9,0
+"[['breathe fresh air', '<extra_id_0>', 'relax']]",is motivated by,summarize: breathe fresh air ? relax,6,0
+"[['hindquarters', '<extra_id_0>', 'quadruped']]",is a part of,summarize: hindquarters ? quadruped,7,0
+"[['parking ticket', '<extra_id_0>', 'move car']]",causes desire,summarize: parking ticket ? move car,5,0
+"[['illegitimate', '<extra_id_0>', 'legal']]",is an antonym of,summarize: illegitimate ? legal,8,0
+"[['gild', '<extra_id_0>', 'decorate']]",is a manner of,summarize: gild ? decorate,7,0
+"[['altar', '<extra_id_0>', 'sacrifices']]",is used for,summarize: altar ? sacrifices,4,0
+"[['all humans', '<extra_id_0>', 'equal']]",is,summarize: all humans ? equal,5,0
+"[['book', '<extra_id_0>', 'sleep']]",causes desire,summarize: book ? sleep,4,0
+"[['amicability', '<extra_id_0>', 'litigiousness']]",is distinct from,summarize: amicability ? litigiousness,6,0
+"[[""charles's law"", '<extra_id_0>', ""gay lussac's law""]]",is a synonym of,summarize: charles's law ? gay lussac's law,9,0
+"[['bad weather', '<extra_id_0>', 'unavoidable']]",is,summarize: bad weather ? unavoidable,5,0
+"[['surf net', '<extra_id_0>', 'pop ups']]",has subevent,summarize: surf net ? pop ups,5,0
+"[['hypogonadism', '<extra_id_0>', 'disease']]",is a,summarize: hypogonadism ? disease,9,0
+"[['check', '<extra_id_0>', 'move']]",is a manner of,summarize: check ? move,4,0
+"[['having good time', '<extra_id_0>', 'smile']]",has subevent,summarize: having good time ? smile,6,0
+"[['typewriters', '<extra_id_0>', 'noisy']]",is,summarize: typewriters ? noisy,6,0
+"[['having conversation', '<extra_id_0>', 'interruption']]",has subevent,summarize: having conversation ? interruption,5,0
+"[['light up', '<extra_id_0>', 'erupt']]",is a manner of,summarize: light up ? erupt,5,0
+"[['kitchens', '<extra_id_0>', 'small']]",is,summarize: kitchens ? small,5,0
+"[['world trade center', '<extra_id_0>', 'terrorism']]",has context,summarize: world trade center ? terrorism,6,0
+"[['test car', '<extra_id_0>', 'swerve']]",has subevent,summarize: test car ? swerve,5,0
+"[['ficus', '<extra_id_0>', 'woody plant']]",is a,summarize: ficus ? woody plant,6,0
+"[['tokyo', '<extra_id_0>', 'honshu']]",is a part of,summarize: tokyo ? honshu,6,0
+"[['alligators', '<extra_id_0>', 'carnivorous']]",is,summarize: alligators ? carnivorous,7,0
+"[['eat', '<extra_id_0>', 'throw']]",is an antonym of,summarize: eat ? throw,5,0
+"[['washing clothes', '<extra_id_0>', 'cleaning']]",is used for,summarize: washing clothes ? cleaning,5,0
+"[['musical instrument', '<extra_id_0>', 'hearer']]",is used for,summarize: musical instrument ? hearer,5,0
+"[['play baseball', '<extra_id_0>', 'run']]",has subevent,summarize: play baseball ? run,5,0
+"[['antigorite', '<extra_id_0>', 'mineral']]",has context,summarize: antigorite ? mineral,6,0
+"[['wait on tables', '<extra_id_0>', 'paycheck']]",is motivated by,summarize: wait on tables ? paycheck,6,0
+"[['making friends', '<extra_id_0>', 'happiness']]",causes,summarize: making friends ? happiness,5,0
+"[['antbear', '<extra_id_0>', 'ant bear']]",is a form of,summarize: antbear ? ant bear,7,0
+"[['monger', '<extra_id_0>', 'british']]",has context,summarize: monger ? british,5,0
+"[['villain', '<extra_id_0>', 'aristocrat']]",is distinct from,summarize: villain ? aristocrat,4,0
+"[['earning living', '<extra_id_0>', 'carpool']]",has subevent,summarize: earning living ? carpool,5,0
+"[['yes', '<extra_id_0>', 'negative']]",is an antonym of,summarize: yes ? negative,4,0
+"[['sublimate', '<extra_id_0>', 'redirect']]",is a manner of,summarize: sublimate ? redirect,6,0
+"[['head honchos', '<extra_id_0>', 'head honcho']]",is a form of,summarize: head honchos ? head honcho,8,0
+"[['efficiently', '<extra_id_0>', 'inefficiently']]",is distinct from,summarize: efficiently ? inefficiently,4,0
+"[['want', '<extra_id_0>', 'detest']]",is distinct from,summarize: want ? detest,4,0
+"[['atoms', '<extra_id_0>', 'universe']]",is in,summarize: atoms ? universe,6,0
+"[['foundation', '<extra_id_0>', 'roof']]",is an antonym of,summarize: foundation ? roof,4,0
+"[['shortness', '<extra_id_0>', 'duration']]",is a,summarize: shortness ? duration,5,0
+"[['ink', '<extra_id_0>', 'colour']]",is capable of,summarize: ink ? colour,5,0
+"[['passing class', '<extra_id_0>', 'jubilation']]",causes,summarize: passing class ? jubilation,5,0
+"[['lack', '<extra_id_0>', 'present']]",is distinct from,summarize: lack ? present,4,0
+"[['talk with far away', '<extra_id_0>', 'get there']]",has prerequisite,summarize: talk with far away ? get there,7,0
+"[['binge drinking', '<extra_id_0>', 'binge eating']]",is distinct from,summarize: binge drinking ? binge eating,6,0
+"[['leg', '<extra_id_0>', 'spider']]",is a part of,summarize: leg ? spider,4,0
+"[['birds', '<extra_id_0>', 'roof']]",is in,summarize: birds ? roof,4,0
+"[['play piano', '<extra_id_0>', 'learn to read music']]",has prerequisite,summarize: play piano ? learn to read music,5,0
+"[['going to concert', '<extra_id_0>', 'walk in']]",has subevent,summarize: going to concert ? walk in,6,0
+"[['centavo', '<extra_id_0>', 'dominican peso']]",is a part of,summarize: centavo ? dominican peso,6,0
+"[['listen to music', '<extra_id_0>', 'have good time']]",is motivated by,summarize: listen to music ? have good time,6,0
+"[['get hair cut', '<extra_id_0>', 'shorter']]",has subevent,summarize: get hair cut ? shorter,6,0
+"[['saint francis', '<extra_id_0>', 'missouri']]",is a part of,summarize: saint francis ? missouri,7,0
+"[['traveling', '<extra_id_0>', 'sing']]",has subevent,summarize: traveling ? sing,4,0
+"[['irrumatio', '<extra_id_0>', 'irrumation']]",is a form of,summarize: irrumatio ? irrumation,10,0
+"[['cooking dinner', '<extra_id_0>', 'heat']]",has prerequisite,summarize: cooking dinner ? heat,5,0
+"[['double', '<extra_id_0>', 'pool']]",has context,summarize: double ? pool,4,0
+"[['durex', '<extra_id_0>', 'british']]",has context,summarize: durex ? british,5,0
+"[['runway', '<extra_id_0>', 'airshows']]",is used for,summarize: runway ? airshows,4,0
+"[['leave line', '<extra_id_0>', 'go to bathroom']]",is motivated by,summarize: leave line ? go to bathroom,5,0
+"[['property', '<extra_id_0>', 'culture']]",is a part of,summarize: property ? culture,4,0
+"[['watch evening news', '<extra_id_0>', 'boredom']]",has subevent,summarize: watch evening news ? boredom,6,0
+"[['unit', '<extra_id_0>', 'mathematics']]",has context,summarize: unit ? mathematics,4,0
+"[['huck', '<extra_id_0>', 'snowboarding']]",has context,summarize: huck ? snowboarding,6,0
+"[['epididymis', '<extra_id_0>', 'testis']]",is a part of,summarize: epididymis ? testis,8,0
+"[['playing hockey', '<extra_id_0>', 'playing sport']]",causes,summarize: playing hockey ? playing sport,5,0
+"[['distributor point', '<extra_id_0>', 'distributor']]",is a part of,summarize: distributor point ? distributor,5,0
+"[['homebrew', '<extra_id_0>', 'craft beer']]",is a synonym of,summarize: homebrew ? craft beer,6,0
+"[['measles', '<extra_id_0>', 'chickenpox']]",is distinct from,summarize: measles ? chickenpox,7,0
+"[['great', '<extra_id_0>', 'insignificant']]",is distinct from,summarize: great ? insignificant,4,0
+"[['give', '<extra_id_0>', 'make']]",is a manner of,summarize: give ? make,4,0
+"[['manitoba', '<extra_id_0>', 'canada']]",is a part of,summarize: manitoba ? canada,8,0
+"[['do crossword puzzle', '<extra_id_0>', 'mentally challenged']]",is motivated by,summarize: do crossword puzzle ? mentally challenged,7,0
+"[['unifiable', '<extra_id_0>', 'divisible']]",is an antonym of,summarize: unifiable ? divisible,7,0
+"[['skier', '<extra_id_0>', 'worker']]",is a,summarize: skier ? worker,5,0
+"[['malaise', '<extra_id_0>', 'weltschmerz']]",is a synonym of,summarize: malaise ? weltschmerz,5,0
+"[['giving assistance', '<extra_id_0>', 'dependence']]",causes,summarize: giving assistance ? dependence,5,0
+"[['bald eagle', '<extra_id_0>', 'utah']]",is in,summarize: bald eagle ? utah,9,0
+"[['frag', '<extra_id_0>', 'military']]",has context,summarize: frag ? military,5,0
+"[['selfless', '<extra_id_0>', 'egoistical']]",is distinct from,summarize: selfless ? egoistical,5,0
+"[['shop', '<extra_id_0>', 'buy products']]",is motivated by,summarize: shop ? buy products,4,0
+"[['about', '<extra_id_0>', 'precisely']]",is an antonym of,summarize: about ? precisely,4,0
+"[['fight inflation', '<extra_id_0>', 'more money']]",is motivated by,summarize: fight inflation ? more money,5,0
+"[['urmia', '<extra_id_0>', 'orumiyeh']]",is a synonym of,summarize: urmia ? orumiyeh,8,0
+"[['delay', '<extra_id_0>', 'run out clock']]",is capable of,summarize: delay ? run out clock,4,0
+"[['new amsterdam', '<extra_id_0>', 'new york']]",is a part of,summarize: new amsterdam ? new york,7,0
+"[['getting fired', '<extra_id_0>', 'get drunk']]",causes desire,summarize: getting fired ? get drunk,5,0
+"[['south pacific', '<extra_id_0>', 'pacific']]",is a part of,summarize: south pacific ? pacific,7,0
+"[['in service', '<extra_id_0>', 'us']]",has context,summarize: in service ? us,5,0
+"[['deadline', '<extra_id_0>', 'calculate things quickly']]",causes desire,summarize: deadline ? calculate things quickly,4,0
+"[['use', '<extra_id_0>', 'occupy']]",is a synonym of,summarize: use ? occupy,4,0
+"[['express information', '<extra_id_0>', 'write story']]",has prerequisite,summarize: express information ? write story,5,0
+"[['chair', '<extra_id_0>', 'show']]",is in,summarize: chair ? show,4,0
+"[['quitter', '<extra_id_0>', 'throw in towel']]",is capable of,summarize: quitter ? throw in towel,5,0
+"[['going somewhere', '<extra_id_0>', 'elapsed time']]",causes,summarize: going somewhere ? elapsed time,5,0
+"[['listening to radio', '<extra_id_0>', 'headaches']]",causes,summarize: listening to radio ? headaches,6,0
+"[['stop car', '<extra_id_0>', 'press brake']]",has prerequisite,summarize: stop car ? press brake,5,0
+"[['read fine print', '<extra_id_0>', 'squint']]",has subevent,summarize: read fine print ? squint,6,0
+"[['present', '<extra_id_0>', 'constitute']]",is a manner of,summarize: present ? constitute,4,0
+"[['frustrate', '<extra_id_0>', 'torment']]",is a synonym of,summarize: frustrate ? torment,5,0
+"[['meet interesting people', '<extra_id_0>', 'socialise']]",has prerequisite,summarize: meet interesting people ? socialise,6,0
+"[['calculate things quickly', '<extra_id_0>', 'answer']]",is motivated by,summarize: calculate things quickly ? answer,6,0
+"[['buy christmas presents', '<extra_id_0>', 'please']]",is motivated by,summarize: buy christmas presents ? please,6,0
+"[['harmfulness', '<extra_id_0>', 'innocuousness']]",is an antonym of,summarize: harmfulness ? innocuousness,5,0
+"[['run short', '<extra_id_0>', 'run low']]",is a synonym of,summarize: run short ? run low,5,0
+"[['convent', '<extra_id_0>', 'sect']]",is a part of,summarize: convent ? sect,5,0
+"[['aerate', '<extra_id_0>', 'oxygenate']]",is a synonym of,summarize: aerate ? oxygenate,7,0
+"[['roman empire', '<extra_id_0>', 'asia']]",is a part of,summarize: roman empire ? asia,5,0
+"[['clean room', '<extra_id_0>', 'organize']]",has prerequisite,summarize: clean room ? organize,5,0
+"[['sorghum bicolor', '<extra_id_0>', 'grass']]",is a,summarize: sorghum bicolor ? grass,9,0
+"[['good teacher', '<extra_id_0>', 'learn about world']]",causes desire,summarize: good teacher ? learn about world,5,0
+"[['working', '<extra_id_0>', 'produce']]",causes,summarize: working ? produce,4,0
+"[['tequila', '<extra_id_0>', 'drowsiness']]",causes,summarize: tequila ? drowsiness,8,0
+"[['connecticut', '<extra_id_0>', 'administrative region']]",is a,summarize: connecticut ? administrative region,6,0
+"[['kissing', '<extra_id_0>', 'feeling good']]",causes,summarize: kissing ? feeling good,5,0
+"[['centering', '<extra_id_0>', 'centring']]",is a synonym of,summarize: centering ? centring,5,0
+"[['north american indian', '<extra_id_0>', 'american indian']]",is a synonym of,summarize: north american indian ? american indian,7,0
+"[['add up column of numbers', '<extra_id_0>', 'sum']]",is motivated by,summarize: add up column of numbers ? sum,8,0
+"[['cooking meal', '<extra_id_0>', 'spills']]",has subevent,summarize: cooking meal ? spills,5,0
+"[['stupidity', '<extra_id_0>', 'take final exams']]",causes desire,summarize: stupidity ? take final exams,5,0
+"[['keep', '<extra_id_0>', 'throwaway']]",is distinct from,summarize: keep ? throwaway,4,0
+"[['go to zoo', '<extra_id_0>', 'take bus']]",has prerequisite,summarize: go to zoo ? take bus,9,0
+"[['cufflink', '<extra_id_0>', 'accessory']]",is a,summarize: cufflink ? accessory,7,0
+"[['lettuce bird', '<extra_id_0>', 'us']]",has context,summarize: lettuce bird ? us,5,0
+"[['leverage', '<extra_id_0>', 'supply']]",is a manner of,summarize: leverage ? supply,4,0
+"[['fix computer', '<extra_id_0>', 'take course']]",has prerequisite,summarize: fix computer ? take course,5,0
+"[['buying', '<extra_id_0>', 'broke']]",causes,summarize: buying ? broke,4,0
+"[['chewing food', '<extra_id_0>', 'teeth']]",has prerequisite,summarize: chewing food ? teeth,6,0
+"[['connection', '<extra_id_0>', 'networks']]",is used for,summarize: connection ? networks,4,0
+"[['softness', '<extra_id_0>', 'watch tv']]",causes desire,summarize: softness ? watch tv,5,0
+"[['bald eagle', '<extra_id_0>', 'united states of america']]",is in,summarize: bald eagle ? united states of america,9,0
+"[['ailing', '<extra_id_0>', 'ail']]",is a form of,summarize: ailing ? ail,5,0
+"[['smoking', '<extra_id_0>', 'unhealthy']]",is,summarize: smoking ? unhealthy,4,0
+"[['safe', '<extra_id_0>', 'endangered']]",is distinct from,summarize: safe ? endangered,4,0
+"[['barber shop', '<extra_id_0>', 'canada']]",is in,summarize: barber shop ? canada,6,0
+"[['integer', '<extra_id_0>', 'factored']]",is capable of,summarize: integer ? factored,4,0
+"[['interstate highway', '<extra_id_0>', 'touring']]",is used for,summarize: interstate highway ? touring,6,0
+"[['meet girls', '<extra_id_0>', 'laugh at']]",has subevent,summarize: meet girls ? laugh at,5,0
+"[['vacation', '<extra_id_0>', 'relaxing']]",is,summarize: vacation ? relaxing,4,0
+"[['buckets', '<extra_id_0>', 'hold water']]",is capable of,summarize: buckets ? hold water,5,0
+"[['raise', '<extra_id_0>', 'cut']]",is an antonym of,summarize: raise ? cut,4,0
+"[['test car', '<extra_id_0>', 'own']]",is motivated by,summarize: test car ? own,5,0
+"[['malaysia', '<extra_id_0>', 'indochina']]",is a part of,summarize: malaysia ? indochina,7,0
+"[['grape', '<extra_id_0>', 'canada']]",is in,summarize: grape ? canada,4,0
+"[['speaker', '<extra_id_0>', 'listening to radio']]",is used for,summarize: speaker ? listening to radio,4,0
+"[['front', '<extra_id_0>', 'cello']]",is a part of,summarize: front ? cello,4,0
+"[['breathing', '<extra_id_0>', 'asthma attacks']]",causes,summarize: breathing ? asthma attacks,4,0
+"[['abdominal wall', '<extra_id_0>', 'abdomen']]",is a part of,summarize: abdominal wall ? abdomen,5,0
+"[['sapotaceae', '<extra_id_0>', 'plant']]",is a,summarize: sapotaceae ? plant,10,0
+"[['plosion', '<extra_id_0>', 'stop consonant']]",is a part of,summarize: plosion ? stop consonant,6,0
+"[['study', '<extra_id_0>', 'house']]",is a part of,summarize: study ? house,4,0
+"[['deliver', '<extra_id_0>', 'pick up']]",is an antonym of,summarize: deliver ? pick up,4,0
+"[['see favorite show', '<extra_id_0>', 'watch']]",has prerequisite,summarize: see favorite show ? watch,6,0
+"[[""i've"", '<extra_id_0>', ""he's""]]",is distinct from,summarize: i've ? he's,7,0
+"[['arrival', '<extra_id_0>', 'action']]",is a,summarize: arrival ? action,4,0
+"[['beetle', '<extra_id_0>', 'beat']]",is a manner of,summarize: beetle ? beat,7,0
+"[['mandatory', '<extra_id_0>', 'elective']]",is distinct from,summarize: mandatory ? elective,4,0
+"[['noble', '<extra_id_0>', 'common']]",is an antonym of,summarize: noble ? common,4,0
+"[['driving', '<extra_id_0>', 'smoking pipe']]",has subevent,summarize: driving ? smoking pipe,4,0
+"[['telephone', '<extra_id_0>', 'talking to']]",is used for,summarize: telephone ? talking to,4,0
+"[['pizza delivery', '<extra_id_0>', 'front door']]",is in,summarize: pizza delivery ? front door,5,0
+"[['ewe', '<extra_id_0>', 'human']]",is a,summarize: ewe ? human,6,0
+"[['advertisements', '<extra_id_0>', 'watch tv show']]",causes desire,summarize: advertisements ? watch tv show,4,0
+"[['pigeon hole', '<extra_id_0>', 'pigeonhole']]",is a form of,summarize: pigeon hole ? pigeonhole,8,0
+"[['title', '<extra_id_0>', 'ending']]",is an antonym of,summarize: title ? ending,4,0
+"[['heifer', '<extra_id_0>', 'oregon']]",is in,summarize: heifer ? oregon,7,0
+"[['millrace', '<extra_id_0>', 'mill race']]",is a form of,summarize: millrace ? mill race,5,0
+"[['egg', '<extra_id_0>', 'throwing']]",is used for,summarize: egg ? throwing,4,0
+"[['driving', '<extra_id_0>', 'moving']]",causes,summarize: driving ? moving,4,0
+"[['poppet', '<extra_id_0>', 'internal combustion engine']]",is a part of,summarize: poppet ? internal combustion engine,5,0
+"[['get exercise', '<extra_id_0>', 'energy']]",is motivated by,summarize: get exercise ? energy,5,0
+"[['shortness of breath', '<extra_id_0>', 'winded']]",is a synonym of,summarize: shortness of breath ? winded,7,0
+"[['spill', '<extra_id_0>', 'tell']]",is a manner of,summarize: spill ? tell,4,0
+"[['beastiality', '<extra_id_0>', 'bestiality']]",is a form of,summarize: beastiality ? bestiality,6,0
+"[['hydrogen ion', '<extra_id_0>', 'hydrogen atom']]",is a part of,summarize: hydrogen ion ? hydrogen atom,7,0
+"[['cleaning', '<extra_id_0>', 'energy']]",has prerequisite,summarize: cleaning ? energy,4,0
+"[['grow', '<extra_id_0>', 'wilt']]",is an antonym of,summarize: grow ? wilt,4,0
+"[['prostrate', '<extra_id_0>', 'supine']]",is an antonym of,summarize: prostrate ? supine,5,0
+"[['compile', '<extra_id_0>', 'make']]",is a manner of,summarize: compile ? make,5,0
+"[['rigidness', '<extra_id_0>', 'inflexibility']]",is a synonym of,summarize: rigidness ? inflexibility,5,0
+"[['visiting museum', '<extra_id_0>', 'taking bus']]",has prerequisite,summarize: visiting museum ? taking bus,5,0
+"[['conduct trial', '<extra_id_0>', 'judgement']]",has subevent,summarize: conduct trial ? judgement,5,0
+"[['lemon', '<extra_id_0>', 'fridge']]",is in,summarize: lemon ? fridge,4,0
+"[['deception', '<extra_id_0>', 'delude']]",is capable of,summarize: deception ? delude,5,0
+"[['marriage', '<extra_id_0>', 'breaking up']]",is capable of,summarize: marriage ? breaking up,4,0
+"[['walk in rain', '<extra_id_0>', 'getting wet']]",has subevent,summarize: walk in rain ? getting wet,6,0
+"[['being dirty', '<extra_id_0>', 'go for swim']]",causes desire,summarize: being dirty ? go for swim,5,0
+"[['punish', '<extra_id_0>', 'vengeance']]",is motivated by,summarize: punish ? vengeance,4,0
+"[['play violin', '<extra_id_0>', 'making music']]",has subevent,summarize: play violin ? making music,5,0
+"[['listening to music', '<extra_id_0>', 'pleasurable']]",is,summarize: listening to music ? pleasurable,6,0
+"[['teach other people', '<extra_id_0>', 'teach']]",has prerequisite,summarize: teach other people ? teach,6,0
+"[['kosher delicatessen', '<extra_id_0>', 'bedroom']]",is in,summarize: kosher delicatessen ? bedroom,8,0
+"[['creature', '<extra_id_0>', 'specific']]",is distinct from,summarize: creature ? specific,4,0
+"[['luxury', '<extra_id_0>', 'impoverished']]",is distinct from,summarize: luxury ? impoverished,4,0
+"[['crude', '<extra_id_0>', 'grammar']]",has context,summarize: crude ? grammar,4,0
+"[['arriving early', '<extra_id_0>', 'wait for']]",causes desire,summarize: arriving early ? wait for,5,0
+"[['sugar', '<extra_id_0>', 'candy bar']]",is in,summarize: sugar ? candy bar,4,0
+"[['driving car', '<extra_id_0>', 'run out of gas']]",causes,summarize: driving car ? run out of gas,5,0
+"[['boulle', '<extra_id_0>', 'embellishment']]",is a,summarize: boulle ? embellishment,6,0
+"[['lamentations', '<extra_id_0>', 'biblical']]",has context,summarize: lamentations ? biblical,6,0
+"[['tub', '<extra_id_0>', 'soaking']]",is used for,summarize: tub ? soaking,4,0
+"[['shutup', '<extra_id_0>', 'shut up']]",is a form of,summarize: shutup ? shut up,5,0
+"[['waiting turn', '<extra_id_0>', 'impatience']]",causes,summarize: waiting turn ? impatience,5,0
+"[['smiling', '<extra_id_0>', 'good']]",is,summarize: smiling ? good,4,0
+"[['whisper', '<extra_id_0>', 'loud']]",is distinct from,summarize: whisper ? loud,4,0
+"[['die', '<extra_id_0>', 'ache']]",is a manner of,summarize: die ? ache,4,0
+"[['cipher', '<extra_id_0>', 'regional']]",has context,summarize: cipher ? regional,6,0
+"[['using computer', '<extra_id_0>', 'computer']]",has prerequisite,summarize: using computer ? computer,5,0
+"[['swimming', '<extra_id_0>', 'waves']]",causes,summarize: swimming ? waves,4,0
+"[['maintain muscle strength', '<extra_id_0>', 'keep fit']]",is motivated by,summarize: maintain muscle strength ? keep fit,6,0
+"[['looking better', '<extra_id_0>', 'attraction']]",causes,summarize: looking better ? attraction,5,0
+"[['children', '<extra_id_0>', 'greedy']]",is,summarize: children ? greedy,4,0
+"[['needing', '<extra_id_0>', 'wait for']]",causes desire,summarize: needing ? wait for,5,0
+"[['greed', '<extra_id_0>', 'evil']]",is,summarize: greed ? evil,4,0
+"[['lighten', '<extra_id_0>', 'change']]",is a manner of,summarize: lighten ? change,5,0
+"[['growler', '<extra_id_0>', 'dialect']]",has context,summarize: growler ? dialect,5,0
+"[['understanding better', '<extra_id_0>', 'clarification']]",is used for,summarize: understanding better ? clarification,5,0
+"[['ball gown', '<extra_id_0>', 'ballgown']]",is a form of,summarize: ball gown ? ballgown,5,0
+"[['abutment', '<extra_id_0>', 'architecture']]",has context,summarize: abutment ? architecture,7,0
+"[['make grow', '<extra_id_0>', 'sex']]",is motivated by,summarize: make grow ? sex,5,0
+"[['eat lunch', '<extra_id_0>', 'have fun']]",is motivated by,summarize: eat lunch ? have fun,6,0
+"[['lens hood', '<extra_id_0>', 'attachment']]",is a,summarize: lens hood ? attachment,6,0
+"[['stop being married to', '<extra_id_0>', 'hate']]",is motivated by,summarize: stop being married to ? hate,7,0
+"[['climb mountain', '<extra_id_0>', 'get started']]",has prerequisite,summarize: climb mountain ? get started,5,0
+"[['yellow green', '<extra_id_0>', 'green']]",is a,summarize: yellow green ? green,5,0
+"[['rover', '<extra_id_0>', 'scouting']]",has context,summarize: rover ? scouting,6,0
+"[['hard wired', '<extra_id_0>', 'hardwired']]",is a form of,summarize: hard wired ? hardwired,6,0
+"[['spacing', '<extra_id_0>', 'rate']]",is a,summarize: spacing ? rate,4,0
+"[['dissociate', '<extra_id_0>', 'join']]",is distinct from,summarize: dissociate ? join,6,0
+"[['crunchies', '<extra_id_0>', 'crunchy']]",is a form of,summarize: crunchies ? crunchy,6,0
+"[['dunes', '<extra_id_0>', 'move']]",is capable of,summarize: dunes ? move,5,0
+"[['courtyard', '<extra_id_0>', 'garden']]",is used for,summarize: courtyard ? garden,4,0
+"[['driving car', '<extra_id_0>', 'accidents']]",causes,summarize: driving car ? accidents,5,0
+"[['las vegas', '<extra_id_0>', 'asturias']]",is a part of,summarize: las vegas ? asturias,8,0
+"[['bean', '<extra_id_0>', 'food store']]",is in,summarize: bean ? food store,4,0
+"[['eye', '<extra_id_0>', 'eyelet']]",is a synonym of,summarize: eye ? eyelet,4,0
+"[['wait in line', '<extra_id_0>', 'read magazine']]",has subevent,summarize: wait in line ? read magazine,6,0
+"[['fix computer', '<extra_id_0>', 'get angry']]",has subevent,summarize: fix computer ? get angry,5,0
+"[['chair', '<extra_id_0>', 'relaxer']]",is an antonym of,summarize: chair ? relaxer,4,0
+"[['kuybyshev', '<extra_id_0>', 'historical']]",has context,summarize: kuybyshev ? historical,10,0
+"[['nylon', '<extra_id_0>', 'hose']]",is used for,summarize: nylon ? hose,4,0
+"[['buy fresh fruits and vegetables', '<extra_id_0>', 'eat healthily']]",is motivated by,summarize: buy fresh fruits and vegetables ? eat healthily,8,0
+"[['fleet', '<extra_id_0>', 'dialectal']]",has context,summarize: fleet ? dialectal,4,0
+"[['animals', '<extra_id_0>', 'bathe']]",is capable of,summarize: animals ? bathe,4,0
+"[['sofa', '<extra_id_0>', 'sleep on']]",is used for,summarize: sofa ? sleep on,4,0
+"[['patience', '<extra_id_0>', 'being']]",is an antonym of,summarize: patience ? being,4,0
+"[['res', '<extra_id_0>', 'residence']]",is a form of,summarize: res ? residence,6,0
+"[['circuit', '<extra_id_0>', 'short out']]",is capable of,summarize: circuit ? short out,4,0
+"[['high and dry', '<extra_id_0>', 'pejorative']]",has context,summarize: high and dry ? pejorative,6,0
+"[['corridos', '<extra_id_0>', 'corrido']]",is a form of,summarize: corridos ? corrido,6,0
+"[['do crossword puzzle', '<extra_id_0>', 'stop']]",has subevent,summarize: do crossword puzzle ? stop,7,0
+"[['reason', '<extra_id_0>', 'irrationality']]",is an antonym of,summarize: reason ? irrationality,4,0
+"[['sleigh ride', '<extra_id_0>', 'get cold']]",has subevent,summarize: sleigh ride ? get cold,7,0
+"[['share', '<extra_id_0>', 'parcel']]",is a synonym of,summarize: share ? parcel,4,0
+"[['enjoy company of friends', '<extra_id_0>', 'companionship']]",is motivated by,summarize: enjoy company of friends ? companionship,7,0
+"[['business', '<extra_id_0>', 'pleasure']]",is an antonym of,summarize: business ? pleasure,4,0
+"[['connected component', '<extra_id_0>', 'graph theory']]",has context,summarize: connected component ? graph theory,5,0
+"[['haft', '<extra_id_0>', 'ax']]",is a part of,summarize: haft ? ax,5,0
+"[['president', '<extra_id_0>', 'fall from grace']]",is capable of,summarize: president ? fall from grace,4,0
+"[['whitener', '<extra_id_0>', 'canada']]",has context,summarize: whitener ? canada,5,0
+"[['swimming', '<extra_id_0>', 'enjoyment']]",is used for,summarize: swimming ? enjoyment,4,0
+"[['build cathedral', '<extra_id_0>', 'contractor']]",is motivated by,summarize: build cathedral ? contractor,5,0
+"[['anyone', '<extra_id_0>', 'read book']]",is capable of,summarize: anyone ? read book,4,0
+"[['watching television', '<extra_id_0>', 'epileptic fit']]",has subevent,summarize: watching television ? epileptic fit,5,0
+"[['euboea', '<extra_id_0>', 'central greece']]",is a part of,summarize: euboea ? central greece,10,0
+"[['pump action', '<extra_id_0>', 'rifle']]",is a part of,summarize: pump action ? rifle,5,0
+"[['use television', '<extra_id_0>', 'watching movie']]",is motivated by,summarize: use television ? watching movie,5,0
+"[['jumping up and down', '<extra_id_0>', 'getting warm']]",causes,summarize: jumping up and down ? getting warm,7,0
+"[['james', '<extra_id_0>', 'virginia']]",is a part of,summarize: james ? virginia,6,0
+"[['lies', '<extra_id_0>', 'confuse']]",is used for,summarize: lies ? confuse,4,0
+"[['new jersey', '<extra_id_0>', 'mid atlantic states']]",is a part of,summarize: new jersey ? mid atlantic states,5,0
+"[['east malaysia', '<extra_id_0>', 'borneo']]",is a part of,summarize: east malaysia ? borneo,8,0
+"[['terrace', '<extra_id_0>', 'standing on']]",is used for,summarize: terrace ? standing on,4,0
+"[['wood', '<extra_id_0>', 'porous']]",is,summarize: wood ? porous,4,0
+"[['comedy', '<extra_id_0>', 'howl with laughter']]",causes desire,summarize: comedy ? howl with laughter,4,0
+"[['flashlight', '<extra_id_0>', 'useful']]",is,summarize: flashlight ? useful,4,0
+"[['exterior door', '<extra_id_0>', 'building']]",is a part of,summarize: exterior door ? building,5,0
+"[['symmetrize', '<extra_id_0>', 'change']]",is a manner of,summarize: symmetrize ? change,9,0
+"[['tom tom', '<extra_id_0>', 'music store']]",is in,summarize: tom tom ? music store,7,0
+"[['find information', '<extra_id_0>', 'excuse']]",is motivated by,summarize: find information ? excuse,5,0
+"[['vote', '<extra_id_0>', 'unanimous']]",is,summarize: vote ? unanimous,4,0
+"[['critical', '<extra_id_0>', 'minor']]",is distinct from,summarize: critical ? minor,4,0
+"[['meeting friend', '<extra_id_0>', 'communication']]",is used for,summarize: meeting friend ? communication,5,0
+"[['vegetables', '<extra_id_0>', 'green']]",is,summarize: vegetables ? green,4,0
+"[['critical', '<extra_id_0>', 'laudatory']]",is distinct from,summarize: critical ? laudatory,4,0
+"[['theatrical production', '<extra_id_0>', 'production']]",is a,summarize: theatrical production ? production,5,0
+"[['endogenetic', '<extra_id_0>', 'geology']]",has context,summarize: endogenetic ? geology,6,0
+"[['agreed', '<extra_id_0>', 'in agreement']]",is a synonym of,summarize: agreed ? in agreement,4,0
+"[['buying', '<extra_id_0>', 'pinch']]",has subevent,summarize: buying ? pinch,4,0
+"[['miss', '<extra_id_0>', 'card games']]",has context,summarize: miss ? card games,4,0
+"[['runner', '<extra_id_0>', 'running']]",is capable of,summarize: runner ? running,5,0
+"[['usa today', '<extra_id_0>', 'newspaper']]",is a,summarize: usa today ? newspaper,6,0
+"[['hospital', '<extra_id_0>', 'urban area']]",is in,summarize: hospital ? urban area,4,0
+"[['sky', '<extra_id_0>', 'breathing']]",is used for,summarize: sky ? breathing,4,0
+"[['hard work', '<extra_id_0>', 'go to sleep']]",causes desire,summarize: hard work ? go to sleep,5,0
+"[['go to market', '<extra_id_0>', 'get money']]",has prerequisite,summarize: go to market ? get money,6,0
+"[['natural', '<extra_id_0>', 'aberrant']]",is an antonym of,summarize: natural ? aberrant,4,0
+"[['volcano', '<extra_id_0>', 'south park']]",is a part of,summarize: volcano ? south park,4,0
+"[['snorefest', '<extra_id_0>', 'snore fest']]",is a form of,summarize: snorefest ? snore fest,9,0
+"[['barbed', '<extra_id_0>', 'heraldry']]",has context,summarize: barbed ? heraldry,5,0
+"[['fix computer', '<extra_id_0>', 'replacing parts']]",has subevent,summarize: fix computer ? replacing parts,5,0
+"[['shrink', '<extra_id_0>', 'shrink back']]",is a synonym of,summarize: shrink ? shrink back,4,0
+"[['off hand', '<extra_id_0>', 'offhand']]",is a form of,summarize: off hand ? offhand,5,0
+"[['bum calf', '<extra_id_0>', 'bummer']]",is a synonym of,summarize: bum calf ? bummer,8,0
+"[['excitability', '<extra_id_0>', 'emotionality']]",is a,summarize: excitability ? emotionality,6,0
+"[['tell story', '<extra_id_0>', 'narrating']]",has subevent,summarize: tell story ? narrating,5,0
+"[['nucleophylic', '<extra_id_0>', 'nucleophilic']]",is a form of,summarize: nucleophylic ? nucleophilic,8,0
+"[['children', '<extra_id_0>', 'horse around']]",is capable of,summarize: children ? horse around,4,0
+"[['braid', '<extra_id_0>', 'trimming']]",is a,summarize: braid ? trimming,4,0
+"[['top level', '<extra_id_0>', 'programming']]",has context,summarize: top level ? programming,5,0
+"[['narrater', '<extra_id_0>', 'narrator']]",is a form of,summarize: narrater ? narrator,7,0
+"[['just deserts', '<extra_id_0>', 'deserts']]",is a synonym of,summarize: just deserts ? deserts,6,0
+"[['ageing', '<extra_id_0>', 'aging']]",is a synonym of,summarize: ageing ? aging,5,0
+"[['egalitarianism', '<extra_id_0>', 'equality for everyone']]",causes,summarize: egalitarianism ? equality for everyone,7,0
+"[['bad news', '<extra_id_0>', 'jump out of window']]",causes desire,summarize: bad news ? jump out of window,5,0
+"[['thud', '<extra_id_0>', 'hit']]",is a manner of,summarize: thud ? hit,7,0
+"[['malawi', '<extra_id_0>', 'subsahara']]",is a part of,summarize: malawi ? subsahara,6,0
+"[['shaving', '<extra_id_0>', 'cut yourself']]",has subevent,summarize: shaving ? cut yourself,4,0
+"[['bed', '<extra_id_0>', 'chair']]",is an antonym of,summarize: bed ? chair,4,0
+"[['copyediting', '<extra_id_0>', 'copy editing']]",is a form of,summarize: copyediting ? copy editing,6,0
+"[['dionaea muscipula', '<extra_id_0>', ""venus's flytrap""]]",is a synonym of,summarize: dionaea muscipula ? venus's flytrap,13,0
+"[['humans', '<extra_id_0>', 'act']]",is capable of,summarize: humans ? act,4,0
+"[['bring happiness', '<extra_id_0>', 'have party']]",causes desire,summarize: bring happiness ? have party,5,0
+"[['magnesium sulphate', '<extra_id_0>', 'magnesium sulfate']]",is a form of,summarize: magnesium sulphate ? magnesium sulfate,8,0
+"[['unaccustomed', '<extra_id_0>', 'unaccustom']]",is a form of,summarize: unaccustomed ? unaccustom,5,0
+"[['sitcoms', '<extra_id_0>', 'television']]",is in,summarize: sitcoms ? television,6,0
+"[['play sports', '<extra_id_0>', 'get fit']]",is motivated by,summarize: play sports ? get fit,5,0
+"[['riding bicycle', '<extra_id_0>', 'legs']]",has prerequisite,summarize: riding bicycle ? legs,5,0
+"[['having party', '<extra_id_0>', 'entertaining']]",is used for,summarize: having party ? entertaining,5,0
+"[['deciduous', '<extra_id_0>', 'persistent']]",is an antonym of,summarize: deciduous ? persistent,6,0
+"[['cannonball', '<extra_id_0>', 'shoot']]",is used for,summarize: cannonball ? shoot,7,0
+"[['chicken', '<extra_id_0>', 'vegetable']]",is distinct from,summarize: chicken ? vegetable,4,0
+"[['reading news', '<extra_id_0>', 'pleasure']]",causes,summarize: reading news ? pleasure,5,0
+"[['outgoing personality', '<extra_id_0>', 'have party']]",causes desire,summarize: outgoing personality ? have party,6,0
+"[['vinyl', '<extra_id_0>', 'covering']]",is used for,summarize: vinyl ? covering,4,0
+"[['smoking', '<extra_id_0>', 'addiction']]",has prerequisite,summarize: smoking ? addiction,4,0
+"[['fell', '<extra_id_0>', 'stood up']]",is an antonym of,summarize: fell ? stood up,4,0
+"[['here', '<extra_id_0>', 'gone']]",is distinct from,summarize: here ? gone,4,0
+"[['ago', '<extra_id_0>', 'now']]",is distinct from,summarize: ago ? now,4,0
+"[['dogs', '<extra_id_0>', 'yelp']]",is capable of,summarize: dogs ? yelp,4,0
+"[['eating lunch', '<extra_id_0>', 'acid indigestion']]",causes,summarize: eating lunch ? acid indigestion,5,0
+"[['riding horse', '<extra_id_0>', 'bumpy']]",causes,summarize: riding horse ? bumpy,5,0
+"[['franger', '<extra_id_0>', 'slang']]",has context,summarize: franger ? slang,6,0
+"[['parentals', '<extra_id_0>', 'parental']]",is a form of,summarize: parentals ? parental,5,0
+"[['personalize', '<extra_id_0>', 'change']]",is a manner of,summarize: personalize ? change,5,0
+"[['howl with laughter', '<extra_id_0>', 'jiggle']]",has subevent,summarize: howl with laughter ? jiggle,7,0
+"[['hammer', '<extra_id_0>', 'bang on']]",is used for,summarize: hammer ? bang on,6,0
+"[['drinking alcohol', '<extra_id_0>', 'bad breath']]",causes,summarize: drinking alcohol ? bad breath,5,0
+"[['left wing', '<extra_id_0>', 'conservative']]",is an antonym of,summarize: left wing ? conservative,6,0
+"[['punishing', '<extra_id_0>', 'feel sad']]",has subevent,summarize: punishing ? feel sad,5,0
+"[['test pilot', '<extra_id_0>', 'pilot']]",is a,summarize: test pilot ? pilot,5,0
+"[['fatalism', '<extra_id_0>', 'indeterminism']]",is an antonym of,summarize: fatalism ? indeterminism,5,0
+"[['skiing', '<extra_id_0>', 'wipe out']]",has subevent,summarize: skiing ? wipe out,4,0
+"[['nope', '<extra_id_0>', 'yes']]",is distinct from,summarize: nope ? yes,5,0
+"[['nest', '<extra_id_0>', 'implant']]",is a manner of,summarize: nest ? implant,4,0
+"[['child', '<extra_id_0>', 'an']]",is distinct from,summarize: child ? an,4,0
+"[['children', '<extra_id_0>', 'wash dishes']]",is capable of,summarize: children ? wash dishes,4,0
+"[['dogs', '<extra_id_0>', 'mark trees']]",is capable of,summarize: dogs ? mark trees,4,0
+"[['article', '<extra_id_0>', 'derogatory']]",has context,summarize: article ? derogatory,4,0
+"[['teenagers', '<extra_id_0>', 'play lacrosse']]",is capable of,summarize: teenagers ? play lacrosse,5,0
+"[['poor vision', '<extra_id_0>', 'take examination']]",causes desire,summarize: poor vision ? take examination,5,0
+"[['wheat', '<extra_id_0>', 'food']]",is used for,summarize: wheat ? food,4,0
+"[['thwart', '<extra_id_0>', 'advance']]",is distinct from,summarize: thwart ? advance,7,0
+"[['read magazine', '<extra_id_0>', 'relax']]",has subevent,summarize: read magazine ? relax,5,0
+"[['lighthearted', '<extra_id_0>', 'perky']]",is a synonym of,summarize: lighthearted ? perky,5,0
+"[['phone calls', '<extra_id_0>', 'unwelcome']]",is,summarize: phone calls ? unwelcome,5,0
+"[['make people laugh', '<extra_id_0>', 'cheer up']]",is motivated by,summarize: make people laugh ? cheer up,6,0
+"[['wharf', '<extra_id_0>', 'open air']]",is a,summarize: wharf ? open air,6,0
+"[['pucker', '<extra_id_0>', 'gather']]",is a synonym of,summarize: pucker ? gather,5,0
+"[['swoop', '<extra_id_0>', 'move']]",is a manner of,summarize: swoop ? move,7,0
+"[['squelch', '<extra_id_0>', 'suppress']]",is a manner of,summarize: squelch ? suppress,7,0
+"[['doing exercises', '<extra_id_0>', 'unfitness']]",has prerequisite,summarize: doing exercises ? unfitness,5,0
+"[['pattern', '<extra_id_0>', 'practice']]",is a synonym of,summarize: pattern ? practice,4,0
+"[['prankster', '<extra_id_0>', 'short sheet']]",is capable of,summarize: prankster ? short sheet,7,0
+"[['driving', '<extra_id_0>', 'driving license']]",has prerequisite,summarize: driving ? driving license,4,0
+"[['tree', '<extra_id_0>', 'chase']]",is a manner of,summarize: tree ? chase,4,0
+"[['substitute', '<extra_id_0>', 'regular']]",is distinct from,summarize: substitute ? regular,4,0
+"[['space', '<extra_id_0>', 'silent']]",is,summarize: space ? silent,4,0
+"[['expressing information', '<extra_id_0>', 'teach']]",causes,summarize: expressing information ? teach,6,0
+"[['naval gun', '<extra_id_0>', 'warship']]",is a part of,summarize: naval gun ? warship,5,0
+"[['valhalla', '<extra_id_0>', 'heaven']]",is a,summarize: valhalla ? heaven,7,0
+"[['children', '<extra_id_0>', 'listen to music']]",is capable of,summarize: children ? listen to music,4,0
+"[['bullshit', '<extra_id_0>', 'meeting']]",is in,summarize: bullshit ? meeting,6,0
+"[['minister', '<extra_id_0>', 'marry']]",is used for,summarize: minister ? marry,4,0
+"[['fee', '<extra_id_0>', 'annual']]",is,summarize: fee ? annual,4,0
+"[['severe pain', '<extra_id_0>', 'die']]",causes desire,summarize: severe pain ? die,5,0
+"[['encompassing', '<extra_id_0>', 'encompass']]",is a form of,summarize: encompassing ? encompass,5,0
+"[['smooth', '<extra_id_0>', 'bumpy']]",is an antonym of,summarize: smooth ? bumpy,4,0
+"[['wedge', '<extra_id_0>', 'triangle']]",is a,summarize: wedge ? triangle,4,0
+"[['inaccurate', '<extra_id_0>', 'wrong']]",is a synonym of,summarize: inaccurate ? wrong,4,0
+"[['standing in line', '<extra_id_0>', 'order']]",causes,summarize: standing in line ? order,6,0
+"[['review', '<extra_id_0>', 'remember']]",is a manner of,summarize: review ? remember,4,0
+"[['tris', '<extra_id_0>', 'organic compound']]",has context,summarize: tris ? organic compound,5,0
+"[['politician', '<extra_id_0>', 'give speech']]",is capable of,summarize: politician ? give speech,4,0
+"[['snake', '<extra_id_0>', 'bracken']]",is in,summarize: snake ? bracken,4,0
+"[['black raspberry', '<extra_id_0>', 'whitebark raspberry']]",is a synonym of,summarize: black raspberry ? whitebark raspberry,5,0
+"[['doorway', '<extra_id_0>', 'room']]",is in,summarize: doorway ? room,5,0
+"[['standing in line', '<extra_id_0>', 'fidgeting']]",causes,summarize: standing in line ? fidgeting,6,0
+"[['steam', '<extra_id_0>', 'cold air']]",is an antonym of,summarize: steam ? cold air,4,0
+"[[""decide criminal's fate"", '<extra_id_0>', 'justice']]",is motivated by,summarize: decide criminal's fate ? justice,8,0
+"[['usurper', '<extra_id_0>', 'wrongdoer']]",is a,summarize: usurper ? wrongdoer,6,0
+"[['power', '<extra_id_0>', 'provide']]",is a manner of,summarize: power ? provide,4,0
+"[['distance', '<extra_id_0>', 'duration']]",is distinct from,summarize: distance ? duration,4,0
+"[['having bath', '<extra_id_0>', 'clean']]",causes,summarize: having bath ? clean,5,0
+"[['copulate', '<extra_id_0>', 'pleasure']]",has subevent,summarize: copulate ? pleasure,5,0
+"[['minister', '<extra_id_0>', 'work']]",is a manner of,summarize: minister ? work,4,0
+"[['person', '<extra_id_0>', 'leap']]",is capable of,summarize: person ? leap,4,0
+"[['drop serene', '<extra_id_0>', 'medicine']]",has context,summarize: drop serene ? medicine,5,0
+"[['following recipe', '<extra_id_0>', 'discipline']]",has prerequisite,summarize: following recipe ? discipline,5,0
+"[['read magazine', '<extra_id_0>', 'subscribe to']]",has prerequisite,summarize: read magazine ? subscribe to,5,0
+"[['teepee', '<extra_id_0>', 'tp']]",is a form of,summarize: teepee ? tp,9,0
+"[['want', '<extra_id_0>', 'plenteousness']]",is distinct from,summarize: want ? plenteousness,4,0
+"[['sale', '<extra_id_0>', 'go to mall']]",causes desire,summarize: sale ? go to mall,4,0
+"[['parent', '<extra_id_0>', 'homeschool']]",is capable of,summarize: parent ? homeschool,4,0
+"[['agree with', '<extra_id_0>', 'quiet']]",has prerequisite,summarize: agree with ? quiet,5,0
+"[['negotiating', '<extra_id_0>', 'dialogue']]",is a,summarize: negotiating ? dialogue,5,0
+"[['good book', '<extra_id_0>', 'go to film']]",causes desire,summarize: good book ? go to film,5,0
+"[['bag', '<extra_id_0>', 'goal']]",is capable of,summarize: bag ? goal,4,0
+"[['take examination', '<extra_id_0>', 'study']]",has subevent,summarize: take examination ? study,5,0
+"[['go outside for evening', '<extra_id_0>', 'invite']]",has prerequisite,summarize: go outside for evening ? invite,7,0
+"[['maintain muscle strength', '<extra_id_0>', 'contusion']]",has subevent,summarize: maintain muscle strength ? contusion,6,0
+"[['ply', '<extra_id_0>', 'join']]",is a manner of,summarize: ply ? join,6,0
+"[['false statement', '<extra_id_0>', 'communicate']]",causes desire,summarize: false statement ? communicate,5,0
+"[['sound', '<extra_id_0>', 'taste']]",is distinct from,summarize: sound ? taste,4,0
+"[['decomposable', '<extra_id_0>', 'undecomposable']]",is an antonym of,summarize: decomposable ? undecomposable,7,0
+"[['nix', '<extra_id_0>', 'confirm']]",is distinct from,summarize: nix ? confirm,6,0
+"[['dominoes', '<extra_id_0>', 'rectangular']]",is,summarize: dominoes ? rectangular,7,0
+"[['revolver', '<extra_id_0>', 'dangerous']]",is,summarize: revolver ? dangerous,5,0
+"[['wondering', '<extra_id_0>', 'remember']]",causes desire,summarize: wondering ? remember,4,0
+"[['dispraise', '<extra_id_0>', 'praise']]",is distinct from,summarize: dispraise ? praise,7,0
+"[['people', '<extra_id_0>', 'stay in']]",is capable of,summarize: people ? stay in,4,0
+"[['throne room', '<extra_id_0>', 'jocular']]",has context,summarize: throne room ? jocular,8,0
+"[['four letter word', '<extra_id_0>', 'bad']]",is,summarize: four letter word ? bad,6,0
+"[['automobile', '<extra_id_0>', 'travelling']]",is used for,summarize: automobile ? travelling,4,0
+"[['armchair', '<extra_id_0>', 'resting']]",is used for,summarize: armchair ? resting,5,0
+"[['kit', '<extra_id_0>', 'music']]",has context,summarize: kit ? music,4,0
+"[['tablespoon', '<extra_id_0>', 'stirring']]",is used for,summarize: tablespoon ? stirring,4,0
+"[['stars', '<extra_id_0>', 'eyes']]",is in,summarize: stars ? eyes,4,0
+"[['tickling', '<extra_id_0>', 'pain']]",causes,summarize: tickling ? pain,5,0
+"[['old lady', '<extra_id_0>', 'home']]",is in,summarize: old lady ? home,5,0
+"[['pygmy', '<extra_id_0>', 'ettin']]",is an antonym of,summarize: pygmy ? ettin,8,0
+"[['student', '<extra_id_0>', 'ask question']]",is capable of,summarize: student ? ask question,4,0
+"[['sagaciousness', '<extra_id_0>', 'judiciousness']]",is a synonym of,summarize: sagaciousness ? judiciousness,9,0
+"[['theory', '<extra_id_0>', 'concrete']]",is distinct from,summarize: theory ? concrete,4,0
+"[['distasteful', '<extra_id_0>', 'pleasant']]",is an antonym of,summarize: distasteful ? pleasant,7,0
+"[['geography', '<extra_id_0>', 'boring']]",is,summarize: geography ? boring,4,0
+"[['having fun', '<extra_id_0>', 'euphoria']]",causes,summarize: having fun ? euphoria,5,0
+"[['kindred', '<extra_id_0>', 'garth']]",is a synonym of,summarize: kindred ? garth,5,0
+"[['check', '<extra_id_0>', 'attack']]",is a manner of,summarize: check ? attack,4,0
+"[['division', '<extra_id_0>', 'together']]",is an antonym of,summarize: division ? together,4,0
+"[['taxis', '<extra_id_0>', 'taxi']]",is a form of,summarize: taxis ? taxi,5,0
+"[['newspaper', '<extra_id_0>', 'motivate']]",is capable of,summarize: newspaper ? motivate,4,0
+"[['public transportation', '<extra_id_0>', 'go to zoo']]",is used for,summarize: public transportation ? go to zoo,5,0
+"[['chimney', '<extra_id_0>', 'lamp chimney']]",is a synonym of,summarize: chimney ? lamp chimney,4,0
+"[['untraditional', '<extra_id_0>', 'nontraditional']]",is a synonym of,summarize: untraditional ? nontraditional,5,0
+"[['exalted', '<extra_id_0>', 'exalt']]",is a form of,summarize: exalted ? exalt,6,0
+"[['go for drive', '<extra_id_0>', 'relax']]",is motivated by,summarize: go for drive ? relax,6,0
+"[['changing appearance', '<extra_id_0>', 'criminals']]",is used for,summarize: changing appearance ? criminals,5,0
+"[['jumping up and down', '<extra_id_0>', 'cheerleaders']]",is used for,summarize: jumping up and down ? cheerleaders,7,0
+"[['small dog', '<extra_id_0>', 'chinese restaurant']]",is in,summarize: small dog ? chinese restaurant,5,0
+"[['linesman', '<extra_id_0>', 'electrician']]",is a synonym of,summarize: linesman ? electrician,5,0
+"[['hit on', '<extra_id_0>', 'slang']]",has context,summarize: hit on ? slang,5,0
+"[['pens', '<extra_id_0>', 'small']]",is,summarize: pens ? small,5,0
+"[['bullet time', '<extra_id_0>', 'film']]",has context,summarize: bullet time ? film,5,0
+"[['neo', '<extra_id_0>', 'international auxiliary language']]",is a part of,summarize: neo ? international auxiliary language,7,0
+"[['visiting museum', '<extra_id_0>', 'amazement']]",causes,summarize: visiting museum ? amazement,5,0
+"[['bike', '<extra_id_0>', 'stationary']]",is,summarize: bike ? stationary,4,0
+"[['grow', '<extra_id_0>', 'diminish']]",is an antonym of,summarize: grow ? diminish,4,0
+"[['bathing', '<extra_id_0>', 'reading book']]",is used for,summarize: bathing ? reading book,5,0
+"[['grade', '<extra_id_0>', 'measure']]",is a manner of,summarize: grade ? measure,4,0
+"[['smoking', '<extra_id_0>', 'relaxation']]",is used for,summarize: smoking ? relaxation,4,0
+"[['see favorite show', '<extra_id_0>', 'entertains']]",is motivated by,summarize: see favorite show ? entertains,6,0
+"[['design software', '<extra_id_0>', 'money']]",is motivated by,summarize: design software ? money,5,0
+"[['contemplate', '<extra_id_0>', 'headache']]",has subevent,summarize: contemplate ? headache,5,0
+"[['playing cards', '<extra_id_0>', 'play games']]",is used for,summarize: playing cards ? play games,5,0
+"[['coach', '<extra_id_0>', 'soccer game']]",is in,summarize: coach ? soccer game,4,0
+"[['angry person', '<extra_id_0>', 'walk away']]",is capable of,summarize: angry person ? walk away,5,0
+"[['shellac', '<extra_id_0>', 'coloured']]",is,summarize: shellac ? coloured,6,0
+"[['resume', '<extra_id_0>', 'assume']]",is a manner of,summarize: resume ? assume,4,0
+"[['war', '<extra_id_0>', 'wasteful']]",is,summarize: war ? wasteful,4,0
+"[['skating', '<extra_id_0>', 'slip']]",has subevent,summarize: skating ? slip,4,0
+"[['press', '<extra_id_0>', 'be']]",is a manner of,summarize: press ? be,4,0
+"[['change by reversal', '<extra_id_0>', 'change']]",is a manner of,summarize: change by reversal ? change,9,0
+"[['over', '<extra_id_0>', 'starting']]",is distinct from,summarize: over ? starting,4,0
+"[['slips', '<extra_id_0>', 'slip']]",is a form of,summarize: slips ? slip,5,0
+"[['driving car', '<extra_id_0>', 'skidding']]",has subevent,summarize: driving car ? skidding,5,0
+"[['condemnation', '<extra_id_0>', 'conviction']]",is a synonym of,summarize: condemnation ? conviction,5,0
+"[['pride', '<extra_id_0>', 'win baseball game']]",causes desire,summarize: pride ? win baseball game,4,0
+"[['odd', '<extra_id_0>', 'normal']]",is an antonym of,summarize: odd ? normal,4,0
+"[['parking area', '<extra_id_0>', 'ugly']]",is,summarize: parking area ? ugly,5,0
+"[['illustrating point', '<extra_id_0>', 'pen']]",has prerequisite,summarize: illustrating point ? pen,6,0
+"[['health', '<extra_id_0>', 'fat']]",is an antonym of,summarize: health ? fat,4,0
+"[['ballade', '<extra_id_0>', 'music']]",has context,summarize: ballade ? music,6,0
+"[['gas', '<extra_id_0>', 'fluidness']]",is distinct from,summarize: gas ? fluidness,4,0
+"[['communicator', '<extra_id_0>', 'science fiction']]",has context,summarize: communicator ? science fiction,6,0
+"[['going out', '<extra_id_0>', 'happiness']]",causes,summarize: going out ? happiness,5,0
+"[['coastline', '<extra_id_0>', 'salty odor']]",is a,summarize: coastline ? salty odor,4,0
+"[['go to movie', '<extra_id_0>', 'watch']]",is motivated by,summarize: go to movie ? watch,6,0
+"[['palikir', '<extra_id_0>', 'pohnpei']]",is a part of,summarize: palikir ? pohnpei,6,0
+"[['ticket booth', '<extra_id_0>', 'fairgrounds']]",is in,summarize: ticket booth ? fairgrounds,5,0
+"[['acknowledge', '<extra_id_0>', 'thank']]",is a manner of,summarize: acknowledge ? thank,4,0
+"[['learning about world', '<extra_id_0>', 'ears']]",has prerequisite,summarize: learning about world ? ears,6,0
+"[['united states marine corps', '<extra_id_0>', 'united states navy']]",is a part of,summarize: united states marine corps ? united states navy,7,0
+"[['fountains', '<extra_id_0>', 'man made']]",is,summarize: fountains ? man made,5,0
+"[['pillbox', '<extra_id_0>', 'gun emplacement']]",is a,summarize: pillbox ? gun emplacement,5,0
+"[['impoverish', '<extra_id_0>', 'ruin']]",is a synonym of,summarize: impoverish ? ruin,6,0
+"[['hundreds and thousands', '<extra_id_0>', 'nonpareil']]",is a synonym of,summarize: hundreds and thousands ? nonpareil,6,0
+"[['play game of chess', '<extra_id_0>', 'competitive']]",is motivated by,summarize: play game of chess ? competitive,9,0
+"[['cd', '<extra_id_0>', 'opaque']]",is,summarize: cd ? opaque,6,0
+"[['empire state building', '<extra_id_0>', 'tall']]",is,summarize: empire state building ? tall,6,0
+"[['grocery stores', '<extra_id_0>', 'grocery store']]",is a form of,summarize: grocery stores ? grocery store,5,0
+"[['comfort', '<extra_id_0>', 'uneasy']]",is an antonym of,summarize: comfort ? uneasy,4,0
+"[['hippocrates', '<extra_id_0>', 'famous']]",is,summarize: hippocrates ? famous,7,0
+"[['patriotism', '<extra_id_0>', 'passe']]",is,summarize: patriotism ? passe,7,0
+"[['refulgent', '<extra_id_0>', 'dim']]",is distinct from,summarize: refulgent ? dim,6,0
+"[['go to movie', '<extra_id_0>', 'popcorn']]",is motivated by,summarize: go to movie ? popcorn,6,0
+"[['lightbulb', '<extra_id_0>', 'bright']]",is,summarize: lightbulb ? bright,6,0
+"[['grow vegetables', '<extra_id_0>', 'pride']]",has subevent,summarize: grow vegetables ? pride,5,0
+"[['correct information', '<extra_id_0>', 'agree with']]",causes desire,summarize: correct information ? agree with,5,0
+"[['people', '<extra_id_0>', 'tell truth']]",is capable of,summarize: people ? tell truth,4,0
+"[['ugly', '<extra_id_0>', 'handsome']]",is distinct from,summarize: ugly ? handsome,4,0
+"[['songs', '<extra_id_0>', 'classical music']]",is a,summarize: songs ? classical music,4,0
+"[['swallow', '<extra_id_0>', 'regurgitate']]",is an antonym of,summarize: swallow ? regurgitate,4,0
+"[['alto', '<extra_id_0>', 'singing']]",is used for,summarize: alto ? singing,5,0
+"[['creek', '<extra_id_0>', 'woods']]",is in,summarize: creek ? woods,4,0
+"[['malevolently', '<extra_id_0>', 'benevolently']]",is an antonym of,summarize: malevolently ? benevolently,7,0
+"[['elephants', '<extra_id_0>', 'big']]",is,summarize: elephants ? big,5,0
+"[['production line', '<extra_id_0>', 'produce']]",is used for,summarize: production line ? produce,5,0
+"[['mounting', '<extra_id_0>', 'framework']]",is a,summarize: mounting ? framework,4,0
+"[['cut out', '<extra_id_0>', 'us']]",has context,summarize: cut out ? us,5,0
+"[['proscenium', '<extra_id_0>', 'theater stage']]",is a part of,summarize: proscenium ? theater stage,6,0
+"[['luggage', '<extra_id_0>', 'airplane']]",is in,summarize: luggage ? airplane,4,0
+"[['pyromaniac', '<extra_id_0>', 'light match']]",is capable of,summarize: pyromaniac ? light match,8,0
+"[['compression', '<extra_id_0>', 'decompression']]",is an antonym of,summarize: compression ? decompression,4,0
+"[['fear', '<extra_id_0>', 'safety']]",is an antonym of,summarize: fear ? safety,4,0
+"[['writing letter', '<extra_id_0>', 'action']]",causes,summarize: writing letter ? action,5,0
+"[['scream', '<extra_id_0>', 'whisper']]",is an antonym of,summarize: scream ? whisper,6,0
+"[['vacation', '<extra_id_0>', 'have fun']]",causes desire,summarize: vacation ? have fun,4,0
+"[['bleed', '<extra_id_0>', 'sound recording']]",has context,summarize: bleed ? sound recording,5,0
+"[['new job', '<extra_id_0>', 'wake up in morning']]",causes desire,summarize: new job ? wake up in morning,5,0
+"[['committing suicide', '<extra_id_0>', 'foolishness']]",has prerequisite,summarize: committing suicide ? foolishness,6,0
+"[['mercury', '<extra_id_0>', 'astronomy']]",has context,summarize: mercury ? astronomy,4,0
+"[['darkest', '<extra_id_0>', 'dark']]",is a form of,summarize: darkest ? dark,5,0
+"[['liter', '<extra_id_0>', 'quart']]",is distinct from,summarize: liter ? quart,5,0
+"[['building', '<extra_id_0>', 'cast shadow']]",is capable of,summarize: building ? cast shadow,4,0
+"[['doctor office', '<extra_id_0>', 'medical center']]",is in,summarize: doctor office ? medical center,5,0
+"[['wait turn', '<extra_id_0>', 'getting bored']]",has subevent,summarize: wait turn ? getting bored,5,0
+"[['unbent', '<extra_id_0>', 'unbend']]",is a form of,summarize: unbent ? unbend,6,0
+"[['bank machine', '<extra_id_0>', 'abm']]",is a synonym of,summarize: bank machine ? abm,5,0
+"[['drinking alcohol', '<extra_id_0>', 'disorientation']]",causes,summarize: drinking alcohol ? disorientation,5,0
+"[['take course', '<extra_id_0>', 'write']]",has subevent,summarize: take course ? write,5,0
+"[['diaphragm', '<extra_id_0>', 'human body']]",is a part of,summarize: diaphragm ? human body,8,0
+"[['musical notation', '<extra_id_0>', 'score']]",is a part of,summarize: musical notation ? score,6,0
+"[['replaceability', '<extra_id_0>', 'exchangeability']]",is a,summarize: replaceability ? exchangeability,5,0
+"[['misname', '<extra_id_0>', 'call']]",is a manner of,summarize: misname ? call,5,0
+"[['driving', '<extra_id_0>', 'tension headache']]",causes,summarize: driving ? tension headache,4,0
+"[['abandonware', '<extra_id_0>', 'computing']]",has context,summarize: abandonware ? computing,5,0
+"[['fawn', '<extra_id_0>', 'flatter']]",is a manner of,summarize: fawn ? flatter,8,0
+"[['descant', '<extra_id_0>', 'accompaniment']]",is a,summarize: descant ? accompaniment,6,0
+"[['cork board', '<extra_id_0>', 'non powered device']]",is a,summarize: cork board ? non powered device,6,0
+"[['spm', '<extra_id_0>', 'microscope']]",is a,summarize: spm ? microscope,6,0
+"[['watching movie', '<extra_id_0>', 'movie theatre']]",has prerequisite,summarize: watching movie ? movie theatre,5,0
+"[['approbate', '<extra_id_0>', 'authorize']]",is a manner of,summarize: approbate ? authorize,6,0
+"[['playing guitar', '<extra_id_0>', 'talent']]",has prerequisite,summarize: playing guitar ? talent,5,0
+"[['forgiving', '<extra_id_0>', 'make up']]",causes,summarize: forgiving ? make up,5,0
+"[['worship god', '<extra_id_0>', 'singing']]",has subevent,summarize: worship god ? singing,5,0
+"[['curiosity', '<extra_id_0>', 'read']]",causes desire,summarize: curiosity ? read,4,0
+"[['sheet of paper', '<extra_id_0>', 'thin']]",is,summarize: sheet of paper ? thin,6,0
+"[['theater', '<extra_id_0>', 'shopping mall']]",is in,summarize: theater ? shopping mall,4,0
+"[['serve justice', '<extra_id_0>', 'explain']]",has subevent,summarize: serve justice ? explain,5,0
+"[['rescue', '<extra_id_0>', 'abandon']]",is an antonym of,summarize: rescue ? abandon,4,0
+"[['jumping rope', '<extra_id_0>', 'rope']]",has prerequisite,summarize: jumping rope ? rope,5,0
+"[['save', '<extra_id_0>', 'spend']]",is a manner of,summarize: save ? spend,4,0
+"[['kildare', '<extra_id_0>', 'leinster']]",is a part of,summarize: kildare ? leinster,8,0
+"[['nice weather', '<extra_id_0>', 'go outside for evening']]",causes desire,summarize: nice weather ? go outside for evening,5,0
+"[['loin', '<extra_id_0>', 'homo']]",is a part of,summarize: loin ? homo,4,0
+"[['transactions', '<extra_id_0>', 'transaction']]",is a form of,summarize: transactions ? transaction,4,0
+"[['polynucleotide', '<extra_id_0>', 'biochemistry']]",has context,summarize: polynucleotide ? biochemistry,10,0
+"[['writing story', '<extra_id_0>', 'beginning']]",has prerequisite,summarize: writing story ? beginning,5,0
+"[['cops', '<extra_id_0>', 'jump']]",is capable of,summarize: cops ? jump,5,0
+"[['grapefruit', '<extra_id_0>', 'lime']]",is distinct from,summarize: grapefruit ? lime,5,0
+"[['answer questions', '<extra_id_0>', 'winning']]",has subevent,summarize: answer questions ? winning,5,0
+"[['thinking', '<extra_id_0>', 'understanding']]",is used for,summarize: thinking ? understanding,4,0
+"[['lighting match', '<extra_id_0>', 'matchbox']]",has prerequisite,summarize: lighting match ? matchbox,5,0
+"[['gain more land', '<extra_id_0>', 'fight']]",is motivated by,summarize: gain more land ? fight,6,0
+"[['beadle', '<extra_id_0>', 'united kingdom']]",has context,summarize: beadle ? united kingdom,7,0
+"[['ill humoured', '<extra_id_0>', 'curmudgeonly']]",is a synonym of,summarize: ill humoured ? curmudgeonly,9,0
+"[['offset', '<extra_id_0>', 'surveying']]",has context,summarize: offset ? surveying,4,0
+"[['sink', '<extra_id_0>', 'laboratory']]",is in,summarize: sink ? laboratory,4,0
+"[['being poor', '<extra_id_0>', 'get money from']]",causes desire,summarize: being poor ? get money from,5,0
+"[['bass fiddle', '<extra_id_0>', 'harmonizing']]",is used for,summarize: bass fiddle ? harmonizing,6,0
+"[['national assembly', '<extra_id_0>', 'azerbaijan']]",is in,summarize: national assembly ? azerbaijan,5,0
+"[['drinking alcohol', '<extra_id_0>', 'money']]",has prerequisite,summarize: drinking alcohol ? money,5,0
+"[['corridor', '<extra_id_0>', 'historical']]",has context,summarize: corridor ? historical,4,0
+"[['learning', '<extra_id_0>', 'distress']]",causes,summarize: learning ? distress,4,0
+"[['kids', '<extra_id_0>', 'wet bed']]",is capable of,summarize: kids ? wet bed,4,0
+"[['television', '<extra_id_0>', 'obsolete']]",is,summarize: television ? obsolete,4,0
+"[['cirro', '<extra_id_0>', 'meteorology']]",has context,summarize: cirro ? meteorology,7,0
+"[['waiting in line', '<extra_id_0>', 'waiting turn']]",is used for,summarize: waiting in line ? waiting turn,6,0
+"[['islamic holy day', '<extra_id_0>', 'religious holiday']]",is a,summarize: islamic holy day ? religious holiday,8,0
+"[['socket', '<extra_id_0>', 'box wrench']]",is a part of,summarize: socket ? box wrench,4,0
+"[['taking drugs', '<extra_id_0>', 'happiness']]",causes,summarize: taking drugs ? happiness,5,0
+"[['animals', '<extra_id_0>', 'attack']]",is capable of,summarize: animals ? attack,4,0
+"[['synchronous', '<extra_id_0>', 'blocking']]",is a synonym of,summarize: synchronous ? blocking,5,0
+"[['easter', '<extra_id_0>', 'give gift']]",causes desire,summarize: easter ? give gift,5,0
+"[['mathematical function', '<extra_id_0>', 'mapping']]",is a synonym of,summarize: mathematical function ? mapping,5,0
+"[['people', '<extra_id_0>', 'lose touch']]",is capable of,summarize: people ? lose touch,4,0
+"[['mouthpiece', '<extra_id_0>', 'acoustic device']]",is a,summarize: mouthpiece ? acoustic device,5,0
+"[['stopping car', '<extra_id_0>', 'skid marks']]",causes,summarize: stopping car ? skid marks,5,0
+"[['terminal', '<extra_id_0>', 'transportation system']]",is a part of,summarize: terminal ? transportation system,4,0
+"[['socialize', '<extra_id_0>', 'entertainment']]",is motivated by,summarize: socialize ? entertainment,5,0
+"[['eat vegetables', '<extra_id_0>', 'grow']]",has prerequisite,summarize: eat vegetables ? grow,6,0
+"[['meeting people', '<extra_id_0>', 'talk']]",has subevent,summarize: meeting people ? talk,5,0
+"[['hear music', '<extra_id_0>', 'smile']]",is motivated by,summarize: hear music ? smile,5,0
+"[['paste', '<extra_id_0>', 'food']]",is distinct from,summarize: paste ? food,4,0
+"[['swim', '<extra_id_0>', 'be']]",is a manner of,summarize: swim ? be,4,0
+"[['edging', '<extra_id_0>', 'fabric']]",is a part of,summarize: edging ? fabric,6,0
+"[['antagonist', '<extra_id_0>', 'antagonistic muscle']]",is a,summarize: antagonist ? antagonistic muscle,4,0
+"[['writer', '<extra_id_0>', 'write book']]",is used for,summarize: writer ? write book,4,0
+"[['children', '<extra_id_0>', 'play lacrosse']]",is capable of,summarize: children ? play lacrosse,4,0
+"[['destroy enemy', '<extra_id_0>', 'mean']]",is motivated by,summarize: destroy enemy ? mean,5,0
+"[['greed', '<extra_id_0>', 'advance into battle']]",causes desire,summarize: greed ? advance into battle,4,0
+"[['kitten', '<extra_id_0>', 'apartment']]",is in,summarize: kitten ? apartment,4,0
+"[['branch', '<extra_id_0>', 'center']]",is an antonym of,summarize: branch ? center,4,0
+"[['encourage', '<extra_id_0>', 'hope']]",causes,summarize: encourage ? hope,4,0
+"[['using computer', '<extra_id_0>', 'listen to music']]",has subevent,summarize: using computer ? listen to music,5,0
+"[['shmup', '<extra_id_0>', 'slang']]",has context,summarize: shmup ? slang,6,0
+"[['birds', '<extra_id_0>', 'molt']]",is capable of,summarize: birds ? molt,4,0
+"[['alley', '<extra_id_0>', 'garages']]",is used for,summarize: alley ? garages,5,0
+"[['myofibril', '<extra_id_0>', 'striated muscle cell']]",is a part of,summarize: myofibril ? striated muscle cell,8,0
+"[['villain', '<extra_id_0>', 'nobleman']]",is distinct from,summarize: villain ? nobleman,4,0
+"[['director', '<extra_id_0>', 'corporate leader']]",is a,summarize: director ? corporate leader,4,0
+"[['lay', '<extra_id_0>', 'standing']]",is distinct from,summarize: lay ? standing,4,0
+"[['nazareth', '<extra_id_0>', 'asunción']]",is a part of,summarize: nazareth ? asunción,6,0
+"[['mickey mouse', '<extra_id_0>', 'shoddy']]",is a synonym of,summarize: mickey mouse ? shoddy,6,0
+"[['cart', '<extra_id_0>', 'box']]",is a,summarize: cart ? box,4,0
+"[['hot season', '<extra_id_0>', 'go somewhere']]",causes desire,summarize: hot season ? go somewhere,5,0
+"[['distributor', '<extra_id_0>', 'ignition']]",is a part of,summarize: distributor ? ignition,4,0
+"[['kitchen knife', '<extra_id_0>', 'drawer']]",is in,summarize: kitchen knife ? drawer,5,0
+"[['brain', '<extra_id_0>', 'hit']]",is a manner of,summarize: brain ? hit,4,0
+"[['eat ice cream', '<extra_id_0>', 'cool off']]",is motivated by,summarize: eat ice cream ? cool off,8,0
+"[['cold bedroom', '<extra_id_0>', 'stay in bed']]",causes desire,summarize: cold bedroom ? stay in bed,5,0
+"[['winning game', '<extra_id_0>', 'celebrate']]",causes desire,summarize: winning game ? celebrate,5,0
+"[['hover', '<extra_id_0>', 'fly']]",is a manner of,summarize: hover ? fly,4,0
+"[['insanity', '<extra_id_0>', 'run in marathon']]",causes desire,summarize: insanity ? run in marathon,7,0
+"[['tiger salamander', '<extra_id_0>', 'amphibian']]",is a,summarize: tiger salamander ? amphibian,9,0
+"[['good weather', '<extra_id_0>', 'travel']]",causes desire,summarize: good weather ? travel,5,0
+"[['ink', '<extra_id_0>', 'dyeing']]",is used for,summarize: ink ? dyeing,5,0
+"[['squamous', '<extra_id_0>', 'anatomy']]",has context,summarize: squamous ? anatomy,8,0
+"[['facial tissue', '<extra_id_0>', 'personal hygiene product']]",is a,summarize: facial tissue ? personal hygiene product,5,0
+"[['see people play game', '<extra_id_0>', 'do']]",is motivated by,summarize: see people play game ? do,7,0
+"[['polyandry', '<extra_id_0>', 'monogamy']]",is an antonym of,summarize: polyandry ? monogamy,6,0
+"[['person', '<extra_id_0>', 'even score']]",is capable of,summarize: person ? even score,4,0
+"[['sex', '<extra_id_0>', 'sect']]",is a form of,summarize: sex ? sect,6,0
+"[['tire', '<extra_id_0>', 'bus depot']]",is in,summarize: tire ? bus depot,4,0
+"[['driveway', '<extra_id_0>', 'truck']]",is used for,summarize: driveway ? truck,4,0
+"[['bills', '<extra_id_0>', 'mailbags']]",is in,summarize: bills ? mailbags,4,0
+"[['zebra mussel', '<extra_id_0>', 'mollusca']]",is a,summarize: zebra mussel ? mollusca,9,0
+"[['affirmation', '<extra_id_0>', 'law']]",has context,summarize: affirmation ? law,5,0
+"[['post message', '<extra_id_0>', 'write down']]",has prerequisite,summarize: post message ? write down,5,0
+"[['cut', '<extra_id_0>', 'hit']]",is a manner of,summarize: cut ? hit,4,0
+"[['row house', '<extra_id_0>', 'town']]",is in,summarize: row house ? town,5,0
+"[['being curious', '<extra_id_0>', 'read newspaper']]",causes desire,summarize: being curious ? read newspaper,5,0
+"[['going somewhere', '<extra_id_0>', 'movement from one place to another']]",causes,summarize: going somewhere ? movement from one place to another,5,0
+"[['arvanitika', '<extra_id_0>', 'andros']]",is in,summarize: arvanitika ? andros,7,0
+"[['play piano', '<extra_id_0>', 'make mistake']]",has subevent,summarize: play piano ? make mistake,5,0
+"[['chalk up', '<extra_id_0>', 'tally']]",is a synonym of,summarize: chalk up ? tally,5,0
+"[['helping', '<extra_id_0>', 'thank']]",has subevent,summarize: helping ? thank,4,0
+"[['shark', '<extra_id_0>', 'expert']]",is a,summarize: shark ? expert,4,0
+"[['reading newspaper', '<extra_id_0>', 'learn']]",has subevent,summarize: reading newspaper ? learn,5,0
+"[['parlor', '<extra_id_0>', 'play games']]",is used for,summarize: parlor ? play games,5,0
+"[['person', '<extra_id_0>', 'upstairs']]",is,summarize: person ? upstairs,4,0
+"[['year', '<extra_id_0>', 'second']]",is distinct from,summarize: year ? second,4,0
+"[['hexed', '<extra_id_0>', 'hex']]",is a form of,summarize: hexed ? hex,7,0
+"[['uncle sam', '<extra_id_0>', 'join army']]",causes desire,summarize: uncle sam ? join army,7,0
+"[['get divorce', '<extra_id_0>', 'bitch']]",has prerequisite,summarize: get divorce ? bitch,5,0
+"[['taking exam', '<extra_id_0>', 'getting job']]",causes,summarize: taking exam ? getting job,5,0
+"[['unappetizingly', '<extra_id_0>', 'appetizingly']]",is an antonym of,summarize: unappetizingly ? appetizingly,9,0
+"[['grocery shop', '<extra_id_0>', 'shop']]",has subevent,summarize: grocery shop ? shop,5,0
+"[['traveling', '<extra_id_0>', 'disorientation']]",causes,summarize: traveling ? disorientation,4,0
+"[['kissing', '<extra_id_0>', 'reminding']]",is used for,summarize: kissing ? reminding,5,0
+"[['using computer', '<extra_id_0>', 'headache']]",causes,summarize: using computer ? headache,5,0
+"[['dunhuang', '<extra_id_0>', 'gansu']]",is a part of,summarize: dunhuang ? gansu,8,0
+"[['experienced', '<extra_id_0>', 'inexperienced']]",is an antonym of,summarize: experienced ? inexperienced,4,0
+"[['token', '<extra_id_0>', 'coin collection']]",is in,summarize: token ? coin collection,4,0
+"[['multimedia software', '<extra_id_0>', 'audio program']]",is a,summarize: multimedia software ? audio program,5,0
+"[['cousin', '<extra_id_0>', 'female']]",is,summarize: cousin ? female,4,0
+"[['bug', '<extra_id_0>', 'fool']]",is a synonym of,summarize: bug ? fool,4,0
+"[['weakness', '<extra_id_0>', 'vitality']]",is distinct from,summarize: weakness ? vitality,4,0
+"[['bury', '<extra_id_0>', 'up']]",is an antonym of,summarize: bury ? up,5,0
+"[['good time', '<extra_id_0>', 'hedonistic']]",is a synonym of,summarize: good time ? hedonistic,5,0
+"[['wait for', '<extra_id_0>', 'fall asleep']]",has subevent,summarize: wait for ? fall asleep,5,0
+"[['conn', '<extra_id_0>', 'steer']]",is a manner of,summarize: conn ? steer,5,0
+"[['set back', '<extra_id_0>', 'impede']]",is a manner of,summarize: set back ? impede,5,0
+"[['pulp', '<extra_id_0>', 'fiction']]",has context,summarize: pulp ? fiction,4,0
+"[['read book', '<extra_id_0>', 'know']]",is motivated by,summarize: read book ? know,5,0
+"[['arrogant', '<extra_id_0>', 'servile']]",is an antonym of,summarize: arrogant ? servile,6,0
+"[['cheating', '<extra_id_0>', 'stop being married to']]",causes desire,summarize: cheating ? stop being married to,5,0
+"[['gui', '<extra_id_0>', 'cui']]",is an antonym of,summarize: gui ? cui,5,0
+"[['truck driver', '<extra_id_0>', 'truckie']]",is a synonym of,summarize: truck driver ? truckie,5,0
+"[['south tarawa', '<extra_id_0>', 'pacific ocean']]",is in,summarize: south tarawa ? pacific ocean,7,0
+"[['child', '<extra_id_0>', 'walk dog']]",is capable of,summarize: child ? walk dog,4,0
+"[['jump rope', '<extra_id_0>', 'fun']]",is motivated by,summarize: jump rope ? fun,5,0
+"[['wagons', '<extra_id_0>', 'wagon']]",is a form of,summarize: wagons ? wagon,5,0
+"[['change society', '<extra_id_0>', 'to']]",is motivated by,summarize: change society ? to,5,0
+"[['seeing movie', '<extra_id_0>', 'losers']]",is used for,summarize: seeing movie ? losers,5,0
+"[['cannister', '<extra_id_0>', 'canister']]",is a synonym of,summarize: cannister ? canister,6,0
+"[['elongate', '<extra_id_0>', 'lengthen']]",is a manner of,summarize: elongate ? lengthen,7,0
+"[['approximate', '<extra_id_0>', 'resemble']]",is a manner of,summarize: approximate ? resemble,4,0
+"[['play game of chess', '<extra_id_0>', 'smart']]",is motivated by,summarize: play game of chess ? smart,9,0
+"[['lousy', '<extra_id_0>', 'filthy']]",is a synonym of,summarize: lousy ? filthy,6,0
+"[['proving yourself', '<extra_id_0>', 'run in marathon']]",causes desire,summarize: proving yourself ? run in marathon,6,0
+"[['understand better', '<extra_id_0>', 'examine']]",is motivated by,summarize: understand better ? examine,5,0
+"[['destroyer', '<extra_id_0>', 'build']]",is an antonym of,summarize: destroyer ? build,5,0
+"[['new', '<extra_id_0>', 'dated']]",is an antonym of,summarize: new ? dated,4,0
+"[['revolution', '<extra_id_0>', 'fun']]",is,summarize: revolution ? fun,4,0
+"[['upper canada', '<extra_id_0>', 'historical']]",has context,summarize: upper canada ? historical,5,0
+"[['boredom', '<extra_id_0>', 'play lacrosse']]",causes desire,summarize: boredom ? play lacrosse,5,0
+"[['prehensile tailed porcupine', '<extra_id_0>', 'porcupine']]",is a,summarize: prehensile tailed porcupine ? porcupine,12,0
+"[['better', '<extra_id_0>', 'worst']]",is an antonym of,summarize: better ? worst,4,0
+"[['anaphylaxis', '<extra_id_0>', 'disease']]",is a,summarize: anaphylaxis ? disease,9,0
+"[['eat ice cream', '<extra_id_0>', 'have fun']]",has subevent,summarize: eat ice cream ? have fun,8,0
+"[['blowfish', '<extra_id_0>', 'salt water']]",is in,summarize: blowfish ? salt water,5,0
+"[['medical doctor', '<extra_id_0>', 'diagnose']]",is capable of,summarize: medical doctor ? diagnose,5,0
+"[['washing clothes', '<extra_id_0>', 'wrinkles']]",causes,summarize: washing clothes ? wrinkles,5,0
+"[['failure', '<extra_id_0>', 'commit suicide']]",causes desire,summarize: failure ? commit suicide,4,0
+"[['poison', '<extra_id_0>', 'healthy']]",is distinct from,summarize: poison ? healthy,4,0
+"[['coo', '<extra_id_0>', 'business person']]",is a,summarize: coo ? business person,5,0
+"[['making friends', '<extra_id_0>', 'fun']]",is,summarize: making friends ? fun,5,0
+"[['entertain', '<extra_id_0>', 'cook meal']]",has prerequisite,summarize: entertain ? cook meal,4,0
+"[['duel', '<extra_id_0>', 'solo']]",is an antonym of,summarize: duel ? solo,5,0
+"[['axil', '<extra_id_0>', 'botany']]",has context,summarize: axil ? botany,6,0
+"[['peaches', '<extra_id_0>', 'fuzzy']]",is,summarize: peaches ? fuzzy,5,0
+"[['tighten', '<extra_id_0>', 'change']]",is a manner of,summarize: tighten ? change,5,0
+"[['buzz cut', '<extra_id_0>', 'buzzcut']]",is a form of,summarize: buzz cut ? buzzcut,5,0
+"[['equality for everyone', '<extra_id_0>', 'america']]",is in,summarize: equality for everyone ? america,6,0
+"[['reproduce', '<extra_id_0>', 'socialize']]",has prerequisite,summarize: reproduce ? socialize,4,0
+"[['mouth', '<extra_id_0>', 'eyes']]",is an antonym of,summarize: mouth ? eyes,4,0
+"[['stepped on', '<extra_id_0>', 'step on']]",is a form of,summarize: stepped on ? step on,6,0
+"[['finger ring', '<extra_id_0>', 'toe ring']]",is an antonym of,summarize: finger ring ? toe ring,6,0
+"[['egotist', '<extra_id_0>', 'fish for compliments']]",is capable of,summarize: egotist ? fish for compliments,7,0
+"[['make patchwork quilt', '<extra_id_0>', 'stitch']]",has subevent,summarize: make patchwork quilt ? stitch,7,0
+"[['lass', '<extra_id_0>', 'boyo']]",is distinct from,summarize: lass ? boyo,5,0
+"[['entertaining', '<extra_id_0>', 'play basketball']]",has subevent,summarize: entertaining ? play basketball,4,0
+"[['go to sporting event', '<extra_id_0>', 'sports wear']]",has prerequisite,summarize: go to sporting event ? sports wear,7,0
+"[['undergarment', '<extra_id_0>', 'jesus jammies']]",is a synonym of,summarize: undergarment ? jesus jammies,6,0
+"[['brew', '<extra_id_0>', 'create from raw material']]",is a manner of,summarize: brew ? create from raw material,6,0
+"[['dirt', '<extra_id_0>', 'wash clothes']]",causes desire,summarize: dirt ? wash clothes,4,0
+"[['repentance', '<extra_id_0>', 'contrition']]",is a synonym of,summarize: repentance ? contrition,6,0
+"[['slowly', '<extra_id_0>', 'rapidly']]",is an antonym of,summarize: slowly ? rapidly,4,0
+"[['reading newspaper', '<extra_id_0>', 'drinking liquid']]",has subevent,summarize: reading newspaper ? drinking liquid,5,0
+"[['talk to', '<extra_id_0>', 's']]",has prerequisite,summarize: talk to ? s,5,0
+"[['desire for knowledge', '<extra_id_0>', 'learn about world']]",causes desire,summarize: desire for knowledge ? learn about world,6,0
+"[['machines', '<extra_id_0>', 'milk cows']]",is capable of,summarize: machines ? milk cows,4,0
+"[['xix', '<extra_id_0>', '19']]",is a synonym of,summarize: xix ? 19,6,0
+"[['laden', '<extra_id_0>', 'lade']]",is a form of,summarize: laden ? lade,5,0
+"[['pilot', '<extra_id_0>', 'land plane']]",is capable of,summarize: pilot ? land plane,4,0
+"[['have bath', '<extra_id_0>', 'disrobe']]",has prerequisite,summarize: have bath ? disrobe,5,0
+"[['foreword', '<extra_id_0>', 'endsay']]",is an antonym of,summarize: foreword ? endsay,6,0
+"[['taking exam', '<extra_id_0>', 'stress']]",causes,summarize: taking exam ? stress,5,0
+"[['encouragement', '<extra_id_0>', 'act in play']]",causes desire,summarize: encouragement ? act in play,4,0
+"[['go to restaurant', '<extra_id_0>', 'sit down']]",has subevent,summarize: go to restaurant ? sit down,6,0
+"[['reply', '<extra_id_0>', 'messages']]",is an antonym of,summarize: reply ? messages,4,0
+"[['chasten', '<extra_id_0>', 'change']]",is a manner of,summarize: chasten ? change,6,0
+"[['waste', '<extra_id_0>', 'usable']]",is distinct from,summarize: waste ? usable,4,0
+"[['seeing exhibits', '<extra_id_0>', 'fear']]",causes,summarize: seeing exhibits ? fear,6,0
+"[['find lost item', '<extra_id_0>', 'look for']]",has prerequisite,summarize: find lost item ? look for,6,0
+"[['lower case', '<extra_id_0>', 'small letter']]",is a synonym of,summarize: lower case ? small letter,5,0
+"[['forties', '<extra_id_0>', 'adulthood']]",is a part of,summarize: forties ? adulthood,5,0
+"[['people', '<extra_id_0>', 'face music']]",is capable of,summarize: people ? face music,4,0
+"[['book', '<extra_id_0>', 'bespeak']]",is a synonym of,summarize: book ? bespeak,4,0
+"[['waiting in line', '<extra_id_0>', 'time']]",has prerequisite,summarize: waiting in line ? time,6,0
+"[['create art', '<extra_id_0>', 'must']]",is motivated by,summarize: create art ? must,5,0
+"[['list', '<extra_id_0>', 'enumerate']]",is a manner of,summarize: list ? enumerate,4,0
+"[['wait in line', '<extra_id_0>', 'getting bored']]",has subevent,summarize: wait in line ? getting bored,6,0
+"[['agree with', '<extra_id_0>', 'nodding']]",has subevent,summarize: agree with ? nodding,5,0
+"[['act in play', '<extra_id_0>', 'stage fright']]",has subevent,summarize: act in play ? stage fright,6,0
+"[['nerve fiber', '<extra_id_0>', 'nerve']]",is a part of,summarize: nerve fiber ? nerve,5,0
+"[['high blood pressure', '<extra_id_0>', 'lose weight']]",causes desire,summarize: high blood pressure ? lose weight,6,0
+"[['stop standing in', '<extra_id_0>', 'to']]",is motivated by,summarize: stop standing in ? to,6,0
+"[['box', '<extra_id_0>', 'carry']]",is used for,summarize: box ? carry,4,0
+"[['play chess', '<extra_id_0>', 'made']]",is motivated by,summarize: play chess ? made,7,0
+"[['eleven', '<extra_id_0>', 'sarcastic']]",has context,summarize: eleven ? sarcastic,4,0
+"[['music', '<extra_id_0>', 'bad']]",is,summarize: music ? bad,4,0
+"[['going somewhere', '<extra_id_0>', 'vacationing']]",is used for,summarize: going somewhere ? vacationing,5,0
+"[['pass university exams', '<extra_id_0>', 'studied']]",is motivated by,summarize: pass university exams ? studied,6,0
+"[['people', '<extra_id_0>', 'eat vegetables']]",is capable of,summarize: people ? eat vegetables,4,0
+"[['anemone', '<extra_id_0>', 'coral sea']]",is in,summarize: anemone ? coral sea,7,0
+"[['kill', '<extra_id_0>', 'give']]",is an antonym of,summarize: kill ? give,4,0
+"[['immunosuppressor', '<extra_id_0>', 'pharmacology']]",has context,summarize: immunosuppressor ? pharmacology,8,0
+"[['tm', '<extra_id_0>', 'lgbt']]",has context,summarize: tm ? lgbt,6,0
+"[['driver', '<extra_id_0>', 'control car']]",is capable of,summarize: driver ? control car,4,0
+"[['learning about world', '<extra_id_0>', 'sadness']]",causes,summarize: learning about world ? sadness,6,0
+"[['accession', '<extra_id_0>', 'entree']]",is a synonym of,summarize: accession ? entree,5,0
+"[['monkey', '<extra_id_0>', 'captivity']]",is in,summarize: monkey ? captivity,4,0
+"[['getting clean', '<extra_id_0>', 'disinfected']]",causes,summarize: getting clean ? disinfected,5,0
+"[['marrying', '<extra_id_0>', 'get contract']]",causes desire,summarize: marrying ? get contract,5,0
+"[['ambiguation', '<extra_id_0>', 'disambiguation']]",is an antonym of,summarize: ambiguation ? disambiguation,6,0
+"[['floods', '<extra_id_0>', 'kill people']]",is capable of,summarize: floods ? kill people,5,0
+"[['play sport', '<extra_id_0>', 'stretch']]",has prerequisite,summarize: play sport ? stretch,5,0
+"[['stop bicycle', '<extra_id_0>', 'catch breath']]",has subevent,summarize: stop bicycle ? catch breath,5,0
+"[['jordan', '<extra_id_0>', 'asia']]",is a part of,summarize: jordan ? asia,6,0
+"[['company', '<extra_id_0>', 'solitude']]",is an antonym of,summarize: company ? solitude,4,0
+"[['hand written', '<extra_id_0>', 'handwritten']]",is a form of,summarize: hand written ? handwritten,5,0
+"[['being bored', '<extra_id_0>', 'create idea']]",causes desire,summarize: being bored ? create idea,5,0
+"[['pissing', '<extra_id_0>', 'peeing']]",is a synonym of,summarize: pissing ? peeing,7,0
+"[['improving yourself', '<extra_id_0>', 'arrogance']]",causes,summarize: improving yourself ? arrogance,5,0
+"[['result', '<extra_id_0>', 'happen']]",is a manner of,summarize: result ? happen,4,0
+"[['gulf of guinea', '<extra_id_0>', 'atlantic']]",is a part of,summarize: gulf of guinea ? atlantic,11,0
+"[['phot', '<extra_id_0>', 'photo']]",is a form of,summarize: phot ? photo,6,0
+"[['misuse', '<extra_id_0>', 'proper']]",is an antonym of,summarize: misuse ? proper,4,0
+"[['semiaquatic', '<extra_id_0>', 'semi aquatic']]",is a form of,summarize: semiaquatic ? semi aquatic,7,0
+"[['lithotriptor', '<extra_id_0>', 'lithotripter']]",is a form of,summarize: lithotriptor ? lithotripter,9,0
+"[['mat', '<extra_id_0>', 'judo']]",is used for,summarize: mat ? judo,4,0
+"[['lingerie', '<extra_id_0>', 'drawer']]",is in,summarize: lingerie ? drawer,6,0
+"[['epicenter', '<extra_id_0>', 'hypocentre']]",is distinct from,summarize: epicenter ? hypocentre,5,0
+"[['concession', '<extra_id_0>', 'historical']]",has context,summarize: concession ? historical,4,0
+"[['breadth', '<extra_id_0>', 'graph theory']]",has context,summarize: breadth ? graph theory,5,0
+"[['fix computer', '<extra_id_0>', 'calm down']]",has prerequisite,summarize: fix computer ? calm down,5,0
+"[['bio', '<extra_id_0>', 'biography']]",is a form of,summarize: bio ? biography,4,0
+"[['using computer', '<extra_id_0>', 'drink coffee']]",has subevent,summarize: using computer ? drink coffee,5,0
+"[['lighting fire', '<extra_id_0>', 'sterilizing']]",is used for,summarize: lighting fire ? sterilizing,5,0
+"[['footy', '<extra_id_0>', 'british']]",has context,summarize: footy ? british,5,0
+"[['freshness', '<extra_id_0>', 'air']]",is in,summarize: freshness ? air,5,0
+"[['basket', '<extra_id_0>', 'hold']]",is used for,summarize: basket ? hold,4,0
+"[['hun', '<extra_id_0>', 'hon']]",is a form of,summarize: hun ? hon,6,0
+"[['sen', '<extra_id_0>', 'rupiah']]",is a part of,summarize: sen ? rupiah,6,0
+"[['undergraduate', '<extra_id_0>', 'graduated']]",is distinct from,summarize: undergraduate ? graduated,4,0
+"[['stress', '<extra_id_0>', 'breathe fresh air']]",causes desire,summarize: stress ? breathe fresh air,4,0
+"[['independence day', '<extra_id_0>', 'legal holiday']]",is a,summarize: independence day ? legal holiday,5,0
+"[['africander', '<extra_id_0>', 'afrikander']]",is a form of,summarize: africander ? afrikander,6,0
+"[['stock market', '<extra_id_0>', 'bottom out']]",is capable of,summarize: stock market ? bottom out,5,0
+"[['volutes', '<extra_id_0>', 'volute']]",is a form of,summarize: volutes ? volute,6,0
+"[['checking accounts', '<extra_id_0>', 'checking account']]",is a form of,summarize: checking accounts ? checking account,5,0
+"[['hate', '<extra_id_0>', 'wage war']]",causes desire,summarize: hate ? wage war,4,0
+"[['flatten', '<extra_id_0>', 'music']]",has context,summarize: flatten ? music,5,0
+"[['make people laugh', '<extra_id_0>', 'have good time']]",is motivated by,summarize: make people laugh ? have good time,6,0
+"[['getting tired', '<extra_id_0>', 'have rest']]",causes desire,summarize: getting tired ? have rest,5,0
+"[['formal logic', '<extra_id_0>', 'prove theorems']]",is used for,summarize: formal logic ? prove theorems,5,0
+"[['iraq', '<extra_id_0>', 'middle east']]",is a part of,summarize: iraq ? middle east,8,0
+"[['teaspoon', '<extra_id_0>', 'eating']]",is used for,summarize: teaspoon ? eating,4,0
+"[['16mo', '<extra_id_0>', 'paper']]",has context,summarize: 16mo ? paper,6,0
+"[['flat feet', '<extra_id_0>', 'disease']]",is a,summarize: flat feet ? disease,5,0
+"[['building', '<extra_id_0>', 'fall down']]",is capable of,summarize: building ? fall down,4,0
+"[[""what's up with"", '<extra_id_0>', 'rhetorical question']]",has context,summarize: what's up with ? rhetorical question,8,0
+"[['getting clean', '<extra_id_0>', 'water']]",has prerequisite,summarize: getting clean ? water,5,0
+"[['vague', '<extra_id_0>', 'specific']]",is distinct from,summarize: vague ? specific,4,0
+"[['get cold', '<extra_id_0>', 'shiver']]",has subevent,summarize: get cold ? shiver,5,0
+"[['going with', '<extra_id_0>', 'go with']]",is a form of,summarize: going with ? go with,5,0
+"[['happiness', '<extra_id_0>', 'live life']]",causes desire,summarize: happiness ? live life,4,0
+"[['deconsecrate', '<extra_id_0>', 'consecrate']]",is an antonym of,summarize: deconsecrate ? consecrate,7,0
+"[['climbing walls', '<extra_id_0>', 'climbing wall']]",is a form of,summarize: climbing walls ? climbing wall,5,0
+"[['home', '<extra_id_0>', 'asset']]",is,summarize: home ? asset,4,0
+"[['casual', '<extra_id_0>', 'ceremonial']]",is an antonym of,summarize: casual ? ceremonial,4,0
+"[['musty', '<extra_id_0>', 'fresh']]",is distinct from,summarize: musty ? fresh,5,0
+"[['gray', '<extra_id_0>', 'discolor']]",is a manner of,summarize: gray ? discolor,4,0
+"[['talk with far away', '<extra_id_0>', 'time delay']]",has subevent,summarize: talk with far away ? time delay,7,0
+"[['invest', '<extra_id_0>', 'equip']]",is a manner of,summarize: invest ? equip,4,0
+"[['épopée', '<extra_id_0>', 'epopee']]",is a form of,summarize: épopée ? epopee,7,0
+"[['go to school', '<extra_id_0>', 'eat breakfast']]",has prerequisite,summarize: go to school ? eat breakfast,6,0
+"[['dissociate', '<extra_id_0>', 'fuse']]",is distinct from,summarize: dissociate ? fuse,6,0
+"[['smite', '<extra_id_0>', 'hit']]",is a manner of,summarize: smite ? hit,7,0
+"[['sating hunger', '<extra_id_0>', 'lunch']]",is used for,summarize: sating hunger ? lunch,7,0
+"[['sunder', '<extra_id_0>', 'break up']]",is a manner of,summarize: sunder ? break up,6,0
+"[['literature', '<extra_id_0>', 'meeting']]",is in,summarize: literature ? meeting,4,0
+"[['trent', '<extra_id_0>', 'england']]",is a part of,summarize: trent ? england,5,0
+"[['hypnosis', '<extra_id_0>', 'put at ease']]",is capable of,summarize: hypnosis ? put at ease,7,0
+"[['cut', '<extra_id_0>', 'produce']]",is a manner of,summarize: cut ? produce,4,0
+"[['divesting', '<extra_id_0>', 'divest']]",is a form of,summarize: divesting ? divest,5,0
+"[['sitting down', '<extra_id_0>', 'comfort']]",causes,summarize: sitting down ? comfort,5,0
+"[['bacteria', '<extra_id_0>', 'harmful']]",is,summarize: bacteria ? harmful,4,0
+"[['weakfish', '<extra_id_0>', 'spotted weakfish']]",is a part of,summarize: weakfish ? spotted weakfish,5,0
+"[['rooster', '<extra_id_0>', 'pet']]",is capable of,summarize: rooster ? pet,8,0
+"[['setting free', '<extra_id_0>', 'set free']]",is a form of,summarize: setting free ? set free,5,0
+"[['meet girls', '<extra_id_0>', 'ice']]",has prerequisite,summarize: meet girls ? ice,5,0
+"[['scrotum', '<extra_id_0>', 'body']]",is a part of,summarize: scrotum ? body,8,0
+"[['duplicitousness', '<extra_id_0>', 'duplicity']]",is a synonym of,summarize: duplicitousness ? duplicity,8,0
+"[['function', '<extra_id_0>', 'recursive function']]",is a,summarize: function ? recursive function,4,0
+"[['ruggedize', '<extra_id_0>', 'strengthen']]",is a manner of,summarize: ruggedize ? strengthen,5,0
+"[['batteries', '<extra_id_0>', 'alkaline']]",is,summarize: batteries ? alkaline,4,0
+"[['surliness', '<extra_id_0>', 'temper']]",is a synonym of,summarize: surliness ? temper,6,0
+"[['play football', '<extra_id_0>', 'train']]",has prerequisite,summarize: play football ? train,5,0
+"[['beauty', '<extra_id_0>', 'waterfall']]",is in,summarize: beauty ? waterfall,4,0
+"[['sports', '<extra_id_0>', 'dangerous']]",is,summarize: sports ? dangerous,4,0
+"[['wisely', '<extra_id_0>', 'asininely']]",is distinct from,summarize: wisely ? asininely,5,0
+"[['cat', '<extra_id_0>', 'run away']]",is capable of,summarize: cat ? run away,4,0
+"[['jerusalem', '<extra_id_0>', 'israel']]",is a part of,summarize: jerusalem ? israel,8,0
+"[['exercise', '<extra_id_0>', 'improve']]",is motivated by,summarize: exercise ? improve,4,0
+"[['take in', '<extra_id_0>', 'visit']]",is a manner of,summarize: take in ? visit,5,0
+"[['foot', '<extra_id_0>', 'standing on']]",is used for,summarize: foot ? standing on,4,0
+"[['elfin', '<extra_id_0>', 'fey']]",is a synonym of,summarize: elfin ? fey,6,0
+"[['yellow', '<extra_id_0>', 'fearless']]",is distinct from,summarize: yellow ? fearless,4,0
+"[['cyclic', '<extra_id_0>', 'chemistry']]",has context,summarize: cyclic ? chemistry,6,0
+"[['houses', '<extra_id_0>', 'new']]",is,summarize: houses ? new,4,0
+"[['torture', '<extra_id_0>', 'evil']]",is,summarize: torture ? evil,4,0
+"[['buying beer', '<extra_id_0>', 'spend money']]",causes,summarize: buying beer ? spend money,5,0
+"[['bookish', '<extra_id_0>', 'formal']]",is a synonym of,summarize: bookish ? formal,5,0
+"[['musty', '<extra_id_0>', 'muggy']]",is a synonym of,summarize: musty ? muggy,5,0
+"[['mortar', '<extra_id_0>', 'opaque']]",is,summarize: mortar ? opaque,4,0
+"[['taunting', '<extra_id_0>', 'wrestle']]",causes desire,summarize: taunting ? wrestle,6,0
+"[['anarcho capitalism', '<extra_id_0>', 'politics']]",has context,summarize: anarcho capitalism ? politics,7,0
+"[['flirting', '<extra_id_0>', 'rejection']]",has subevent,summarize: flirting ? rejection,5,0
+"[['tomahawk', '<extra_id_0>', 'cut']]",is a manner of,summarize: tomahawk ? cut,7,0
+"[['considerate', '<extra_id_0>', 'sober']]",is a synonym of,summarize: considerate ? sober,5,0
+"[['change', '<extra_id_0>', 'unpleasant']]",is,summarize: change ? unpleasant,4,0
+"[['muteness', '<extra_id_0>', 'mutism']]",is a synonym of,summarize: muteness ? mutism,7,0
+"[['fight war', '<extra_id_0>', 'dying']]",has subevent,summarize: fight war ? dying,5,0
+"[['hypnos', '<extra_id_0>', 'greek mythology']]",has context,summarize: hypnos ? greek mythology,6,0
+"[['wrongly', '<extra_id_0>', 'correctly']]",is an antonym of,summarize: wrongly ? correctly,5,0
+"[['attend rock concert', '<extra_id_0>', 'moshing']]",has subevent,summarize: attend rock concert ? moshing,6,0
+"[['conjoin', '<extra_id_0>', 'grammar']]",has context,summarize: conjoin ? grammar,6,0
+"[['traveling', '<extra_id_0>', 'shopping']]",has subevent,summarize: traveling ? shopping,4,0
+"[['tigrigna', '<extra_id_0>', 'tigrinya']]",is a form of,summarize: tigrigna ? tigrinya,8,0
+"[['aquatint', '<extra_id_0>', 'etch']]",is a manner of,summarize: aquatint ? etch,7,0
+"[['ease', '<extra_id_0>', 'hard']]",is distinct from,summarize: ease ? hard,4,0
+"[['joint', '<extra_id_0>', 'endoskeleton']]",is a part of,summarize: joint ? endoskeleton,4,0
+"[['birds', '<extra_id_0>', 'chirp']]",is capable of,summarize: birds ? chirp,4,0
+"[['kosher delicatessen', '<extra_id_0>', 'new york']]",is in,summarize: kosher delicatessen ? new york,8,0
+"[['mailbox', '<extra_id_0>', 'bills']]",is used for,summarize: mailbox ? bills,4,0
+"[['doctor office', '<extra_id_0>', 'exams']]",is used for,summarize: doctor office ? exams,5,0
+"[['movie', '<extra_id_0>', 'romantic']]",is,summarize: movie ? romantic,4,0
+"[['plane', '<extra_id_0>', 'fall']]",is capable of,summarize: plane ? fall,4,0
+"[['dime', '<extra_id_0>', 'drop dime on someone']]",is a synonym of,summarize: dime ? drop dime on someone,5,0
+"[['organized crime', '<extra_id_0>', 'social group']]",is a,summarize: organized crime ? social group,5,0
+"[['people', '<extra_id_0>', 'mall']]",is in,summarize: people ? mall,4,0
+"[['buy', '<extra_id_0>', 'get job']]",has prerequisite,summarize: buy ? get job,4,0
+"[['show', '<extra_id_0>', 'entertain']]",is used for,summarize: show ? entertain,4,0
+"[['raid', '<extra_id_0>', 'assume']]",is a manner of,summarize: raid ? assume,4,0
+"[['street sign', '<extra_id_0>', 'street corner']]",is in,summarize: street sign ? street corner,5,0
+"[['study for subject', '<extra_id_0>', 'go to school']]",has prerequisite,summarize: study for subject ? go to school,6,0
+"[['liquified', '<extra_id_0>', 'liquify']]",is a form of,summarize: liquified ? liquify,8,0
+"[['trick', '<extra_id_0>', 'play']]",is an antonym of,summarize: trick ? play,4,0
+"[['cerebral cortex', '<extra_id_0>', 'telencephalon']]",is a part of,summarize: cerebral cortex ? telencephalon,5,0
+"[['fate', '<extra_id_0>', 'freedom']]",is an antonym of,summarize: fate ? freedom,4,0
+"[['pragmatic attribute', '<extra_id_0>', 'linguistic attribute']]",is a,summarize: pragmatic attribute ? linguistic attribute,5,0
+"[['wampum', '<extra_id_0>', 'boodle']]",is a synonym of,summarize: wampum ? boodle,7,0
+"[['become scuba diver', '<extra_id_0>', 'swim']]",has prerequisite,summarize: become scuba diver ? swim,8,0
+"[['fix computer', '<extra_id_0>', 'reboot']]",has subevent,summarize: fix computer ? reboot,5,0
+"[['love', '<extra_id_0>', 'buy for loved one']]",causes desire,summarize: love ? buy for loved one,4,0
+"[['maintain good health', '<extra_id_0>', 'get exercise']]",has prerequisite,summarize: maintain good health ? get exercise,6,0
+"[['man', '<extra_id_0>', 'world']]",is a synonym of,summarize: man ? world,4,0
+"[['punish', '<extra_id_0>', 'misbehaved']]",is motivated by,summarize: punish ? misbehaved,4,0
+"[['ordnance survey', '<extra_id_0>', 'administrative unit']]",is a,summarize: ordnance survey ? administrative unit,8,0
+"[['we', '<extra_id_0>', 'milk cows']]",is capable of,summarize: we ? milk cows,4,0
+"[['character', '<extra_id_0>', 'dull']]",is an antonym of,summarize: character ? dull,4,0
+"[['tetra ethyl lead', '<extra_id_0>', 'tetraethyl lead']]",is a form of,summarize: tetra ethyl lead ? tetraethyl lead,13,0
+"[['circus tent', '<extra_id_0>', 'circus']]",is a part of,summarize: circus tent ? circus,5,0
+"[['hearing music', '<extra_id_0>', 'fun']]",is used for,summarize: hearing music ? fun,5,0
+"[['express how funny', '<extra_id_0>', 'share']]",is motivated by,summarize: express how funny ? share,6,0
+"[['naked', '<extra_id_0>', 'decorated']]",is distinct from,summarize: naked ? decorated,4,0
+"[['pangs', '<extra_id_0>', 'buffy vampire slayer']]",is a part of,summarize: pangs ? buffy vampire slayer,6,0
+"[['cheerful', '<extra_id_0>', 'miserable']]",is an antonym of,summarize: cheerful ? miserable,4,0
+"[['lass', '<extra_id_0>', 'ma am']]",is distinct from,summarize: lass ? ma am,5,0
+"[['listening', '<extra_id_0>', 'closing eyes']]",has subevent,summarize: listening ? closing eyes,4,0
+"[['potato', '<extra_id_0>', 'french fry']]",is in,summarize: potato ? french fry,4,0
+"[['going for walk', '<extra_id_0>', 'skip']]",has subevent,summarize: going for walk ? skip,6,0
+"[['urinating', '<extra_id_0>', 'going to toilet']]",causes,summarize: urinating ? going to toilet,7,0
+"[['follow recipe', '<extra_id_0>', 'good meal']]",has subevent,summarize: follow recipe ? good meal,5,0
+"[['gladness', '<extra_id_0>', 'sadness']]",is distinct from,summarize: gladness ? sadness,5,0
+"[['kittens', '<extra_id_0>', 'small']]",is,summarize: kittens ? small,5,0
+"[['projectile', '<extra_id_0>', 'shooting']]",is used for,summarize: projectile ? shooting,5,0
+"[['orient', '<extra_id_0>', 'lie']]",is a manner of,summarize: orient ? lie,5,0
+"[['having heart attack', '<extra_id_0>', 'feel pain']]",has subevent,summarize: having heart attack ? feel pain,6,0
+"[['bomb', '<extra_id_0>', 'exploding']]",is used for,summarize: bomb ? exploding,4,0
+"[['chemical engineering', '<extra_id_0>', 'technology']]",is a,summarize: chemical engineering ? technology,5,0
+"[['fishing', '<extra_id_0>', 'wetness']]",causes,summarize: fishing ? wetness,4,0
+"[['resurface', '<extra_id_0>', 'reappear']]",is a manner of,summarize: resurface ? reappear,6,0
+"[['go to store', '<extra_id_0>', 'have money']]",has prerequisite,summarize: go to store ? have money,6,0
+"[['production values', '<extra_id_0>', 'performing arts']]",has context,summarize: production values ? performing arts,5,0
+"[['video', '<extra_id_0>', 'weak']]",is,summarize: video ? weak,4,0
+"[['jellyfish', '<extra_id_0>', 'underwater']]",is in,summarize: jellyfish ? underwater,5,0
+"[['flying kite', '<extra_id_0>', 'electrocution']]",causes,summarize: flying kite ? electrocution,6,0
+"[['teach other people', '<extra_id_0>', 'know']]",is motivated by,summarize: teach other people ? know,6,0
+"[['eat lunch', '<extra_id_0>', 'go to restaurant']]",has prerequisite,summarize: eat lunch ? go to restaurant,6,0
+"[['sky', '<extra_id_0>', 'sunny']]",is,summarize: sky ? sunny,4,0
+"[['album', '<extra_id_0>', 'music store']]",is in,summarize: album ? music store,4,0
+"[['sin', '<extra_id_0>', 'good']]",is an antonym of,summarize: sin ? good,4,0
+"[['crankshaft', '<extra_id_0>', 'reciprocating engine']]",is a part of,summarize: crankshaft ? reciprocating engine,6,0
+"[['prevision', '<extra_id_0>', 'prescience']]",is a synonym of,summarize: prevision ? prescience,5,0
+"[['washing clothes', '<extra_id_0>', 'take break']]",has subevent,summarize: washing clothes ? take break,5,0
+"[['portuguese escudo', '<extra_id_0>', 'conto']]",is a part of,summarize: portuguese escudo ? conto,11,0
+"[['vulgarise', '<extra_id_0>', 'change']]",is a manner of,summarize: vulgarise ? change,6,0
+"[['play lacrosse', '<extra_id_0>', 'cheat']]",has subevent,summarize: play lacrosse ? cheat,7,0
+"[['wait for', '<extra_id_0>', 'shout']]",has subevent,summarize: wait for ? shout,5,0
+"[['talk show', '<extra_id_0>', 'television program']]",is a,summarize: talk show ? television program,5,0
+"[['grow vegetables', '<extra_id_0>', 'plant seed']]",has prerequisite,summarize: grow vegetables ? plant seed,5,0
+"[['wax', '<extra_id_0>', 'burn']]",is capable of,summarize: wax ? burn,4,0
+"[['stove', '<extra_id_0>', 'over']]",is distinct from,summarize: stove ? over,4,0
+"[['many humans', '<extra_id_0>', 'evil']]",is,summarize: many humans ? evil,5,0
+"[['weeding garden', '<extra_id_0>', 'gardeners']]",is used for,summarize: weeding garden ? gardeners,7,0
+"[['roach motel', '<extra_id_0>', 'cabinet']]",is in,summarize: roach motel ? cabinet,7,0
+"[['jar', '<extra_id_0>', 'hold water']]",is capable of,summarize: jar ? hold water,5,0
+"[['beth', '<extra_id_0>', 'sing like bird']]",is capable of,summarize: beth ? sing like bird,5,0
+"[['thin on ground', '<extra_id_0>', 'infrequent']]",is a synonym of,summarize: thin on ground ? infrequent,6,0
+"[['conformity', '<extra_id_0>', 'nonconformity']]",is an antonym of,summarize: conformity ? nonconformity,5,0
+"[['second language', '<extra_id_0>', 'first language']]",is an antonym of,summarize: second language ? first language,5,0
+"[['torsional', '<extra_id_0>', 'strabismus']]",is a,summarize: torsional ? strabismus,6,0
+"[['lie', '<extra_id_0>', 'protect']]",is motivated by,summarize: lie ? protect,4,0
+"[['gigolo', '<extra_id_0>', 'libertine']]",is a,summarize: gigolo ? libertine,7,0
+"[['concuss', '<extra_id_0>', 'shake']]",is a manner of,summarize: concuss ? shake,7,0
+"[['regularize', '<extra_id_0>', 'adjust']]",is a synonym of,summarize: regularize ? adjust,5,0
+"[['sports', '<extra_id_0>', 'competitive']]",is,summarize: sports ? competitive,4,0
+"[['poll', '<extra_id_0>', 'get']]",is a manner of,summarize: poll ? get,4,0
+"[['food', '<extra_id_0>', 'unhealthy']]",is,summarize: food ? unhealthy,4,0
+"[['interior door', '<extra_id_0>', 'building']]",is a part of,summarize: interior door ? building,5,0
+"[['meal', '<extra_id_0>', 'nutriment']]",is a,summarize: meal ? nutriment,4,0
+"[['learn about science', '<extra_id_0>', 'interesting job']]",is motivated by,summarize: learn about science ? interesting job,6,0
+"[['painting picture', '<extra_id_0>', 'paint']]",has prerequisite,summarize: painting picture ? paint,5,0
+"[['count', '<extra_id_0>', 'classify']]",is a manner of,summarize: count ? classify,4,0
+"[['making phone call', '<extra_id_0>', 'smoke cigarette']]",has subevent,summarize: making phone call ? smoke cigarette,6,0
+"[['having conversation', '<extra_id_0>', 'pleasure']]",is used for,summarize: having conversation ? pleasure,5,0
+"[['obesity', '<extra_id_0>', 'exercise']]",causes desire,summarize: obesity ? exercise,4,0
+"[['judging', '<extra_id_0>', 'dislike']]",causes,summarize: judging ? dislike,5,0
+"[['write off', '<extra_id_0>', 'admit']]",is a manner of,summarize: write off ? admit,5,0
+"[['id', '<extra_id_0>', 'unconscious mind']]",is a part of,summarize: id ? unconscious mind,6,0
+"[['caulkhead', '<extra_id_0>', 'englander']]",is a,summarize: caulkhead ? englander,7,0
+"[['strike', '<extra_id_0>', 'form']]",is a manner of,summarize: strike ? form,4,0
+"[['plays', '<extra_id_0>', 'entertaining']]",is,summarize: plays ? entertaining,4,0
+"[['point', '<extra_id_0>', 'eraser']]",is distinct from,summarize: point ? eraser,4,0
+"[['take midterm', '<extra_id_0>', 'go to school']]",has prerequisite,summarize: take midterm ? go to school,6,0
+"[['fertilize', '<extra_id_0>', 'farming']]",has context,summarize: fertilize ? farming,5,0
+"[['unplug', '<extra_id_0>', 'undo']]",is a manner of,summarize: unplug ? undo,6,0
+"[['sex', '<extra_id_0>', 'children']]",causes,summarize: sex ? children,6,0
+"[['whip', '<extra_id_0>', 'african american vernacular english']]",has context,summarize: whip ? african american vernacular english,4,0
+"[['see people play game', '<extra_id_0>', 'relax']]",is motivated by,summarize: see people play game ? relax,7,0
+"[['going to sleep', '<extra_id_0>', 'dreams']]",causes,summarize: going to sleep ? dreams,6,0
+"[['shopping', '<extra_id_0>', 'selecting']]",has subevent,summarize: shopping ? selecting,4,0
+"[['accounting', '<extra_id_0>', 'logical']]",is,summarize: accounting ? logical,4,0
+"[['nerve cell', '<extra_id_0>', 'cytology']]",has context,summarize: nerve cell ? cytology,5,0
+"[['cat', '<extra_id_0>', 'chase tail']]",is capable of,summarize: cat ? chase tail,4,0
+"[['bedtime', '<extra_id_0>', 'read to children']]",causes desire,summarize: bedtime ? read to children,5,0
+"[['adult', '<extra_id_0>', 'drive car']]",is capable of,summarize: adult ? drive car,4,0
+"[['suits', '<extra_id_0>', 'closet']]",is in,summarize: suits ? closet,4,0
+"[['sit down', '<extra_id_0>', 'tired']]",is motivated by,summarize: sit down ? tired,5,0
+"[['catch mumps', '<extra_id_0>', 'stay in bed']]",is motivated by,summarize: catch mumps ? stay in bed,7,0
+"[['players', '<extra_id_0>', 'soccer game']]",is in,summarize: players ? soccer game,4,0
+"[['tennessee', '<extra_id_0>', 'south']]",is a part of,summarize: tennessee ? south,8,0
+"[['pain', '<extra_id_0>', 'unhappiness']]",causes,summarize: pain ? unhappiness,4,0
+"[['wolves', '<extra_id_0>', 'undomesticated']]",is,summarize: wolves ? undomesticated,5,0
+"[['fuji', '<extra_id_0>', 'japan']]",is a part of,summarize: fuji ? japan,6,0
+"[['going to mall', '<extra_id_0>', 'buying stuff']]",causes,summarize: going to mall ? buying stuff,6,0
+"[['drilling hole', '<extra_id_0>', 'tools']]",has prerequisite,summarize: drilling hole ? tools,5,0
+"[['parametrize', '<extra_id_0>', 'parameterize']]",is a form of,summarize: parametrize ? parameterize,5,0
+"[['hunger', '<extra_id_0>', 'cook dinner']]",causes desire,summarize: hunger ? cook dinner,4,0
+"[['cutting short', '<extra_id_0>', 'cut short']]",is a form of,summarize: cutting short ? cut short,5,0
+"[['roller skater', '<extra_id_0>', 'skater']]",is a,summarize: roller skater ? skater,6,0
+"[['run twenty six miles', '<extra_id_0>', 'challenge']]",is motivated by,summarize: run twenty six miles ? challenge,7,0
+"[['bodies', '<extra_id_0>', 'unique']]",is,summarize: bodies ? unique,4,0
+"[['use television', '<extra_id_0>', 'buy one']]",has prerequisite,summarize: use television ? buy one,5,0
+"[['insane', '<extra_id_0>', 'bread baskets']]",is a synonym of,summarize: insane ? bread baskets,4,0
+"[['dirt', '<extra_id_0>', 'clean clothing']]",causes desire,summarize: dirt ? clean clothing,4,0
+"[['waiter', '<extra_id_0>', 'set table']]",is capable of,summarize: waiter ? set table,5,0
+"[['conversation', '<extra_id_0>', 'water cooler']]",is in,summarize: conversation ? water cooler,4,0
+"[['induction', '<extra_id_0>', 'generalization']]",is a synonym of,summarize: induction ? generalization,5,0
+"[['hardware store', '<extra_id_0>', 'washington']]",is in,summarize: hardware store ? washington,5,0
+"[['knitting', '<extra_id_0>', 'carpal tunnel syndrome']]",causes,summarize: knitting ? carpal tunnel syndrome,4,0
+"[['piccolo', '<extra_id_0>', 'playing']]",is used for,summarize: piccolo ? playing,5,0
+"[['pair', '<extra_id_0>', 'arrange']]",is a manner of,summarize: pair ? arrange,4,0
+"[['pay bills', '<extra_id_0>', 'keep house']]",is motivated by,summarize: pay bills ? keep house,5,0
+"[['going on vacation', '<extra_id_0>', 'read']]",causes desire,summarize: going on vacation ? read,6,0
+"[['playing sport', '<extra_id_0>', 'physical fitness']]",is used for,summarize: playing sport ? physical fitness,5,0
+"[['auto mechanic', '<extra_id_0>', 'service station']]",is in,summarize: auto mechanic ? service station,5,0
+"[['casing', '<extra_id_0>', 'consumer durable']]",is a,summarize: casing ? consumer durable,5,0
+"[['contemplate', '<extra_id_0>', 'wonder']]",is motivated by,summarize: contemplate ? wonder,5,0
+"[['clutch', '<extra_id_0>', 'automobile']]",is a part of,summarize: clutch ? automobile,4,0
+"[['canini', '<extra_id_0>', 'caninus']]",is a form of,summarize: canini ? caninus,6,0
+"[['danger', '<extra_id_0>', 'tell many people about']]",causes desire,summarize: danger ? tell many people about,4,0
+"[['plead', '<extra_id_0>', 'apologize']]",is a manner of,summarize: plead ? apologize,5,0
+"[['reply', '<extra_id_0>', 'inquiry']]",is an antonym of,summarize: reply ? inquiry,4,0
+"[['osity', '<extra_id_0>', 'ability']]",is a synonym of,summarize: osity ? ability,7,0
+"[['bookstore', '<extra_id_0>', 'town']]",is in,summarize: bookstore ? town,4,0
+"[['attraction', '<extra_id_0>', 'love another']]",causes desire,summarize: attraction ? love another,4,0
+"[['gaining weight', '<extra_id_0>', 'change appearance']]",causes desire,summarize: gaining weight ? change appearance,6,0
+"[['have bath', '<extra_id_0>', 'smell']]",is motivated by,summarize: have bath ? smell,5,0
+"[['ad', '<extra_id_0>', 'newspaper']]",is in,summarize: ad ? newspaper,6,0
+"[['reach impasse', '<extra_id_0>', 'disagree with']]",has subevent,summarize: reach impasse ? disagree with,6,0
+"[['starvation', '<extra_id_0>', 'eat quickly']]",causes desire,summarize: starvation ? eat quickly,6,0
+"[['advertising', '<extra_id_0>', 'buy products']]",causes desire,summarize: advertising ? buy products,4,0
+"[['quickest', '<extra_id_0>', 'quick']]",is a form of,summarize: quickest ? quick,5,0
+"[['throwing away', '<extra_id_0>', 'discard']]",is a synonym of,summarize: throwing away ? discard,5,0
+"[['kernel', '<extra_id_0>', 'slang']]",has context,summarize: kernel ? slang,4,0
+"[['weird', '<extra_id_0>', 'orlay']]",is a synonym of,summarize: weird ? orlay,4,0
+"[['jinrikisha', '<extra_id_0>', 'jinriksha']]",is a form of,summarize: jinrikisha ? jinriksha,9,0
+"[['meet people', '<extra_id_0>', 'friends']]",is motivated by,summarize: meet people ? friends,5,0
+"[['bennington', '<extra_id_0>', 'antiques']]",has context,summarize: bennington ? antiques,7,0
+"[['lasers', '<extra_id_0>', 'kill people']]",is capable of,summarize: lasers ? kill people,5,0
+"[['sofa', '<extra_id_0>', 'lying down']]",is used for,summarize: sofa ? lying down,4,0
+"[['air conditioners', '<extra_id_0>', 'heavy']]",is,summarize: air conditioners ? heavy,6,0
+"[['stall', '<extra_id_0>', 'restroom']]",is in,summarize: stall ? restroom,5,0
+"[['collar bone', '<extra_id_0>', 'collarbone']]",is a form of,summarize: collar bone ? collarbone,5,0
+"[['roll', '<extra_id_0>', 'sit']]",is an antonym of,summarize: roll ? sit,4,0
+"[['ephemerid', '<extra_id_0>', 'insect']]",is a,summarize: ephemerid ? insect,9,0
+"[['savvy', '<extra_id_0>', 'unknowing']]",is distinct from,summarize: savvy ? unknowing,5,0
+"[['boat', '<extra_id_0>', 'traveling']]",is used for,summarize: boat ? traveling,4,0
+"[['optional', '<extra_id_0>', 'required']]",is distinct from,summarize: optional ? required,4,0
+"[['geez', '<extra_id_0>', 'ge ez']]",is a form of,summarize: geez ? ge ez,5,0
+"[['any', '<extra_id_0>', 'particular']]",is distinct from,summarize: any ? particular,4,0
+"[['wr', '<extra_id_0>', 'sports']]",has context,summarize: wr ? sports,6,0
+"[['hunger', '<extra_id_0>', 'begin work']]",causes desire,summarize: hunger ? begin work,4,0
+"[['fail', '<extra_id_0>', 'passed']]",is distinct from,summarize: fail ? passed,4,0
+"[['climbing mountain', '<extra_id_0>', 'excitement']]",is used for,summarize: climbing mountain ? excitement,5,0
+"[['punching', '<extra_id_0>', 'police report']]",causes,summarize: punching ? police report,5,0
+"[['travel', '<extra_id_0>', 'broadening']]",is motivated by,summarize: travel ? broadening,4,0
+"[['improve yourself', '<extra_id_0>', 'look better']]",is motivated by,summarize: improve yourself ? look better,5,0
+"[['score home run', '<extra_id_0>', 'happy']]",has subevent,summarize: score home run ? happy,6,0
+"[['entertaining', '<extra_id_0>', 'fatigue']]",causes,summarize: entertaining ? fatigue,4,0
+"[['master', '<extra_id_0>', 'human being']]",is,summarize: master ? human being,4,0
+"[['packer', '<extra_id_0>', 'us']]",has context,summarize: packer ? us,5,0
+"[['iroquoian', '<extra_id_0>', 'amerind']]",is a,summarize: iroquoian ? amerind,10,0
+"[['gruidae', '<extra_id_0>', 'bird family']]",is a,summarize: gruidae ? bird family,9,0
+"[['cutting hair', '<extra_id_0>', 'sneezing']]",has subevent,summarize: cutting hair ? sneezing,5,0
+"[['read letter', '<extra_id_0>', 'unfold']]",has prerequisite,summarize: read letter ? unfold,5,0
+"[['donor', '<extra_id_0>', 'give blood']]",is capable of,summarize: donor ? give blood,4,0
+"[['capitalize', '<extra_id_0>', 'supply']]",is a manner of,summarize: capitalize ? supply,4,0
+"[['grandmama', '<extra_id_0>', 'grandmamma']]",is a form of,summarize: grandmama ? grandmamma,7,0
+"[['naxos', '<extra_id_0>', 'south aegean']]",is a part of,summarize: naxos ? south aegean,9,0
+"[['living being', '<extra_id_0>', 'sleep']]",is capable of,summarize: living being ? sleep,5,0
+"[['bell', '<extra_id_0>', 'percussion instrument']]",is a,summarize: bell ? percussion instrument,4,0
+"[['knife', '<extra_id_0>', 'severing']]",is used for,summarize: knife ? severing,4,0
+"[['handbag', '<extra_id_0>', 'personal items']]",is used for,summarize: handbag ? personal items,5,0
+"[['go somewhere', '<extra_id_0>', 'die']]",has subevent,summarize: go somewhere ? die,5,0
+"[['buy it', '<extra_id_0>', 'slang']]",has context,summarize: buy it ? slang,5,0
+"[['embed', '<extra_id_0>', 'group']]",is a manner of,summarize: embed ? group,4,0
+"[['also', '<extra_id_0>', 'dissimilarly']]",is distinct from,summarize: also ? dissimilarly,4,0
+"[['bam', '<extra_id_0>', 'wham']]",is a synonym of,summarize: bam ? wham,5,0
+"[['isolate', '<extra_id_0>', 'integrate']]",is distinct from,summarize: isolate ? integrate,4,0
+"[['folder', '<extra_id_0>', 'storage']]",is used for,summarize: folder ? storage,4,0
+"[['lord', '<extra_id_0>', 'australian']]",has context,summarize: lord ? australian,6,0
+"[['buying house', '<extra_id_0>', 'happyness']]",causes,summarize: buying house ? happyness,5,0
+"[['house numbers', '<extra_id_0>', 'house number']]",is a form of,summarize: house numbers ? house number,5,0
+"[['orchidaceae', '<extra_id_0>', 'plant']]",is a,summarize: orchidaceae ? plant,7,0
+"[['away', '<extra_id_0>', 'team']]",is an antonym of,summarize: away ? team,4,0
+"[['endosteum', '<extra_id_0>', 'bone part']]",is a,summarize: endosteum ? bone part,7,0
+"[['sterling', '<extra_id_0>', 'money']]",is a,summarize: sterling ? money,4,0
+"[['humans', '<extra_id_0>', 'reliable']]",is,summarize: humans ? reliable,4,0
+"[['costermonger', '<extra_id_0>', 'fruiterer']]",is a synonym of,summarize: costermonger ? fruiterer,7,0
+"[['reprizes', '<extra_id_0>', 'reprize']]",is a form of,summarize: reprizes ? reprize,7,0
+"[['tell many people about', '<extra_id_0>', 'gesture']]",has subevent,summarize: tell many people about ? gesture,7,0
+"[['meeting people', '<extra_id_0>', 'handshake']]",has prerequisite,summarize: meeting people ? handshake,5,0
+"[['car', '<extra_id_0>', 'car dealership']]",is in,summarize: car ? car dealership,4,0
+"[['blueprint', '<extra_id_0>', 'schematic']]",is a synonym of,summarize: blueprint ? schematic,4,0
+"[['thanking', '<extra_id_0>', 'grateful']]",causes,summarize: thanking ? grateful,5,0
+"[['visiting museum', '<extra_id_0>', 'inspiration']]",causes,summarize: visiting museum ? inspiration,5,0
+"[['view film at home', '<extra_id_0>', 'family movie']]",is motivated by,summarize: view film at home ? family movie,7,0
+"[['watching tv', '<extra_id_0>', 'tv']]",has prerequisite,summarize: watching tv ? tv,7,0
+"[['hardened', '<extra_id_0>', 'case hardened']]",is a synonym of,summarize: hardened ? case hardened,5,0
+"[['driving', '<extra_id_0>', 'injuries']]",causes,summarize: driving ? injuries,4,0
+"[['living being', '<extra_id_0>', 'die']]",is capable of,summarize: living being ? die,5,0
+"[['clean', '<extra_id_0>', 'organize']]",has prerequisite,summarize: clean ? organize,4,0
+"[['making phone call', '<extra_id_0>', 'phone']]",has prerequisite,summarize: making phone call ? phone,6,0
+"[['hose', '<extra_id_0>', 'greenhouse']]",is in,summarize: hose ? greenhouse,5,0
+"[['fall', '<extra_id_0>', 'stand up']]",is an antonym of,summarize: fall ? stand up,4,0
+"[['inner', '<extra_id_0>', 'innermost']]",is a form of,summarize: inner ? innermost,4,0
+"[['swimming in water', '<extra_id_0>', 'fun']]",is,summarize: swimming in water ? fun,6,0
+"[['libyan dirham', '<extra_id_0>', 'libyan dinar']]",is a part of,summarize: libyan dirham ? libyan dinar,9,0
+"[['gas', '<extra_id_0>', 'liquidness']]",is distinct from,summarize: gas ? liquidness,4,0
+"[['being bored', '<extra_id_0>', 'go to play']]",causes desire,summarize: being bored ? go to play,5,0
+"[['affix', '<extra_id_0>', 'word']]",is a part of,summarize: affix ? word,6,0
+"[['run marathon', '<extra_id_0>', 'fishing net']]",has prerequisite,summarize: run marathon ? fishing net,5,0
+"[['triathalon', '<extra_id_0>', 'prove physical endurance']]",causes desire,summarize: triathalon ? prove physical endurance,7,0
+"[['cafe', '<extra_id_0>', 'meeting friends']]",is used for,summarize: cafe ? meeting friends,4,0
+"[['spending money', '<extra_id_0>', 'satisfaction']]",causes,summarize: spending money ? satisfaction,5,0
+"[['snoring', '<extra_id_0>', 'nostrils']]",has prerequisite,summarize: snoring ? nostrils,8,0
+"[['frogs', '<extra_id_0>', 'hop']]",is capable of,summarize: frogs ? hop,7,0
+"[['empty bladder', '<extra_id_0>', 'full']]",is motivated by,summarize: empty bladder ? full,5,0
+"[['send criminal to prison', '<extra_id_0>', 'call police']]",has prerequisite,summarize: send criminal to prison ? call police,7,0
+"[['spending money', '<extra_id_0>', 'buying things']]",causes,summarize: spending money ? buying things,5,0
+"[['lazy', '<extra_id_0>', 'energetic']]",is distinct from,summarize: lazy ? energetic,4,0
+"[['failure', '<extra_id_0>', 'improve yourself']]",causes desire,summarize: failure ? improve yourself,4,0
+"[['cover', '<extra_id_0>', 'see']]",is a manner of,summarize: cover ? see,4,0
+"[['metanalysis', '<extra_id_0>', 'linguistics']]",has context,summarize: metanalysis ? linguistics,5,0
+"[['going to mall', '<extra_id_0>', 'bankruptcy']]",causes,summarize: going to mall ? bankruptcy,6,0
+"[['short circuit', '<extra_id_0>', 'dangerous']]",is,summarize: short circuit ? dangerous,5,0
+"[['listening to music', '<extra_id_0>', 'falling asleep']]",is used for,summarize: listening to music ? falling asleep,6,0
+"[['labyrinth', '<extra_id_0>', 'intricate']]",is,summarize: labyrinth ? intricate,8,0
+"[['attending class', '<extra_id_0>', 'listen to music']]",has subevent,summarize: attending class ? listen to music,5,0
+"[['fried dough', '<extra_id_0>', 'carnival']]",is in,summarize: fried dough ? carnival,6,0
+"[['socialising', '<extra_id_0>', 'friendships']]",causes,summarize: socialising ? friendships,5,0
+"[['wishy washy', '<extra_id_0>', 'hearty']]",is distinct from,summarize: wishy washy ? hearty,7,0
+"[['experts', '<extra_id_0>', 'conference']]",is in,summarize: experts ? conference,4,0
+"[['people', '<extra_id_0>', 'weather storm']]",is capable of,summarize: people ? weather storm,4,0
+"[['gum arabic', '<extra_id_0>', 'gum']]",is a,summarize: gum arabic ? gum,6,0
+"[['dad', '<extra_id_0>', 'cool']]",is,summarize: dad ? cool,4,0
+"[['rappelling', '<extra_id_0>', 'rappel']]",is a form of,summarize: rappelling ? rappel,5,0
+"[['clerk', '<extra_id_0>', 'mind store']]",is capable of,summarize: clerk ? mind store,4,0
+"[['oil', '<extra_id_0>', 'still water']]",is capable of,summarize: oil ? still water,4,0
+"[['spectrum', '<extra_id_0>', 'chemistry']]",has context,summarize: spectrum ? chemistry,4,0
+"[['ball signal', '<extra_id_0>', 'historical']]",has context,summarize: ball signal ? historical,5,0
+"[['wap', '<extra_id_0>', 'uk']]",has context,summarize: wap ? uk,5,0
+"[['sew', '<extra_id_0>', 'fasten']]",is a manner of,summarize: sew ? fasten,5,0
+"[['going to movie', '<extra_id_0>', 'seeing new']]",causes,summarize: going to movie ? seeing new,6,0
+"[['play lacrosse', '<extra_id_0>', 'compete']]",is motivated by,summarize: play lacrosse ? compete,7,0
+"[['inspiration', '<extra_id_0>', 'write']]",causes desire,summarize: inspiration ? write,4,0
+"[['grandfather clocks', '<extra_id_0>', 'grandfather clock']]",is a form of,summarize: grandfather clocks ? grandfather clock,6,0
+"[['sleep at night', '<extra_id_0>', 'dream']]",is motivated by,summarize: sleep at night ? dream,6,0
+"[['build', '<extra_id_0>', 'intensify']]",is a manner of,summarize: build ? intensify,4,0
+"[['watch film', '<extra_id_0>', 'interesting']]",is motivated by,summarize: watch film ? interesting,5,0
+"[['marble', '<extra_id_0>', 'porous']]",is,summarize: marble ? porous,4,0
+"[['oviscapte', '<extra_id_0>', 'entomology']]",has context,summarize: oviscapte ? entomology,8,0
+"[['real estate agent', '<extra_id_0>', 'advertise']]",is capable of,summarize: real estate agent ? advertise,6,0
+"[['bars', '<extra_id_0>', 'sports']]",has context,summarize: bars ? sports,4,0
+"[['bug spray', '<extra_id_0>', 'backpack']]",is in,summarize: bug spray ? backpack,5,0
+"[['manege', '<extra_id_0>', 'manège']]",is a form of,summarize: manege ? manège,6,0
+"[['skate', '<extra_id_0>', 'get laid']]",is motivated by,summarize: skate ? get laid,4,0
+"[['wedding ring', '<extra_id_0>', 'marry']]",is used for,summarize: wedding ring ? marry,6,0
+"[['roads', '<extra_id_0>', 'outside']]",is,summarize: roads ? outside,4,0
+"[['jazz up', '<extra_id_0>', 'enliven']]",is a manner of,summarize: jazz up ? enliven,5,0
+"[['electro magnetic ibt', '<extra_id_0>', 'information bearing wave propagation']]",is a,summarize: electro magnetic ibt ? information bearing wave propagation,9,0
+"[['run', '<extra_id_0>', 'still']]",is an antonym of,summarize: run ? still,4,0
+"[['divider', '<extra_id_0>', 'partition']]",is a synonym of,summarize: divider ? partition,5,0
+"[['perfuse', '<extra_id_0>', 'flush']]",is a manner of,summarize: perfuse ? flush,6,0
+"[['abate', '<extra_id_0>', 'augment']]",is an antonym of,summarize: abate ? augment,5,0
+"[['passageway', '<extra_id_0>', 'castle']]",is in,summarize: passageway ? castle,5,0
+"[['jump out of window', '<extra_id_0>', 'open wide']]",has prerequisite,summarize: jump out of window ? open wide,7,0
+"[['lunch break', '<extra_id_0>', 'sate hunger']]",causes desire,summarize: lunch break ? sate hunger,5,0
+"[['go to restaurant', '<extra_id_0>', 'hamburger']]",is motivated by,summarize: go to restaurant ? hamburger,6,0
+"[['wait for', '<extra_id_0>', 'punctual']]",has prerequisite,summarize: wait for ? punctual,5,0
+"[['person', '<extra_id_0>', 'taste']]",is capable of,summarize: person ? taste,4,0
+"[['head to wind', '<extra_id_0>', 'in irons']]",is a synonym of,summarize: head to wind ? in irons,6,0
+"[['hair', '<extra_id_0>', 'thin']]",is,summarize: hair ? thin,4,0
+"[['hug', '<extra_id_0>', 'sad']]",is motivated by,summarize: hug ? sad,4,0
+"[['calm air', '<extra_id_0>', 'beaufort scale']]",is a part of,summarize: calm air ? beaufort scale,5,0
+"[['making friends', '<extra_id_0>', 'smiling']]",has prerequisite,summarize: making friends ? smiling,5,0
+"[['protrudes', '<extra_id_0>', 'protrude']]",is a form of,summarize: protrudes ? protrude,6,0
+"[['going to market', '<extra_id_0>', 'meeting new people']]",causes,summarize: going to market ? meeting new people,6,0
+"[['outer space', '<extra_id_0>', 'infinite']]",is,summarize: outer space ? infinite,5,0
+"[['pouch', '<extra_id_0>', 'mail']]",is a manner of,summarize: pouch ? mail,4,0
+"[['village', '<extra_id_0>', 'playing']]",is used for,summarize: village ? playing,4,0
+"[['rocket launcher', '<extra_id_0>', 'assault rifle']]",is distinct from,summarize: rocket launcher ? assault rifle,6,0
+"[['playing chess', '<extra_id_0>', 'frustration']]",causes,summarize: playing chess ? frustration,7,0
+"[['pivotal', '<extra_id_0>', 'minor']]",is distinct from,summarize: pivotal ? minor,5,0
+"[['dichotomy', '<extra_id_0>', 'biology']]",has context,summarize: dichotomy ? biology,7,0
+"[['washing hands', '<extra_id_0>', 'sanitation']]",is used for,summarize: washing hands ? sanitation,5,0
+"[['disk', '<extra_id_0>', 'throw']]",is used for,summarize: disk ? throw,4,0
+"[['arm', '<extra_id_0>', 'coat']]",is in,summarize: arm ? coat,4,0
+"[['have rest', '<extra_id_0>', 'get fresh']]",is motivated by,summarize: have rest ? get fresh,5,0
+"[['tetrahydrofuran', '<extra_id_0>', 'thf']]",is a synonym of,summarize: tetrahydrofuran ? thf,11,0
+"[['those', '<extra_id_0>', 'these']]",is an antonym of,summarize: those ? these,4,0
+"[['having shower', '<extra_id_0>', 'getting wet']]",causes,summarize: having shower ? getting wet,5,0
+"[['apply for job', '<extra_id_0>', 'get hair cut']]",has prerequisite,summarize: apply for job ? get hair cut,6,0
+"[['distrain', '<extra_id_0>', 'reclaim']]",is a manner of,summarize: distrain ? reclaim,5,0
+"[['sedimentation', '<extra_id_0>', 'deposit']]",is a synonym of,summarize: sedimentation ? deposit,5,0
+"[['beaver', '<extra_id_0>', 'beaver dam']]",is in,summarize: beaver ? beaver dam,6,0
+"[['improving yourself', '<extra_id_0>', 'learning']]",has subevent,summarize: improving yourself ? learning,5,0
+"[['challenger', '<extra_id_0>', 'throw down gauntlet']]",is capable of,summarize: challenger ? throw down gauntlet,5,0
+"[['lubricants', '<extra_id_0>', 'slippery']]",is,summarize: lubricants ? slippery,7,0
+"[['marijuana', '<extra_id_0>', 'get high']]",is capable of,summarize: marijuana ? get high,4,0
+"[['handle', '<extra_id_0>', 'brush']]",is a part of,summarize: handle ? brush,4,0
+"[['tumid', '<extra_id_0>', 'physiology']]",has context,summarize: tumid ? physiology,7,0
+"[['family room', '<extra_id_0>', 'play game']]",is used for,summarize: family room ? play game,5,0
+"[['learning', '<extra_id_0>', 'pride']]",causes,summarize: learning ? pride,4,0
+"[['gardener', '<extra_id_0>', 'water plant']]",is capable of,summarize: gardener ? water plant,5,0
+"[['canal', '<extra_id_0>', 'supply']]",is a manner of,summarize: canal ? supply,4,0
+"[['repent', '<extra_id_0>', 'feel']]",is a manner of,summarize: repent ? feel,5,0
+"[['ink', '<extra_id_0>', 'well']]",is in,summarize: ink ? well,5,0
+"[['join army', '<extra_id_0>', 'in shape']]",has prerequisite,summarize: join army ? in shape,5,0
+"[['downcast', '<extra_id_0>', 'down in mouth']]",is a synonym of,summarize: downcast ? down in mouth,5,0
+"[['grocer', '<extra_id_0>', 'fresh vegetables']]",is used for,summarize: grocer ? fresh vegetables,6,0
+"[['breathe fresh air', '<extra_id_0>', 'refreshing']]",is motivated by,summarize: breathe fresh air ? refreshing,6,0
+"[['view', '<extra_id_0>', 'relaxing']]",is,summarize: view ? relaxing,4,0
+"[['trojan horse', '<extra_id_0>', 'business']]",has context,summarize: trojan horse ? business,6,0
+"[['underground area', '<extra_id_0>', 'subway system']]",is in,summarize: underground area ? subway system,5,0
+"[['haft', '<extra_id_0>', 'dagger']]",is a part of,summarize: haft ? dagger,5,0
+"[['gun', '<extra_id_0>', 'knife']]",is an antonym of,summarize: gun ? knife,4,0
+"[['war', '<extra_id_0>', 'dangerous']]",is,summarize: war ? dangerous,4,0
+"[['reading', '<extra_id_0>', 'entertained']]",causes,summarize: reading ? entertained,4,0
+"[['forgiving', '<extra_id_0>', 'wimps']]",is used for,summarize: forgiving ? wimps,5,0
+"[['driving car', '<extra_id_0>', 'commuting']]",is used for,summarize: driving car ? commuting,5,0
+"[[""i've"", '<extra_id_0>', ""they've""]]",is distinct from,summarize: i've ? they've,7,0
+"[['evasion', '<extra_id_0>', 'negligence']]",is a,summarize: evasion ? negligence,6,0
+"[['winning prize', '<extra_id_0>', 'mail letter']]",causes desire,summarize: winning prize ? mail letter,5,0
+"[['testability', '<extra_id_0>', 'untestability']]",is an antonym of,summarize: testability ? untestability,5,0
+"[['fitness equipment', '<extra_id_0>', 'device']]",is a,summarize: fitness equipment ? device,5,0
+"[['mathematical operation', '<extra_id_0>', 'mathematical process']]",is a synonym of,summarize: mathematical operation ? mathematical process,5,0
+"[['leer', '<extra_id_0>', 'town']]",is a,summarize: leer ? town,5,0
+"[['conspiring', '<extra_id_0>', 'cooperating']]",is a,summarize: conspiring ? cooperating,5,0
+"[['walk dog', '<extra_id_0>', 'go out']]",has prerequisite,summarize: walk dog ? go out,5,0
+"[['his', '<extra_id_0>', 'mine']]",is distinct from,summarize: his ? mine,4,0
+"[['inglenook', '<extra_id_0>', 'architecture']]",has context,summarize: inglenook ? architecture,6,0
+"[['store', '<extra_id_0>', 'buying things']]",is used for,summarize: store ? buying things,4,0
+"[['truths', '<extra_id_0>', 'simple']]",is,summarize: truths ? simple,5,0
+"[['vicissitudes', '<extra_id_0>', 'vicissitude']]",is a form of,summarize: vicissitudes ? vicissitude,9,0
+"[['living entities', '<extra_id_0>', 'diving']]",is capable of,summarize: living entities ? diving,5,0
+"[['bjt', '<extra_id_0>', 'electronics']]",has context,summarize: bjt ? electronics,7,0
+"[['lizard', '<extra_id_0>', 'books']]",is in,summarize: lizard ? books,6,0
+"[['too many people', '<extra_id_0>', 'starving']]",is,summarize: too many people ? starving,6,0
+"[['oospheres', '<extra_id_0>', 'oosphere']]",is a form of,summarize: oospheres ? oosphere,8,0
+"[['nazi', '<extra_id_0>', 'commit genocide']]",is capable of,summarize: nazi ? commit genocide,5,0
+"[['urinating', '<extra_id_0>', 'bladder']]",has prerequisite,summarize: urinating ? bladder,7,0
+"[['boredom', '<extra_id_0>', 'work']]",causes desire,summarize: boredom ? work,5,0
+"[['secret police', '<extra_id_0>', 'police']]",is a,summarize: secret police ? police,5,0
+"[['little dipper', '<extra_id_0>', 'little bear']]",is a part of,summarize: little dipper ? little bear,6,0
+"[['forelock', '<extra_id_0>', 'encolure']]",is a part of,summarize: forelock ? encolure,6,0
+"[['mill', '<extra_id_0>', 'city']]",is in,summarize: mill ? city,4,0
+"[['open business', '<extra_id_0>', 'lifestyle']]",is motivated by,summarize: open business ? lifestyle,5,0
+"[['ottoman empire', '<extra_id_0>', 'country']]",is a,summarize: ottoman empire ? country,5,0
+"[['ardour', '<extra_id_0>', 'software']]",is a,summarize: ardour ? software,6,0
+"[['buying presents', '<extra_id_0>', 'make happy']]",causes,summarize: buying presents ? make happy,5,0
+"[['diminish own hunger', '<extra_id_0>', 'lose weight']]",has subevent,summarize: diminish own hunger ? lose weight,6,0
+"[['large building', '<extra_id_0>', 'tangible thing']]",is a,summarize: large building ? tangible thing,5,0
+"[['picnic', '<extra_id_0>', 'park']]",is in,summarize: picnic ? park,4,0
+"[['overeating', '<extra_id_0>', 'exercise']]",causes desire,summarize: overeating ? exercise,6,0
+"[['infrared spectrum', '<extra_id_0>', 'electromagnetic spectrum']]",is a part of,summarize: infrared spectrum ? electromagnetic spectrum,8,0
+"[['shortlived', '<extra_id_0>', 'short lived']]",is a form of,summarize: shortlived ? short lived,6,0
+"[[""break someone's heart"", '<extra_id_0>', 'pain']]",is a manner of,summarize: break someone's heart ? pain,8,0
+"[['cell wall', '<extra_id_0>', 'semipermeable membrane']]",is a,summarize: cell wall ? semipermeable membrane,5,0
+"[['celebrating', '<extra_id_0>', 'joking around']]",has subevent,summarize: celebrating ? joking around,4,0
+"[['refuse', '<extra_id_0>', 'comply']]",is distinct from,summarize: refuse ? comply,4,0
+"[['tellurian', '<extra_id_0>', 'tellurion']]",is a form of,summarize: tellurian ? tellurion,6,0
+"[['super power', '<extra_id_0>', 'superpower']]",is a form of,summarize: super power ? superpower,5,0
+"[['croat', '<extra_id_0>', 'human']]",is a,summarize: croat ? human,6,0
+"[['friends', '<extra_id_0>', 'clean room']]",causes desire,summarize: friends ? clean room,4,0
+"[['vacation', '<extra_id_0>', 'learn language']]",causes desire,summarize: vacation ? learn language,4,0
+"[['nerve endings', '<extra_id_0>', 'nerve ending']]",is a form of,summarize: nerve endings ? nerve ending,6,0
+"[['displeased', '<extra_id_0>', 'displease']]",is a form of,summarize: displeased ? displease,6,0
+"[['churn out', '<extra_id_0>', 'perform']]",is a manner of,summarize: churn out ? perform,8,0
+"[['barnstormer', '<extra_id_0>', 'pilot']]",is a,summarize: barnstormer ? pilot,6,0
+"[['microphone', '<extra_id_0>', 'amplification']]",is used for,summarize: microphone ? amplification,4,0
+"[['playing basketball', '<extra_id_0>', 'players']]",has prerequisite,summarize: playing basketball ? players,5,0
+"[['set', '<extra_id_0>', 'fructify']]",is a synonym of,summarize: set ? fructify,4,0
+"[['austrian monetary unit', '<extra_id_0>', 'monetary unit']]",is a,summarize: austrian monetary unit ? monetary unit,9,0
+"[['tack', '<extra_id_0>', 'change']]",is a synonym of,summarize: tack ? change,6,0
+"[['student', '<extra_id_0>', 'talk']]",is capable of,summarize: student ? talk,4,0
+"[['apples', '<extra_id_0>', 'yellow']]",is,summarize: apples ? yellow,4,0
+"[['sorrow', '<extra_id_0>', 'life']]",is a part of,summarize: sorrow ? life,4,0
+"[['pen pencils', '<extra_id_0>', 'pen pencil']]",is a form of,summarize: pen pencils ? pen pencil,6,0
+"[['block of flats', '<extra_id_0>', 'leasing']]",is used for,summarize: block of flats ? leasing,7,0
+"[['improbability', '<extra_id_0>', 'probability']]",is distinct from,summarize: improbability ? probability,7,0
+"[['equal', '<extra_id_0>', 'unfair']]",is an antonym of,summarize: equal ? unfair,4,0
+"[['manchester', '<extra_id_0>', 'cheshire']]",is a part of,summarize: manchester ? cheshire,5,0
+"[['boobie', '<extra_id_0>', 'booby']]",is a form of,summarize: boobie ? booby,6,0
+"[['tv', '<extra_id_0>', 'blaring']]",is capable of,summarize: tv ? blaring,6,0
+"[['release energy', '<extra_id_0>', 'burn off']]",is motivated by,summarize: release energy ? burn off,5,0
+"[['drinking alcohol', '<extra_id_0>', 'sensibility']]",has prerequisite,summarize: drinking alcohol ? sensibility,5,0
+"[['skywards', '<extra_id_0>', 'landward']]",is an antonym of,summarize: skywards ? landward,6,0
+"[['create art', '<extra_id_0>', 'paint picture']]",has prerequisite,summarize: create art ? paint picture,5,0
+"[['holding together', '<extra_id_0>', 'hold together']]",is a form of,summarize: holding together ? hold together,5,0
+"[['compliment', '<extra_id_0>', 'kiss']]",causes desire,summarize: compliment ? kiss,4,0
+"[['comb', '<extra_id_0>', 'algebraic geometry']]",has context,summarize: comb ? algebraic geometry,5,0
+"[['driving to work', '<extra_id_0>', 'boredom']]",causes,summarize: driving to work ? boredom,6,0
+"[['bad child', '<extra_id_0>', 'corner']]",is in,summarize: bad child ? corner,5,0
+"[['shine', '<extra_id_0>', 'be']]",is a manner of,summarize: shine ? be,4,0
+"[['voting booths', '<extra_id_0>', 'voting booth']]",is a form of,summarize: voting booths ? voting booth,6,0
+"[['swimming pool', '<extra_id_0>', 'getting wet']]",is used for,summarize: swimming pool ? getting wet,5,0
+"[['fat', '<extra_id_0>', 'slim']]",is an antonym of,summarize: fat ? slim,4,0
+"[['going out for dinner', '<extra_id_0>', 'tape television show']]",causes desire,summarize: going out for dinner ? tape television show,7,0
+"[['euphrates', '<extra_id_0>', 'syria']]",is a part of,summarize: euphrates ? syria,8,0
+"[['underground area', '<extra_id_0>', 'bomb shelter']]",is in,summarize: underground area ? bomb shelter,5,0
+"[['call friend', '<extra_id_0>', 'speak to']]",is motivated by,summarize: call friend ? speak to,5,0
+"[['filler', '<extra_id_0>', 'copy']]",is a,summarize: filler ? copy,5,0
+"[['above board', '<extra_id_0>', 'straightforwardly']]",is a synonym of,summarize: above board ? straightforwardly,5,0
+"[['rocket launcher', '<extra_id_0>', 'machine gun']]",is distinct from,summarize: rocket launcher ? machine gun,6,0
+"[['speaker', '<extra_id_0>', 'measure words']]",is capable of,summarize: speaker ? measure words,4,0
+"[['new hair style', '<extra_id_0>', 'cut hair']]",causes desire,summarize: new hair style ? cut hair,6,0
+"[['polite', '<extra_id_0>', 'attentive']]",is a synonym of,summarize: polite ? attentive,5,0
+"[['acceptor', '<extra_id_0>', 'physics']]",has context,summarize: acceptor ? physics,5,0
+"[['tofu', '<extra_id_0>', 'refrigerator']]",is in,summarize: tofu ? refrigerator,6,0
+"[['compost', '<extra_id_0>', 'garden']]",is in,summarize: compost ? garden,4,0
+"[['relax', '<extra_id_0>', 'go to bed']]",has prerequisite,summarize: relax ? go to bed,4,0
+"[['wet paint', '<extra_id_0>', 'dangerous']]",is,summarize: wet paint ? dangerous,6,0
+"[['rectum', '<extra_id_0>', 'large intestine']]",is a part of,summarize: rectum ? large intestine,6,0
+"[['infima', '<extra_id_0>', 'infimum']]",is a form of,summarize: infima ? infimum,7,0
+"[['harmonica', '<extra_id_0>', 'celebrate']]",is used for,summarize: harmonica ? celebrate,5,0
+"[['cabin', '<extra_id_0>', 'liner']]",is a part of,summarize: cabin ? liner,4,0
+"[['meeting people', '<extra_id_0>', 'getting together with friends']]",is used for,summarize: meeting people ? getting together with friends,5,0
+"[['protective garment', '<extra_id_0>', 'defense system']]",is a,summarize: protective garment ? defense system,5,0
+"[['take stand', '<extra_id_0>', 'move']]",is motivated by,summarize: take stand ? move,5,0
+"[['blue ridge mountains', '<extra_id_0>', 'pennsylvania']]",is a part of,summarize: blue ridge mountains ? pennsylvania,7,0
+"[['wait for', '<extra_id_0>', 'exercise']]",has subevent,summarize: wait for ? exercise,5,0
+"[['washing clothes', '<extra_id_0>', 'water']]",has prerequisite,summarize: washing clothes ? water,5,0
+"[['marmot', '<extra_id_0>', 'mongolia']]",is in,summarize: marmot ? mongolia,5,0
+"[['omelettes', '<extra_id_0>', 'omelets']]",is a form of,summarize: omelettes ? omelets,7,0
+"[['follow recipe', '<extra_id_0>', 'dinner']]",has subevent,summarize: follow recipe ? dinner,5,0
+"[['cleaning room', '<extra_id_0>', 'sneezing']]",causes,summarize: cleaning room ? sneezing,5,0
+"[['entertain people', '<extra_id_0>', 'funny']]",has prerequisite,summarize: entertain people ? funny,5,0
+"[['play basketball', '<extra_id_0>', 'get in shape']]",is motivated by,summarize: play basketball ? get in shape,5,0
+"[['mott', '<extra_id_0>', 'mot']]",is a form of,summarize: mott ? mot,5,0
+"[['ruler', '<extra_id_0>', 'office']]",is in,summarize: ruler ? office,4,0
+"[['curiosity', '<extra_id_0>', 'surf net']]",causes desire,summarize: curiosity ? surf net,4,0
+"[['warm', '<extra_id_0>', 'quick']]",is a synonym of,summarize: warm ? quick,4,0
+"[['jailer', '<extra_id_0>', 'screw']]",is a synonym of,summarize: jailer ? screw,5,0
+"[['slides', '<extra_id_0>', 'laboratory']]",is in,summarize: slides ? laboratory,4,0
+"[['boredom', '<extra_id_0>', 'eat in fast food restaurant']]",causes desire,summarize: boredom ? eat in fast food restaurant,5,0
+"[['colon', '<extra_id_0>', 'panama']]",is a part of,summarize: colon ? panama,4,0
+"[['receiving degree', '<extra_id_0>', 'money']]",has prerequisite,summarize: receiving degree ? money,5,0
+"[['connect', '<extra_id_0>', 'pull']]",is an antonym of,summarize: connect ? pull,4,0
+"[['care', '<extra_id_0>', 'apathy']]",is an antonym of,summarize: care ? apathy,4,0
+"[['running', '<extra_id_0>', 'speed']]",is used for,summarize: running ? speed,4,0
+"[['california', '<extra_id_0>', 'united states']]",is a part of,summarize: california ? united states,9,0
+"[['pretty woman', '<extra_id_0>', 'go jogging']]",causes desire,summarize: pretty woman ? go jogging,5,0
+"[['lack of money', '<extra_id_0>', 'get job']]",causes desire,summarize: lack of money ? get job,6,0
+"[['gate', '<extra_id_0>', 'operate']]",is a manner of,summarize: gate ? operate,4,0
+"[['gamesmanship', '<extra_id_0>', 'play hockey']]",causes desire,summarize: gamesmanship ? play hockey,6,0
+"[['styles', '<extra_id_0>', 'draw attention']]",is capable of,summarize: styles ? draw attention,4,0
+"[['awaking', '<extra_id_0>', 'annoyance']]",causes,summarize: awaking ? annoyance,6,0
+"[['leather', '<extra_id_0>', 'whips']]",is used for,summarize: leather ? whips,4,0
+"[['animals', '<extra_id_0>', 'move']]",is capable of,summarize: animals ? move,4,0
+"[['roller', '<extra_id_0>', 'coraciiform bird']]",is a,summarize: roller ? coraciiform bird,4,0
+"[['christmas', '<extra_id_0>', 'buy christmas presents']]",causes desire,summarize: christmas ? buy christmas presents,4,0
+"[['go for swim', '<extra_id_0>', 'exercise']]",is motivated by,summarize: go for swim ? exercise,6,0
+"[['watching tv', '<extra_id_0>', 'read']]",has subevent,summarize: watching tv ? read,7,0
+"[['provost', '<extra_id_0>', 'scotland']]",has context,summarize: provost ? scotland,6,0
+"[['improving yourself', '<extra_id_0>', 'promotion']]",causes,summarize: improving yourself ? promotion,5,0
+"[['friendshipper', '<extra_id_0>', 'shipper']]",is an antonym of,summarize: friendshipper ? shipper,5,0
+"[['return', '<extra_id_0>', 'hark back']]",is a synonym of,summarize: return ? hark back,4,0
+"[['weapon system', '<extra_id_0>', 'system']]",is a,summarize: weapon system ? system,5,0
+"[['air pollution', '<extra_id_0>', 'polluting']]",is a,summarize: air pollution ? polluting,5,0
+"[['hash', '<extra_id_0>', 'illegal']]",is,summarize: hash ? illegal,5,0
+"[['farting', '<extra_id_0>', 'stink']]",causes,summarize: farting ? stink,5,0
+"[['overpeopled', '<extra_id_0>', 'overpeople']]",is a form of,summarize: overpeopled ? overpeople,6,0
+"[['cyclist', '<extra_id_0>', 'ride bike']]",is capable of,summarize: cyclist ? ride bike,4,0
+"[['bob', '<extra_id_0>', 'nuts']]",is,summarize: bob ? nuts,5,0
+"[['inconceivableness', '<extra_id_0>', 'conceivableness']]",is an antonym of,summarize: inconceivableness ? conceivableness,7,0
+"[['play cards', '<extra_id_0>', 'dealing']]",has subevent,summarize: play cards ? dealing,5,0
+"[['lot', '<extra_id_0>', 'small']]",is distinct from,summarize: lot ? small,4,0
+"[['hairdressing salon', '<extra_id_0>', 'getting haircut']]",is used for,summarize: hairdressing salon ? getting haircut,7,0
+"[['flags', '<extra_id_0>', 'wave']]",is capable of,summarize: flags ? wave,5,0
+"[['rots', '<extra_id_0>', 'rot']]",is a form of,summarize: rots ? rot,6,0
+"[['government', '<extra_id_0>', 'school children']]",is capable of,summarize: government ? school children,4,0
+"[['jin', '<extra_id_0>', 'djinn']]",is a form of,summarize: jin ? djinn,6,0
+"[['dirty', '<extra_id_0>', 'bright']]",is an antonym of,summarize: dirty ? bright,4,0
+"[['camp', '<extra_id_0>', 'second messenger']]",is a,summarize: camp ? second messenger,4,0
+"[['touch', '<extra_id_0>', 'somatosense']]",is a,summarize: touch ? somatosense,4,0
+"[['care', '<extra_id_0>', 'mean']]",is an antonym of,summarize: care ? mean,4,0
+"[['fruit', '<extra_id_0>', 'sour']]",is,summarize: fruit ? sour,4,0
+"[['remember', '<extra_id_0>', 'relive']]",is motivated by,summarize: remember ? relive,4,0
+"[['feeding family', '<extra_id_0>', 'growth']]",causes,summarize: feeding family ? growth,5,0
+"[['olive', '<extra_id_0>', 'martini']]",is a part of,summarize: olive ? martini,4,0
+"[['playing tennis', '<extra_id_0>', 'intelligent agent activity']]",is a,summarize: playing tennis ? intelligent agent activity,5,0
+"[[""they're"", '<extra_id_0>', ""she's""]]",is distinct from,summarize: they're ? she's,6,0
+"[['indecomposable', '<extra_id_0>', 'maths']]",has context,summarize: indecomposable ? maths,8,0
+"[['gay', '<extra_id_0>', 'loosely']]",has context,summarize: gay ? loosely,4,0
+"[['thinking', '<extra_id_0>', 'write program']]",causes desire,summarize: thinking ? write program,4,0
+"[['amicableness', '<extra_id_0>', 'disputatiousness']]",is distinct from,summarize: amicableness ? disputatiousness,7,0
+"[['do housework', '<extra_id_0>', 'getting dirty']]",has subevent,summarize: do housework ? getting dirty,6,0
+"[['buying food', '<extra_id_0>', 'hunger']]",causes,summarize: buying food ? hunger,5,0
+"[['playing sports', '<extra_id_0>', 'good health']]",causes,summarize: playing sports ? good health,5,0
+"[['liquids', '<extra_id_0>', 'separate out']]",is capable of,summarize: liquids ? separate out,5,0
+"[['charitable', '<extra_id_0>', 'beneficent']]",is a synonym of,summarize: charitable ? beneficent,4,0
+"[['take walk', '<extra_id_0>', 'need to think']]",is motivated by,summarize: take walk ? need to think,5,0
+"[['takeoff', '<extra_id_0>', 'printing']]",has context,summarize: takeoff ? printing,5,0
+"[['blinker', '<extra_id_0>', 'electrical system']]",is a part of,summarize: blinker ? electrical system,5,0
+"[['coon', '<extra_id_0>', 'us']]",has context,summarize: coon ? us,5,0
+"[['cling', '<extra_id_0>', 'grasp']]",is a manner of,summarize: cling ? grasp,6,0
+"[['acting in play', '<extra_id_0>', 'pride']]",causes,summarize: acting in play ? pride,6,0
+"[['school library', '<extra_id_0>', 'school']]",is in,summarize: school library ? school,5,0
+"[['find information', '<extra_id_0>', 'do job']]",is motivated by,summarize: find information ? do job,5,0
+"[['utilization', '<extra_id_0>', 'utilisation']]",is a form of,summarize: utilization ? utilisation,4,0
+"[['talk', '<extra_id_0>', 'sit']]",is an antonym of,summarize: talk ? sit,4,0
+"[['chesterfield', '<extra_id_0>', 'living room']]",is in,summarize: chesterfield ? living room,6,0
+"[[""you're"", '<extra_id_0>', ""she's""]]",is distinct from,summarize: you're ? she's,6,0
+"[['all', '<extra_id_0>', 'and all']]",is a form of,summarize: all ? and all,4,0
+"[['touch', '<extra_id_0>', 'hearing']]",is distinct from,summarize: touch ? hearing,4,0
+"[['printer', '<extra_id_0>', 'desk']]",is in,summarize: printer ? desk,4,0
+"[['sound', '<extra_id_0>', 'muted']]",is distinct from,summarize: sound ? muted,4,0
+"[['sprocket', '<extra_id_0>', 'camera']]",is a part of,summarize: sprocket ? camera,8,0
+"[['kitten', '<extra_id_0>', 'floor']]",is in,summarize: kitten ? floor,4,0
+"[['work', '<extra_id_0>', 'get dressed']]",has prerequisite,summarize: work ? get dressed,4,0
+"[['term', '<extra_id_0>', 'name']]",is a manner of,summarize: term ? name,4,0
+"[['riyal omani', '<extra_id_0>', 'omani monetary unit']]",is a,summarize: riyal omani ? omani monetary unit,10,0
+"[['ping', '<extra_id_0>', 'thailand']]",is a part of,summarize: ping ? thailand,5,0
+"[['crab', '<extra_id_0>', 'sandy beach']]",is in,summarize: crab ? sandy beach,4,0
+"[['call', '<extra_id_0>', 'hangup']]",is distinct from,summarize: call ? hangup,4,0
+"[['story', '<extra_id_0>', 'interesting']]",is,summarize: story ? interesting,4,0
+"[['souse', '<extra_id_0>', 'drink']]",is a manner of,summarize: souse ? drink,5,0
+"[['eat healthily', '<extra_id_0>', 'live']]",is motivated by,summarize: eat healthily ? live,7,0
+"[['disdain', '<extra_id_0>', 'revere']]",is an antonym of,summarize: disdain ? revere,7,0
+"[['love', '<extra_id_0>', 'contagious']]",is,summarize: love ? contagious,4,0
+"[['icing', '<extra_id_0>', 'maneuver']]",is a,summarize: icing ? maneuver,6,0
+"[['punctuation', '<extra_id_0>', 'interruption']]",is a,summarize: punctuation ? interruption,6,0
+"[['last', '<extra_id_0>', 'before']]",is distinct from,summarize: last ? before,4,0
+"[['overflow', '<extra_id_0>', 'bathroom']]",is in,summarize: overflow ? bathroom,5,0
+"[['a', '<extra_id_0>', 'mammal']]",is capable of,summarize: a ? mammal,5,0
+"[['listening to music', '<extra_id_0>', 'hearing']]",has prerequisite,summarize: listening to music ? hearing,6,0
+"[['homey', '<extra_id_0>', 'sheila']]",is distinct from,summarize: homey ? sheila,5,0
+"[['disabled', '<extra_id_0>', 'incapacitated']]",is a synonym of,summarize: disabled ? incapacitated,4,0
+"[['zippy', '<extra_id_0>', 'bouncing']]",is a synonym of,summarize: zippy ? bouncing,5,0
+"[['eloquent', '<extra_id_0>', 'tongueless']]",is distinct from,summarize: eloquent ? tongueless,8,0
+"[['narrowness', '<extra_id_0>', 'wide']]",is distinct from,summarize: narrowness ? wide,5,0
+"[['animals', '<extra_id_0>', 'edible']]",is,summarize: animals ? edible,4,0
+"[['crumb', '<extra_id_0>', 'coat']]",is a manner of,summarize: crumb ? coat,5,0
+"[['inuinnaqtun', '<extra_id_0>', 'inuvialuktun']]",is a part of,summarize: inuinnaqtun ? inuvialuktun,11,0
+"[['barroom', '<extra_id_0>', 'public house']]",is a part of,summarize: barroom ? public house,5,0
+"[['mommy', '<extra_id_0>', 'fix']]",is capable of,summarize: mommy ? fix,5,0
+"[['cut artery', '<extra_id_0>', 'dangerous']]",is,summarize: cut artery ? dangerous,6,0
+"[['tripping', '<extra_id_0>', ""losing one's balance""]]",is a,summarize: tripping ? losing one's balance,6,0
+"[['challenger', '<extra_id_0>', 'test strength']]",causes desire,summarize: challenger ? test strength,5,0
+"[['going to bed', '<extra_id_0>', 'pillow']]",has prerequisite,summarize: going to bed ? pillow,6,0
+"[['rerecord', '<extra_id_0>', 're record']]",is a form of,summarize: rerecord ? re record,7,0
+"[['fix computer', '<extra_id_0>', 'defrag']]",has subevent,summarize: fix computer ? defrag,5,0
+"[['wait on tables', '<extra_id_0>', 'get money']]",has subevent,summarize: wait on tables ? get money,6,0
+"[['becoming inebriated', '<extra_id_0>', 'drunkenness']]",causes,summarize: becoming inebriated ? drunkenness,8,0
+"[['following', '<extra_id_0>', 'leading']]",is an antonym of,summarize: following ? leading,4,0
+"[['withers', '<extra_id_0>', 'sheep']]",is a part of,summarize: withers ? sheep,5,0
+"[['splurge', '<extra_id_0>', 'flaunt']]",is a manner of,summarize: splurge ? flaunt,8,0
+"[['cardinality', '<extra_id_0>', 'set theory']]",has context,summarize: cardinality ? set theory,6,0
+"[['hostile', '<extra_id_0>', 'sympathetic']]",is distinct from,summarize: hostile ? sympathetic,4,0
+"[['monocle', '<extra_id_0>', 'breast pocket']]",is in,summarize: monocle ? breast pocket,5,0
+"[['prophylaxis', '<extra_id_0>', 'medicine']]",has context,summarize: prophylaxis ? medicine,8,0
+"[['people', '<extra_id_0>', 'open doors']]",is capable of,summarize: people ? open doors,4,0
+"[['pepsi', '<extra_id_0>', 'theatre']]",is in,summarize: pepsi ? theatre,7,0
+"[['have nervous breakdown', '<extra_id_0>', 'attention']]",is motivated by,summarize: have nervous breakdown ? attention,6,0
+"[['get wet', '<extra_id_0>', 'crankiness']]",has subevent,summarize: get wet ? crankiness,6,0
+"[['time', '<extra_id_0>', 'units']]",is an antonym of,summarize: time ? units,4,0
+"[['stay healthy', '<extra_id_0>', 'make sport']]",has prerequisite,summarize: stay healthy ? make sport,5,0
+"[['intonate', '<extra_id_0>', 'pronounce']]",is a manner of,summarize: intonate ? pronounce,6,0
+"[['wishy washy', '<extra_id_0>', 'piquant']]",is distinct from,summarize: wishy washy ? piquant,7,0
+"[['plain', '<extra_id_0>', 'extraordinary']]",is distinct from,summarize: plain ? extraordinary,4,0
+"[['commit suicide', '<extra_id_0>', 'pain']]",has subevent,summarize: commit suicide ? pain,5,0
+"[['rusty trombone', '<extra_id_0>', 'slang']]",has context,summarize: rusty trombone ? slang,8,0
+"[['want', '<extra_id_0>', 'oodles']]",is distinct from,summarize: want ? oodles,4,0
+"[['semiisotropic', '<extra_id_0>', 'maths']]",has context,summarize: semiisotropic ? maths,7,0
+"[['scale up', '<extra_id_0>', 'rescale']]",is a manner of,summarize: scale up ? rescale,5,0
+"[['sailing', '<extra_id_0>', 'fun']]",is,summarize: sailing ? fun,4,0
+"[['taste', '<extra_id_0>', 'know']]",is a manner of,summarize: taste ? know,4,0
+"[['company', '<extra_id_0>', 'abbreviation']]",is distinct from,summarize: company ? abbreviation,4,0
+"[['fiddling', '<extra_id_0>', 'breaking']]",causes,summarize: fiddling ? breaking,5,0
+"[['hideous', '<extra_id_0>', 'pleasing']]",is distinct from,summarize: hideous ? pleasing,5,0
+"[['trash', '<extra_id_0>', 'smelly']]",is,summarize: trash ? smelly,4,0
+"[['apply', '<extra_id_0>', 'denote']]",is a manner of,summarize: apply ? denote,4,0
+"[['lemur', '<extra_id_0>', 'australia']]",is in,summarize: lemur ? australia,5,0
+"[['marginal', '<extra_id_0>', 'politics']]",has context,summarize: marginal ? politics,4,0
+"[['sensitize', '<extra_id_0>', 'feel']]",causes,summarize: sensitize ? feel,6,0
+"[['fly kite', '<extra_id_0>', 'enjoy']]",is motivated by,summarize: fly kite ? enjoy,6,0
+"[['beanbag chair', '<extra_id_0>', 'sitting in']]",is used for,summarize: beanbag chair ? sitting in,6,0
+"[['cords', '<extra_id_0>', 'bind']]",is capable of,summarize: cords ? bind,5,0
+"[['basketball', '<extra_id_0>', 'round']]",is,summarize: basketball ? round,4,0
+"[['war', '<extra_id_0>', 'destroy property']]",is capable of,summarize: war ? destroy property,4,0
+"[['knowing', '<extra_id_0>', 'believing']]",is a,summarize: knowing ? believing,4,0
+"[['degeneration', '<extra_id_0>', 'transformation']]",is a,summarize: degeneration ? transformation,5,0
+"[['participate', '<extra_id_0>', 'enter']]",is a synonym of,summarize: participate ? enter,4,0
+"[['world trade center', '<extra_id_0>', 'new york']]",is a part of,summarize: world trade center ? new york,6,0
+"[['everett', '<extra_id_0>', 'washington state']]",is a part of,summarize: everett ? washington state,7,0
+"[['counterattack', '<extra_id_0>', 'counter attack']]",is a form of,summarize: counterattack ? counter attack,5,0
+"[['sating hunger', '<extra_id_0>', 'ok']]",causes,summarize: sating hunger ? ok,7,0
+"[['liver', '<extra_id_0>', 'human body']]",is a part of,summarize: liver ? human body,4,0
+"[['doing exercises', '<extra_id_0>', 'fitness']]",causes,summarize: doing exercises ? fitness,5,0
+"[['wood chips', '<extra_id_0>', 'wood chip']]",is a form of,summarize: wood chips ? wood chip,5,0
+"[['college students', '<extra_id_0>', 'drink like fish']]",is capable of,summarize: college students ? drink like fish,5,0
+"[['wood', '<extra_id_0>', 'opaque']]",is,summarize: wood ? opaque,4,0
+"[['luxurious', '<extra_id_0>', 'abstemious']]",is an antonym of,summarize: luxurious ? abstemious,4,0
+"[['heraldric', '<extra_id_0>', 'heraldic']]",is a synonym of,summarize: heraldric ? heraldic,7,0
+"[['serving justice', '<extra_id_0>', 'patience']]",has prerequisite,summarize: serving justice ? patience,5,0
+"[['eating breakfast', '<extra_id_0>', 'gas']]",causes,summarize: eating breakfast ? gas,5,0
+"[['add up column of numbers', '<extra_id_0>', 'right down']]",has prerequisite,summarize: add up column of numbers ? right down,8,0
+"[['understand better', '<extra_id_0>', 'like']]",is motivated by,summarize: understand better ? like,5,0
+"[['exchange', '<extra_id_0>', 'keep']]",is an antonym of,summarize: exchange ? keep,4,0
+"[['getting good grades', '<extra_id_0>', 'study for subject']]",causes desire,summarize: getting good grades ? study for subject,6,0
+"[['wristwatch', '<extra_id_0>', 'broke']]",is,summarize: wristwatch ? broke,5,0
+"[['jumping rope', '<extra_id_0>', 'fall']]",has subevent,summarize: jumping rope ? fall,5,0
+"[['cells', '<extra_id_0>', 'microscopic']]",is,summarize: cells ? microscopic,4,0
+"[['co ordination', '<extra_id_0>', 'coordination']]",is a form of,summarize: co ordination ? coordination,6,0
+"[['nail', '<extra_id_0>', 'attach']]",is a manner of,summarize: nail ? attach,4,0
+"[['commonly', '<extra_id_0>', 'unremarkably']]",is a synonym of,summarize: commonly ? unremarkably,4,0
+"[['confusion', '<extra_id_0>', 'sure']]",is distinct from,summarize: confusion ? sure,4,0
+"[['pray', '<extra_id_0>', 'salvation']]",has subevent,summarize: pray ? salvation,4,0
+"[['time', '<extra_id_0>', 'meter']]",is a synonym of,summarize: time ? meter,4,0
+"[['translucence', '<extra_id_0>', 'clearness']]",is a,summarize: translucence ? clearness,6,0
+"[['climbing', '<extra_id_0>', 'blisters']]",causes,summarize: climbing ? blisters,4,0
+"[['digest', '<extra_id_0>', 'process']]",is a manner of,summarize: digest ? process,4,0
+"[['getting in line', '<extra_id_0>', 'walk']]",has subevent,summarize: getting in line ? walk,6,0
+"[['accommodate', '<extra_id_0>', 'provide']]",is a manner of,summarize: accommodate ? provide,4,0
+"[['anyone', '<extra_id_0>', 'join club']]",is capable of,summarize: anyone ? join club,4,0
+"[['sleep at night', '<extra_id_0>', 'restoration']]",is motivated by,summarize: sleep at night ? restoration,6,0
+"[['invest money or energy', '<extra_id_0>', 'think']]",has prerequisite,summarize: invest money or energy ? think,7,0
+"[['exhaustion', '<extra_id_0>', 'sit down']]",causes desire,summarize: exhaustion ? sit down,6,0
+"[['interview', '<extra_id_0>', 'converse']]",is a manner of,summarize: interview ? converse,4,0
+"[['play games', '<extra_id_0>', 'have good time']]",is motivated by,summarize: play games ? have good time,5,0
+"[['arguement', '<extra_id_0>', 'take walk']]",causes desire,summarize: arguement ? take walk,5,0
+"[['trunk', '<extra_id_0>', 'bedroom']]",is in,summarize: trunk ? bedroom,4,0
+"[['living', '<extra_id_0>', 'eating food']]",has prerequisite,summarize: living ? eating food,4,0
+"[['section', '<extra_id_0>', 'citrus']]",is a part of,summarize: section ? citrus,4,0
+"[['compassion', '<extra_id_0>', 'agree with']]",causes desire,summarize: compassion ? agree with,4,0
+"[['hood', '<extra_id_0>', 'trunk']]",is an antonym of,summarize: hood ? trunk,5,0
+"[['meeting people', '<extra_id_0>', 'being bored']]",causes,summarize: meeting people ? being bored,5,0
+"[['accordion', '<extra_id_0>', 'making music']]",is used for,summarize: accordion ? making music,6,0
+"[['play poker', '<extra_id_0>', 'get drunk']]",is motivated by,summarize: play poker ? get drunk,5,0
+"[['bury cat', '<extra_id_0>', 'honor']]",is motivated by,summarize: bury cat ? honor,6,0
+"[['charm quark', '<extra_id_0>', 'quark']]",is a,summarize: charm quark ? quark,6,0
+"[['expressive', '<extra_id_0>', 'inexpressive']]",is an antonym of,summarize: expressive ? inexpressive,4,0
+"[['automobile horn', '<extra_id_0>', 'sound']]",is used for,summarize: automobile horn ? sound,6,0
+"[['washing clothes', '<extra_id_0>', 'clean clothes']]",causes,summarize: washing clothes ? clean clothes,5,0
+"[['blanket', '<extra_id_0>', 'cover up']]",is used for,summarize: blanket ? cover up,4,0
+"[['see particular program', '<extra_id_0>', 'do']]",has prerequisite,summarize: see particular program ? do,6,0
+"[['forgive', '<extra_id_0>', 'peace']]",is motivated by,summarize: forgive ? peace,4,0
+"[['inflation', '<extra_id_0>', 'explosion']]",is a,summarize: inflation ? explosion,4,0
+"[['hall', '<extra_id_0>', 'india']]",has context,summarize: hall ? india,4,0
+"[['taste', '<extra_id_0>', 'hear']]",is distinct from,summarize: taste ? hear,4,0
+"[['washing clothes', '<extra_id_0>', 'dirty clothes']]",has prerequisite,summarize: washing clothes ? dirty clothes,5,0
+"[['understand better', '<extra_id_0>', 'smart']]",is motivated by,summarize: understand better ? smart,5,0
+"[['sneaky', '<extra_id_0>', 'underhanded']]",is a synonym of,summarize: sneaky ? underhanded,5,0
+"[['victimised', '<extra_id_0>', 'victimise']]",is a form of,summarize: victimised ? victimise,5,0
+"[['birthday', '<extra_id_0>', 'see old things']]",causes desire,summarize: birthday ? see old things,4,0
+"[['interest', '<extra_id_0>', 'attend class']]",causes desire,summarize: interest ? attend class,4,0
+"[['another', '<extra_id_0>', 'us']]",is distinct from,summarize: another ? us,4,0
+"[['free', '<extra_id_0>', 'tied']]",is distinct from,summarize: free ? tied,4,0
+"[['pair of pants', '<extra_id_0>', 'clothing']]",is used for,summarize: pair of pants ? clothing,6,0
+"[['we', '<extra_id_0>', 'invade']]",is capable of,summarize: we ? invade,4,0
+"[['detrain', '<extra_id_0>', 'get off']]",is a manner of,summarize: detrain ? get off,5,0
+"[['drilling hole', '<extra_id_0>', 'hanging picture']]",is used for,summarize: drilling hole ? hanging picture,5,0
+"[['having conversation', '<extra_id_0>', 'talk']]",has prerequisite,summarize: having conversation ? talk,5,0
+"[['knitting', '<extra_id_0>', 'waiting rooms']]",is used for,summarize: knitting ? waiting rooms,4,0
+"[['door', '<extra_id_0>', 'hollow']]",is,summarize: door ? hollow,4,0
+"[['escapement', '<extra_id_0>', 'timepiece']]",is a part of,summarize: escapement ? timepiece,5,0
+"[['kill', '<extra_id_0>', 'fool']]",is motivated by,summarize: kill ? fool,4,0
+"[['restlessness', '<extra_id_0>', 'go for drive']]",causes desire,summarize: restlessness ? go for drive,5,0
+"[['cutting hair', '<extra_id_0>', 'count']]",has subevent,summarize: cutting hair ? count,5,0
+"[['darkness', '<extra_id_0>', 'fear']]",causes,summarize: darkness ? fear,4,0
+"[['deboned', '<extra_id_0>', 'debone']]",is a form of,summarize: deboned ? debone,6,0
+"[['go with', '<extra_id_0>', 'collocate with']]",is a synonym of,summarize: go with ? collocate with,5,0
+"[['pump', '<extra_id_0>', 'raise']]",is a manner of,summarize: pump ? raise,4,0
+"[['ounce', '<extra_id_0>', 'troy unit']]",is a,summarize: ounce ? troy unit,5,0
+"[['alarm clock', '<extra_id_0>', 'home']]",is in,summarize: alarm clock ? home,5,0
+"[['attend school', '<extra_id_0>', 'brainwashed']]",is motivated by,summarize: attend school ? brainwashed,5,0
+"[['passing time', '<extra_id_0>', 'play cards']]",causes desire,summarize: passing time ? play cards,5,0
+"[['hunt', '<extra_id_0>', 'capture']]",is a manner of,summarize: hunt ? capture,4,0
+"[['pear shaped', '<extra_id_0>', 'lecythiform']]",is a synonym of,summarize: pear shaped ? lecythiform,7,0
+"[['top floor', '<extra_id_0>', 'office building']]",is in,summarize: top floor ? office building,5,0
+"[['people', '<extra_id_0>', 'count sheep']]",is capable of,summarize: people ? count sheep,4,0
+"[['folders', '<extra_id_0>', 'cabinet']]",is in,summarize: folders ? cabinet,5,0
+"[['games', '<extra_id_0>', 'ephemeral']]",is,summarize: games ? ephemeral,4,0
+"[['test strength', '<extra_id_0>', 'weight loss']]",has subevent,summarize: test strength ? weight loss,5,0
+"[['meet girls', '<extra_id_0>', 'partner']]",is motivated by,summarize: meet girls ? partner,5,0
+"[['blow', '<extra_id_0>', 'fight']]",is a part of,summarize: blow ? fight,4,0
+"[['crackajack', '<extra_id_0>', 'crackerjack']]",is a form of,summarize: crackajack ? crackerjack,6,0
+"[['stasis', '<extra_id_0>', 'stability']]",is a synonym of,summarize: stasis ? stability,6,0
+"[['blow', '<extra_id_0>', 'form']]",is a manner of,summarize: blow ? form,4,0
+"[['unimaginative', '<extra_id_0>', 'stereotypical']]",is a synonym of,summarize: unimaginative ? stereotypical,6,0
+"[['fan tracery', '<extra_id_0>', 'fan vaulting']]",is a part of,summarize: fan tracery ? fan vaulting,6,0
+"[['hardware store', '<extra_id_0>', 'phone book']]",is in,summarize: hardware store ? phone book,5,0
+"[['living', '<extra_id_0>', 'animation']]",is a synonym of,summarize: living ? animation,4,0
+"[['president', '<extra_id_0>', 'monarch']]",is an antonym of,summarize: president ? monarch,4,0
+"[['phlebotomus', '<extra_id_0>', 'sandfly fever']]",is a synonym of,summarize: phlebotomus ? sandfly fever,10,0
+"[['solid torus', '<extra_id_0>', 'topology']]",has context,summarize: solid torus ? topology,6,0
+"[['impanel jury', '<extra_id_0>', 'fairness']]",is motivated by,summarize: impanel jury ? fairness,6,0
+"[['empty', '<extra_id_0>', 'change']]",is a manner of,summarize: empty ? change,4,0
+"[['set', '<extra_id_0>', 'sett']]",is a form of,summarize: set ? sett,4,0
+"[['truth', '<extra_id_0>', 'matter to']]",is capable of,summarize: truth ? matter to,4,0
+"[['levant', '<extra_id_0>', 'legal']]",has context,summarize: levant ? legal,5,0
+"[['sounds', '<extra_id_0>', 'funny']]",is,summarize: sounds ? funny,4,0
+"[['apples', '<extra_id_0>', 'fridge']]",is in,summarize: apples ? fridge,4,0
+"[['theater', '<extra_id_0>', 'mall']]",is in,summarize: theater ? mall,4,0
+"[['serving justice', '<extra_id_0>', 'being on jury']]",causes,summarize: serving justice ? being on jury,5,0
+"[['catwalk', '<extra_id_0>', 'fieldhouse']]",is in,summarize: catwalk ? fieldhouse,5,0
+"[['linoleum', '<extra_id_0>', 'bathrooms']]",is used for,summarize: linoleum ? bathrooms,9,0
+"[['documents', '<extra_id_0>', 'suitcase']]",is in,summarize: documents ? suitcase,4,0
+"[['llama', '<extra_id_0>', 'pet']]",is capable of,summarize: llama ? pet,7,0
+"[['toy', '<extra_id_0>', 'store']]",is in,summarize: toy ? store,5,0
+"[['plants', '<extra_id_0>', 'organic']]",is,summarize: plants ? organic,4,0
+"[['filthy', '<extra_id_0>', 'holy']]",is an antonym of,summarize: filthy ? holy,6,0
+"[['incunable', '<extra_id_0>', 'incunabulum']]",is a form of,summarize: incunable ? incunabulum,6,0
+"[['break', '<extra_id_0>', 'fixed']]",is distinct from,summarize: break ? fixed,4,0
+"[['agitation', '<extra_id_0>', 'calmness']]",is distinct from,summarize: agitation ? calmness,6,0
+"[['happiness', '<extra_id_0>', 'sing']]",causes desire,summarize: happiness ? sing,4,0
+"[['obsequies', '<extra_id_0>', 'obsequy']]",is a form of,summarize: obsequies ? obsequy,8,0
+"[['being outdoors', '<extra_id_0>', 'play frisbee']]",causes desire,summarize: being outdoors ? play frisbee,5,0
+"[['go for jog', '<extra_id_0>', 'get in shape']]",is motivated by,summarize: go for jog ? get in shape,8,0
+"[['winning lottery', '<extra_id_0>', 'buy presents']]",causes desire,summarize: winning lottery ? buy presents,5,0
+"[['crowd', '<extra_id_0>', 'few']]",is an antonym of,summarize: crowd ? few,4,0
