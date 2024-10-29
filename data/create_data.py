@@ -48,7 +48,7 @@ def create_target_prompt(graph):
             continue
         for element in triplet:
             target_prompt += f"{element} "
-    target_prompt = target_prompt.replace("<extra_id_0>", "?")
+    # target_prompt = target_prompt.replace("<extra_id_0>", "?")
     return target_prompt.strip()
 
 
@@ -75,7 +75,7 @@ def find_source_position(graph):
 
 def find_target_position(text):
     tokenized_text = tokenizer.tokenize(text, add_special_tokens=True)
-    return tokenized_text.index("?")
+    return tokenized_text.index("<extra_id_0>")
 
 
 def create_graphs_and_labels(graphs, labels, mask_item="subject"):

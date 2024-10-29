@@ -240,6 +240,86 @@
         "documentation": {}
     },
     {
+        "label": "Mapping",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "List",
         "importPath": "typing",
         "description": "typing",
@@ -568,46 +648,6 @@
         "documentation": {}
     },
     {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Tuple",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Union",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
         "label": "Dict",
         "importPath": "typing",
         "description": "typing",
@@ -696,14 +736,6 @@
         "documentation": {}
     },
     {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
         "label": "Dict",
         "importPath": "typing",
         "description": "typing",
@@ -752,11 +784,11 @@
         "documentation": {}
     },
     {
-        "label": "OnnxSeq2SeqConfigWithPast",
-        "importPath": "transformers.onnx",
-        "description": "transformers.onnx",
+        "label": "PretrainedConfig",
+        "importPath": "transformers.configuration_utils",
+        "description": "transformers.configuration_utils",
         "isExtraImport": true,
-        "detail": "transformers.onnx",
+        "detail": "transformers.configuration_utils",
         "documentation": {}
     },
     {
@@ -781,6 +813,86 @@
         "description": "transformers.onnx",
         "isExtraImport": true,
         "detail": "transformers.onnx",
+        "documentation": {}
+    },
+    {
+        "label": "OnnxSeq2SeqConfigWithPast",
+        "importPath": "transformers.onnx",
+        "description": "transformers.onnx",
+        "isExtraImport": true,
+        "detail": "transformers.onnx",
+        "documentation": {}
+    },
+    {
+        "label": "OnnxSeq2SeqConfigWithPast",
+        "importPath": "transformers.onnx",
+        "description": "transformers.onnx",
+        "isExtraImport": true,
+        "detail": "transformers.onnx",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "transformers.utils",
+        "description": "transformers.utils",
+        "isExtraImport": true,
+        "detail": "transformers.utils",
+        "documentation": {}
+    },
+    {
+        "label": "DUMMY_INPUTS",
+        "importPath": "transformers.utils",
+        "description": "transformers.utils",
+        "isExtraImport": true,
+        "detail": "transformers.utils",
+        "documentation": {}
+    },
+    {
+        "label": "DUMMY_MASK",
+        "importPath": "transformers.utils",
+        "description": "transformers.utils",
+        "isExtraImport": true,
+        "detail": "transformers.utils",
+        "documentation": {}
+    },
+    {
+        "label": "add_start_docstrings",
+        "importPath": "transformers.utils",
+        "description": "transformers.utils",
+        "isExtraImport": true,
+        "detail": "transformers.utils",
+        "documentation": {}
+    },
+    {
+        "label": "add_start_docstrings_to_model_forward",
+        "importPath": "transformers.utils",
+        "description": "transformers.utils",
+        "isExtraImport": true,
+        "detail": "transformers.utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_torch_fx_proxy",
+        "importPath": "transformers.utils",
+        "description": "transformers.utils",
+        "isExtraImport": true,
+        "detail": "transformers.utils",
+        "documentation": {}
+    },
+    {
+        "label": "replace_return_docstrings",
+        "importPath": "transformers.utils",
+        "description": "transformers.utils",
+        "isExtraImport": true,
+        "detail": "transformers.utils",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "transformers.utils",
+        "description": "transformers.utils",
+        "isExtraImport": true,
+        "detail": "transformers.utils",
         "documentation": {}
     },
     {
@@ -1158,6 +1270,14 @@
         "documentation": {}
     },
     {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
         "label": "optim",
         "importPath": "torch",
         "description": "torch",
@@ -1263,6 +1383,22 @@
         "documentation": {}
     },
     {
+        "label": "CrossEntropyLoss",
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "isExtraImport": true,
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "checkpoint",
+        "importPath": "torch.utils.checkpoint",
+        "description": "torch.utils.checkpoint",
+        "isExtraImport": true,
+        "detail": "torch.utils.checkpoint",
+        "documentation": {}
+    },
+    {
         "label": "checkpoint",
         "importPath": "torch.utils.checkpoint",
         "description": "torch.utils.checkpoint",
@@ -1324,6 +1460,46 @@
         "description": "transformers.activations",
         "isExtraImport": true,
         "detail": "transformers.activations",
+        "documentation": {}
+    },
+    {
+        "label": "ACT2FN",
+        "importPath": "transformers.activations",
+        "description": "transformers.activations",
+        "isExtraImport": true,
+        "detail": "transformers.activations",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModelOutput",
+        "importPath": "transformers.modeling_outputs",
+        "description": "transformers.modeling_outputs",
+        "isExtraImport": true,
+        "detail": "transformers.modeling_outputs",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModelOutputWithPastAndCrossAttentions",
+        "importPath": "transformers.modeling_outputs",
+        "description": "transformers.modeling_outputs",
+        "isExtraImport": true,
+        "detail": "transformers.modeling_outputs",
+        "documentation": {}
+    },
+    {
+        "label": "Seq2SeqLMOutput",
+        "importPath": "transformers.modeling_outputs",
+        "description": "transformers.modeling_outputs",
+        "isExtraImport": true,
+        "detail": "transformers.modeling_outputs",
+        "documentation": {}
+    },
+    {
+        "label": "Seq2SeqModelOutput",
+        "importPath": "transformers.modeling_outputs",
+        "description": "transformers.modeling_outputs",
+        "isExtraImport": true,
+        "detail": "transformers.modeling_outputs",
         "documentation": {}
     },
     {
@@ -1599,6 +1775,62 @@
         "documentation": {}
     },
     {
+        "label": "ALL_LAYERNORM_LAYERS",
+        "importPath": "transformers.pytorch_utils",
+        "description": "transformers.pytorch_utils",
+        "isExtraImport": true,
+        "detail": "transformers.pytorch_utils",
+        "documentation": {}
+    },
+    {
+        "label": "find_pruneable_heads_and_indices",
+        "importPath": "transformers.pytorch_utils",
+        "description": "transformers.pytorch_utils",
+        "isExtraImport": true,
+        "detail": "transformers.pytorch_utils",
+        "documentation": {}
+    },
+    {
+        "label": "prune_linear_layer",
+        "importPath": "transformers.pytorch_utils",
+        "description": "transformers.pytorch_utils",
+        "isExtraImport": true,
+        "detail": "transformers.pytorch_utils",
+        "documentation": {}
+    },
+    {
+        "label": "assert_device_map",
+        "importPath": "transformers.utils.model_parallel_utils",
+        "description": "transformers.utils.model_parallel_utils",
+        "isExtraImport": true,
+        "detail": "transformers.utils.model_parallel_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_device_map",
+        "importPath": "transformers.utils.model_parallel_utils",
+        "description": "transformers.utils.model_parallel_utils",
+        "isExtraImport": true,
+        "detail": "transformers.utils.model_parallel_utils",
+        "documentation": {}
+    },
+    {
+        "label": "assert_device_map",
+        "importPath": "transformers.utils.model_parallel_utils",
+        "description": "transformers.utils.model_parallel_utils",
+        "isExtraImport": true,
+        "detail": "transformers.utils.model_parallel_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_device_map",
+        "importPath": "transformers.utils.model_parallel_utils",
+        "description": "transformers.utils.model_parallel_utils",
+        "isExtraImport": true,
+        "detail": "transformers.utils.model_parallel_utils",
+        "documentation": {}
+    },
+    {
         "label": "assert_device_map",
         "importPath": "transformers.utils.model_parallel_utils",
         "description": "transformers.utils.model_parallel_utils",
@@ -1647,19 +1879,19 @@
         "documentation": {}
     },
     {
-        "label": "assert_device_map",
-        "importPath": "transformers.utils.model_parallel_utils",
-        "description": "transformers.utils.model_parallel_utils",
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
         "isExtraImport": true,
-        "detail": "transformers.utils.model_parallel_utils",
+        "detail": "functools",
         "documentation": {}
     },
     {
-        "label": "get_device_map",
-        "importPath": "transformers.utils.model_parallel_utils",
-        "description": "transformers.utils.model_parallel_utils",
+        "label": "cache",
+        "importPath": "functools",
+        "description": "functools",
         "isExtraImport": true,
-        "detail": "transformers.utils.model_parallel_utils",
+        "detail": "functools",
         "documentation": {}
     },
     {
@@ -1832,6 +2064,14 @@
         "documentation": {}
     },
     {
+        "label": "Namespace",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
         "label": "ArgumentParser",
         "importPath": "argparse",
         "description": "argparse",
@@ -1941,6 +2181,14 @@
         "description": "argparse",
         "isExtraImport": true,
         "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "chain",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
         "documentation": {}
     },
     {
@@ -2042,6 +2290,22 @@
         "documentation": {}
     },
     {
+        "label": "AutoModel",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "T5Tokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
         "label": "T5EncoderModel",
         "importPath": "transformers",
         "description": "transformers",
@@ -2067,6 +2331,14 @@
     },
     {
         "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModel",
         "importPath": "transformers",
         "description": "transformers",
         "isExtraImport": true,
@@ -2498,38 +2770,6 @@
         "documentation": {}
     },
     {
-        "label": "T5ForConditionalGeneration",
-        "importPath": "models.graph_T5.graph_t5",
-        "description": "models.graph_T5.graph_t5",
-        "isExtraImport": true,
-        "detail": "models.graph_T5.graph_t5",
-        "documentation": {}
-    },
-    {
-        "label": "T5Config",
-        "importPath": "models.graph_T5.graph_t5",
-        "description": "models.graph_T5.graph_t5",
-        "isExtraImport": true,
-        "detail": "models.graph_T5.graph_t5",
-        "documentation": {}
-    },
-    {
-        "label": "T5EncoderModel",
-        "importPath": "models.graph_T5.graph_t5",
-        "description": "models.graph_T5.graph_t5",
-        "isExtraImport": true,
-        "detail": "models.graph_T5.graph_t5",
-        "documentation": {}
-    },
-    {
-        "label": "T5TokenizerFast",
-        "importPath": "models.graph_T5.graph_t5",
-        "description": "models.graph_T5.graph_t5",
-        "isExtraImport": true,
-        "detail": "models.graph_T5.graph_t5",
-        "documentation": {}
-    },
-    {
         "label": "T5Config",
         "importPath": "models.graph_T5.graph_t5",
         "description": "models.graph_T5.graph_t5",
@@ -2683,22 +2923,6 @@
     },
     {
         "label": "Data",
-        "importPath": "models.graph_T5.wrapper_functions",
-        "description": "models.graph_T5.wrapper_functions",
-        "isExtraImport": true,
-        "detail": "models.graph_T5.wrapper_functions",
-        "documentation": {}
-    },
-    {
-        "label": "graph_to_graphT5",
-        "importPath": "models.graph_T5.wrapper_functions",
-        "description": "models.graph_T5.wrapper_functions",
-        "isExtraImport": true,
-        "detail": "models.graph_T5.wrapper_functions",
-        "documentation": {}
-    },
-    {
-        "label": "get_dummy_graph",
         "importPath": "models.graph_T5.wrapper_functions",
         "description": "models.graph_T5.wrapper_functions",
         "isExtraImport": true,
@@ -2739,46 +2963,6 @@
     },
     {
         "label": "_get_str2tok",
-        "importPath": "models.graph_T5.wrapper_functions",
-        "description": "models.graph_T5.wrapper_functions",
-        "isExtraImport": true,
-        "detail": "models.graph_T5.wrapper_functions",
-        "documentation": {}
-    },
-    {
-        "label": "Graph",
-        "importPath": "models.graph_T5.wrapper_functions",
-        "description": "models.graph_T5.wrapper_functions",
-        "isExtraImport": true,
-        "detail": "models.graph_T5.wrapper_functions",
-        "documentation": {}
-    },
-    {
-        "label": "graph_to_graphT5",
-        "importPath": "models.graph_T5.wrapper_functions",
-        "description": "models.graph_T5.wrapper_functions",
-        "isExtraImport": true,
-        "detail": "models.graph_T5.wrapper_functions",
-        "documentation": {}
-    },
-    {
-        "label": "get_embedding",
-        "importPath": "models.graph_T5.wrapper_functions",
-        "description": "models.graph_T5.wrapper_functions",
-        "isExtraImport": true,
-        "detail": "models.graph_T5.wrapper_functions",
-        "documentation": {}
-    },
-    {
-        "label": "Data",
-        "importPath": "models.graph_T5.wrapper_functions",
-        "description": "models.graph_T5.wrapper_functions",
-        "isExtraImport": true,
-        "detail": "models.graph_T5.wrapper_functions",
-        "documentation": {}
-    },
-    {
-        "label": "add_text_to_graph_data",
         "importPath": "models.graph_T5.wrapper_functions",
         "description": "models.graph_T5.wrapper_functions",
         "isExtraImport": true,
@@ -3101,22 +3285,6 @@
         "description": "datasets",
         "isExtraImport": true,
         "detail": "datasets",
-        "documentation": {}
-    },
-    {
-        "label": "GraphT5ForConditionalGeneration",
-        "importPath": "models.graph_T5.autoregressive_GLM",
-        "description": "models.graph_T5.autoregressive_GLM",
-        "isExtraImport": true,
-        "detail": "models.graph_T5.autoregressive_GLM",
-        "documentation": {}
-    },
-    {
-        "label": "T5Tokenizer",
-        "importPath": "seminars.kolber.GraphLanguageModels.models.graph_T5.graph_t5.tokenization_t5",
-        "description": "seminars.kolber.GraphLanguageModels.models.graph_T5.graph_t5.tokenization_t5",
-        "isExtraImport": true,
-        "detail": "seminars.kolber.GraphLanguageModels.models.graph_T5.graph_t5.tokenization_t5",
         "documentation": {}
     },
     {
@@ -4174,6 +4342,330 @@
         "documentation": {}
     },
     {
+        "label": "T5Config",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.configuration_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.configuration_t5",
+        "peekOfCode": "class T5Config(PretrainedConfig):\n    r\"\"\"\n    This is the configuration class to store the configuration of a [`T5Model`] or a [`TFT5Model`]. It is used to\n    instantiate a T5 model according to the specified arguments, defining the model architecture. Instantiating a\n    configuration with the defaults will yield a similar configuration to that of the T5\n    [t5-small](https://huggingface.co/t5-small) architecture.\n    Configuration objects inherit from [`PretrainedConfig`] and can be used to control the model outputs. Read the\n    documentation from [`PretrainedConfig`] for more information.\n    Arguments:\n        vocab_size (`int`, *optional*, defaults to 32128):",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.configuration_t5",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.configuration_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.configuration_t5",
+        "peekOfCode": "logger = logging.get_logger(__name__)\n## FROM-T5\n# T5_PRETRAINED_CONFIG_ARCHIVE_MAP = {\n#     \"t5-small\": \"https://huggingface.co/t5-small/resolve/main/config.json\",\n#     \"t5-base\": \"https://huggingface.co/t5-base/resolve/main/config.json\",\n#     \"t5-large\": \"https://huggingface.co/t5-large/resolve/main/config.json\",\n#     \"t5-3b\": \"https://huggingface.co/t5-3b/resolve/main/config.json\",\n#     \"t5-11b\": \"https://huggingface.co/t5-11b/resolve/main/config.json\",\n# }\nclass T5Config(PretrainedConfig):",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.configuration_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5LayerNorm",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "class T5LayerNorm(nn.Module):\n    def __init__(self, hidden_size, eps=1e-6):\n        \"\"\"\n        Construct a layernorm module in the T5 style. No bias and no subtraction of mean.\n        \"\"\"\n        super().__init__()\n        self.weight = nn.Parameter(torch.ones(hidden_size))\n        self.variance_epsilon = eps\n    def forward(self, hidden_states):\n        # T5 uses a layer_norm which only scales and doesn't shift, which is also known as Root Mean",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5DenseActDense",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "class T5DenseActDense(nn.Module):\n    def __init__(self, config: T5Config):\n        super().__init__()\n        self.wi = nn.Linear(config.d_model, config.d_ff, bias=False)\n        self.wo = nn.Linear(config.d_ff, config.d_model, bias=False)\n        self.dropout = nn.Dropout(config.dropout_rate)\n        self.act = ACT2FN[config.dense_act_fn]\n    def forward(self, hidden_states):\n        hidden_states = self.wi(hidden_states)\n        hidden_states = self.act(hidden_states)",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5DenseGatedActDense",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "class T5DenseGatedActDense(nn.Module):\n    def __init__(self, config: T5Config):\n        super().__init__()\n        self.wi_0 = nn.Linear(config.d_model, config.d_ff, bias=False)\n        self.wi_1 = nn.Linear(config.d_model, config.d_ff, bias=False)\n        self.wo = nn.Linear(config.d_ff, config.d_model, bias=False)\n        self.dropout = nn.Dropout(config.dropout_rate)\n        self.act = ACT2FN[config.dense_act_fn]\n    def forward(self, hidden_states):\n        hidden_gelu = self.act(self.wi_0(hidden_states))",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5LayerFF",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "class T5LayerFF(nn.Module):\n    def __init__(self, config: T5Config):\n        super().__init__()\n        if config.is_gated_act:\n            self.DenseReluDense = T5DenseGatedActDense(config)\n        else:\n            self.DenseReluDense = T5DenseActDense(config)\n        self.layer_norm = T5LayerNorm(config.d_model, eps=config.layer_norm_epsilon)\n        self.dropout = nn.Dropout(config.dropout_rate)\n    def forward(self, hidden_states):",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5Attention",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "class T5Attention(nn.Module):\n    def __init__(self, config: T5Config, has_relative_attention_bias=False):\n        super().__init__()\n        self.is_decoder = config.is_decoder\n        self.has_relative_attention_bias = has_relative_attention_bias\n        self.relative_attention_num_buckets = config.relative_attention_num_buckets\n        self.relative_attention_num_additional_buckets = config.relative_attention_num_additional_buckets if 'relative_attention_num_additional_buckets' in config.__dict__.keys() else 0\n        self.relative_attention_max_distance = config.relative_attention_max_distance\n        self.d_model = config.d_model\n        self.key_value_proj_dim = config.d_kv",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5LayerSelfAttention",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "class T5LayerSelfAttention(nn.Module):\n    def __init__(self, config, has_relative_attention_bias=False):\n        super().__init__()\n        self.SelfAttention = T5Attention(config, has_relative_attention_bias=has_relative_attention_bias)\n        self.layer_norm = T5LayerNorm(config.d_model, eps=config.layer_norm_epsilon)\n        self.dropout = nn.Dropout(config.dropout_rate)\n    def forward(\n        self,\n        hidden_states,\n        attention_mask=None,",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5LayerCrossAttention",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "class T5LayerCrossAttention(nn.Module):\n    def __init__(self, config):\n        raise NotImplementedError(\"might need adjustments for GLM\")\n        super().__init__()\n        self.EncDecAttention = T5Attention(config, has_relative_attention_bias=False)\n        self.layer_norm = T5LayerNorm(config.d_model, eps=config.layer_norm_epsilon)\n        self.dropout = nn.Dropout(config.dropout_rate)\n    def forward(\n        self,\n        hidden_states,",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5Block",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "class T5Block(nn.Module):\n    def __init__(self, config, has_relative_attention_bias=False):\n        super().__init__()\n        self.is_decoder = config.is_decoder\n        self.layer = nn.ModuleList()\n        self.layer.append(T5LayerSelfAttention(config, has_relative_attention_bias=has_relative_attention_bias))\n        if self.is_decoder:\n            self.layer.append(T5LayerCrossAttention(config))\n        self.layer.append(T5LayerFF(config))\n    def forward(",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5PreTrainedModel",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "class T5PreTrainedModel(PreTrainedModel):\n    \"\"\"\n    An abstract class to handle weights initialization and a simple interface for downloading and loading pretrained\n    models.\n    \"\"\"\n    config_class = T5Config\n    load_tf_weights = load_tf_weights_in_t5\n    base_model_prefix = \"transformer\"\n    is_parallelizable = True\n    supports_gradient_checkpointing = True",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5Stack",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "class T5Stack(T5PreTrainedModel):\n    def __init__(self, config, embed_tokens=None):\n        super().__init__(config)\n        self.embed_tokens = embed_tokens\n        self.is_decoder = config.is_decoder\n        self.block = nn.ModuleList(\n            [T5Block(config, has_relative_attention_bias=bool(i == 0)) for i in range(config.num_layers)]\n        )\n        self.final_layer_norm = T5LayerNorm(config.d_model, eps=config.layer_norm_epsilon)\n        self.dropout = nn.Dropout(config.dropout_rate)",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5Model",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "class T5Model(T5PreTrainedModel):\n    _keys_to_ignore_on_load_missing = [\n        r\"encoder.embed_tokens.weight\",\n        r\"decoder.embed_tokens.weight\",\n    ]\n    _keys_to_ignore_on_load_unexpected = [\n        r\"decoder.block.0.layer.1.EncDecAttention.relative_attention_bias.weight\",\n    ]\n    def __init__(self, config: T5Config):\n        raise NotImplementedError(\"might need adjustments for GLM\")",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5ForConditionalGeneration",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "class T5ForConditionalGeneration(T5PreTrainedModel):\n    _keys_to_ignore_on_load_missing = [\n        r\"encoder.embed_tokens.weight\",\n        r\"decoder.embed_tokens.weight\",\n        r\"lm_head.weight\",\n    ]\n    _keys_to_ignore_on_load_unexpected = [\n        r\"decoder.block.0.layer.1.EncDecAttention.relative_attention_bias.weight\",\n    ]\n    def __init__(self, config: T5Config):",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5EncoderModel",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "class T5EncoderModel(T5PreTrainedModel):\n    _keys_to_ignore_on_load_missing = [r\"encoder.embed_tokens.weight\"]\n    def __init__(self, config: T5Config):\n        super().__init__(config)\n        self.shared = nn.Embedding(config.vocab_size, config.d_model)\n        encoder_config = copy.deepcopy(config)\n        encoder_config.use_cache = False\n        encoder_config.is_encoder_decoder = False\n        self.encoder = T5Stack(encoder_config, self.shared)\n        # Initialize weights and apply final processing",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "GraphT5Classifier",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "class GraphT5Classifier(PreTrainedModel):\n    config_class = T5Config\n    def __init__(\n        self,\n        config: T5Config,\n    ):\n        super().__init__(config=config)\n        self.config = config\n        self.tokenizer = T5Tokenizer.from_pretrained(self.config.modelsize, model_max_length=self.config.model_max_length)\n        self.t5model = T5EncoderModel.from_pretrained(self.config.modelsize, config=config, ignore_mismatched_sizes=True)  # when intialiting the model with .from_pretrained, the weights are loaded from the pretrained model, so the t5 parameters are not actually used in that case. Loading them here is unnecessary overhead. ",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "DualGraphT5Classifier",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "class DualGraphT5Classifier(PreTrainedModel):\n    \"\"\"\n    Same as GraphT5Classifier, but with two classification heads\n    \"\"\"\n    config_class = T5Config\n    def __init__(\n        self,\n        config: T5Config,\n    ):\n        super().__init__(config=config)",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "load_tf_weights_in_t5",
+        "kind": 2,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "def load_tf_weights_in_t5(model, config, tf_checkpoint_path):\n    \"\"\"Load tf checkpoints in a pytorch model.\"\"\"\n    raise NotImplementedError(\"NOT TESTED; might need adjustments for GLM\")\n    try:\n        import re\n        import numpy as np\n        import tensorflow as tf\n    except ImportError:\n        logger.error(\n            \"Loading a TensorFlow model in PyTorch, requires TensorFlow to be installed. Please see \"",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "logger = transformers_logging.get_logger(__name__)\n_CONFIG_FOR_DOC = \"T5Config\"\n_CHECKPOINT_FOR_DOC = \"t5-small\"\n####################################################\n# This dict contains ids and associated url\n# for the pretrained weights provided with the models\n####################################################\nT5_PRETRAINED_MODEL_ARCHIVE_LIST = [\n    \"t5-small\",\n    \"t5-base\",",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "_CONFIG_FOR_DOC",
+        "kind": 5,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "_CONFIG_FOR_DOC = \"T5Config\"\n_CHECKPOINT_FOR_DOC = \"t5-small\"\n####################################################\n# This dict contains ids and associated url\n# for the pretrained weights provided with the models\n####################################################\nT5_PRETRAINED_MODEL_ARCHIVE_LIST = [\n    \"t5-small\",\n    \"t5-base\",\n    \"t5-large\",",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "_CHECKPOINT_FOR_DOC",
+        "kind": 5,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "_CHECKPOINT_FOR_DOC = \"t5-small\"\n####################################################\n# This dict contains ids and associated url\n# for the pretrained weights provided with the models\n####################################################\nT5_PRETRAINED_MODEL_ARCHIVE_LIST = [\n    \"t5-small\",\n    \"t5-base\",\n    \"t5-large\",\n    \"t5-3b\",",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5_PRETRAINED_MODEL_ARCHIVE_LIST",
+        "kind": 5,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "T5_PRETRAINED_MODEL_ARCHIVE_LIST = [\n    \"t5-small\",\n    \"t5-base\",\n    \"t5-large\",\n    \"t5-3b\",\n    \"t5-11b\",\n    # See all T5 models at https://huggingface.co/models?filter=t5\n]\n####################################################\n# This is a conversion method from TF 1.0 to PyTorch",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "PARALLELIZE_DOCSTRING",
+        "kind": 5,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "PARALLELIZE_DOCSTRING = r\"\"\"\n    This is an experimental feature and is a subject to change at a moment's notice.\n    Uses a device map to distribute attention modules of the model across several devices. If no device map is given,\n    it will evenly distribute blocks across all devices.\n    Args:\n        device_map (`Dict[int, list]`, optional, defaults to None):\n            A dictionary that maps attention modules to devices. Note that the embedding module and LMHead are always\n            automatically mapped to the first device (for esoteric reasons). That means that the first device should\n            have fewer attention modules mapped to it than other devices. For reference, the t5 models have the\n            following number of attention modules:",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "DEPARALLELIZE_DOCSTRING",
+        "kind": 5,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "DEPARALLELIZE_DOCSTRING = r\"\"\"\n    Moves the model to cpu from a model parallel state.\n    Example:\n    ```python\n    # On a 4 GPU machine with t5-3b:\n    model = T5ForConditionalGeneration.from_pretrained(\"t5-3b\")\n    device_map = {\n        0: [0, 1, 2],\n        1: [3, 4, 5, 6, 7, 8, 9],\n        2: [10, 11, 12, 13, 14, 15, 16],",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5_START_DOCSTRING",
+        "kind": 5,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "T5_START_DOCSTRING = r\"\"\"\n    The T5 model was proposed in [Exploring the Limits of Transfer Learning with a Unified Text-to-Text\n    Transformer](https://arxiv.org/abs/1910.10683) by Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan\n    Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu. It's an encoder decoder transformer pre-trained in a\n    text-to-text denoising generative setting.\n    This model inherits from [`PreTrainedModel`]. Check the superclass documentation for the generic methods the\n    library implements for all its model (such as downloading or saving, resizing the input embeddings, pruning heads\n    etc.)\n    This model is also a PyTorch [torch.nn.Module](https://pytorch.org/docs/stable/nn.html#torch.nn.Module) subclass.\n    Use it as a regular PyTorch Module and refer to the PyTorch documentation for all matter related to general usage",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5_INPUTS_DOCSTRING",
+        "kind": 5,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "T5_INPUTS_DOCSTRING = r\"\"\"\n    Args:\n        input_ids (`torch.LongTensor` of shape `(batch_size, sequence_length)`):\n            Indices of input sequence tokens in the vocabulary. T5 is a model with relative position embeddings so you\n            should be able to pad the inputs on both the right and the left.\n            Indices can be obtained using [`AutoTokenizer`]. See [`PreTrainedTokenizer.encode`] and\n            [`PreTrainedTokenizer.__call__`] for detail.\n            [What are input IDs?](../glossary#input-ids)\n            To know more on how to prepare `input_ids` for pretraining take a look a [T5 Training](./t5#training).\n        attention_mask (`torch.FloatTensor` of shape `(batch_size, sequence_length)`, *optional*):",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "T5_ENCODER_INPUTS_DOCSTRING",
+        "kind": 5,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "T5_ENCODER_INPUTS_DOCSTRING = r\"\"\"\n    Args:\n        input_ids (`torch.LongTensor` of shape `(batch_size, sequence_length)`):\n            Indices of input sequence tokens in the vocabulary. T5 is a model with relative position embeddings so you\n            should be able to pad the inputs on both the right and the left.\n            Indices can be obtained using [`AutoTokenizer`]. See [`PreTrainedTokenizer.encode`] and\n            [`PreTrainedTokenizer.__call__`] for detail.\n            To know more on how to prepare `input_ids` for pretraining take a look a [T5 Training](./t5#training).\n        attention_mask (`torch.FloatTensor` of shape `(batch_size, sequence_length)`, *optional*):\n            Mask to avoid performing attention on padding token indices. Mask values selected in `[0, 1]`:",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "__HEAD_MASK_WARNING_MSG",
+        "kind": 5,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "peekOfCode": "__HEAD_MASK_WARNING_MSG = \"\"\"\nThe input argument `head_mask` was split into two arguments `head_mask` and `decoder_head_mask`. Currently,\n`decoder_head_mask` is set to copy `head_mask`, but this feature is deprecated and will be removed in future versions.\nIf you do not want to use any `decoder_head_mask` now, please set `decoder_head_mask = torch.ones(num_layers,\nnum_heads)`.\n\"\"\"\n@add_start_docstrings(\n    \"The bare T5 Model transformer outputting raw hidden-states without any specific head on top.\",\n    T5_START_DOCSTRING,\n)",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "Graph",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "peekOfCode": "class Graph():\n    \"\"\"\n    A graph class.\n    :param g: A list of tuples, where each tuple is a triple (head, r, tail).\n    \"\"\"\n    def __init__(\n            self, \n            g: List[Tuple[str,str,str]] = []\n        ):\n        self.g = g",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "Data",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "peekOfCode": "class Data(Namespace):\n    def __init__(self, **kwargs):\n        super().__init__()\n        self.__dict__.update(kwargs)\ndef get_dummy_graph(num_triplets:int=3) -> Graph:\n    g = [\n        (\"dog\", \"IsA\", \"animal\"),\n        (\"cat\", \"IsA\", \"animal\"),\n        (\"black poodle\", \"IsA\", \"dog\"),\n        (\"black cat\", \"IsA\", \"cat\"),",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "DataProcessor",
+        "kind": 6,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "peekOfCode": "class DataProcessor():\n    @staticmethod\n    def encode_graph(tokenizer, g:Union[Graph,list[tuple[str,str,str]]], text:Optional[str]=None, how:Literal['global', 'local']='global', eos:str=\"False\")->Data:\n        \"\"\"\n        convert graph to suitable input for the model. \n        :param tokenizer: tokenizer\n        :param g: graph\n        :param text: text to add to the graph. Can be None if no text should be added. \n        :param how: how to represent the graph. Can be 'local' or 'global' for lGLM and gGLM respectively.\n        :param eos: end-of-sequence token. Can be `False` for not using an eos token. This is the method used in the paper. When using an eos token, there are two ways to use it: `bidirectional` means that the eos token is connected to every other node in the graph. `unidirectional` means that the eos token is connected to every node in the graph (from node to eos), but not the other way around (i.e. no connection from eos to other node). This means, that nodes do not get messages from the eos token, which perceives locality when using the local GLM",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "get_dummy_graph",
+        "kind": 2,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "peekOfCode": "def get_dummy_graph(num_triplets:int=3) -> Graph:\n    g = [\n        (\"dog\", \"IsA\", \"animal\"),\n        (\"cat\", \"IsA\", \"animal\"),\n        (\"black poodle\", \"IsA\", \"dog\"),\n        (\"black cat\", \"IsA\", \"cat\"),\n    ]\n    assert num_triplets <=4, \"num_triplets must be <= 4\"\n    g = g[:num_triplets]\n    g = Graph(g)",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "r2nl",
+        "kind": 2,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "peekOfCode": "def r2nl(r: str) -> str:\n    \"\"\"\n    Convert a relation to a natural language string. Can be used to implement necessary changes in the data.\n    \"\"\"\n    return r\ndef _get_str2tok(g:Graph, tokenizer: T5Tokenizer) -> dict[str, list[int]]:\n    \"\"\"\n    Get a dictionary that maps strings to tokens.\n    \"\"\"\n    # tokenize concepts and relations",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "graph_to_graphT5",
+        "kind": 2,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "peekOfCode": "def graph_to_graphT5(g:Graph, tokenizer:T5Tokenizer, how:str, eos:str)->Data:\n    \"\"\"\n    Convert a graph to a graphT5 input.\n    :param g: graph\n    :param tokenizer: tokenizer\n    :param how: how to represent the graph. Can be 'local' or 'global' for lGLM and gGLM respectively.\n    :param eos: end-of-sequence token. Can be `False` for not using an eos token. When using an eos token, there are two ways to use it: `bidirectional` means that the eos token is connected to every other node in the graph, with a relative position of positive infinity (from node to eos) or negative infinity (from eos to node). `unidirectional` means that the eos token is connected to every node in the graph with a relative position of positive infinity (from node to eos), but not the other way around (i.e. no connection from eos to other node). This means, that nodes do not get messages from the eos token, which perceives locality when using the local GLM\n    \"\"\"\n    if not isinstance(g, Graph):\n        g = Graph(g)",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "get_embedding",
+        "kind": 2,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "peekOfCode": "def get_embedding(\n        sequence_embedding: torch.Tensor,\n        indices: Dict[str, List[Tuple[int, int]]],\n        concept: str,\n        embedding_aggregation: str = \"mean\",\n    ):\n    \"\"\"\n    Returns the embedding of a concept.\n    :param sequence_embedding: the embedding of the whole sequence. shape: (sequence_length, embedding_size)\n    :param indices: dictionary mapping each node to its start-index and end- in the sequence. Keys are nodes, values are lists of tuples (start_index, end_index). The lists have a length of 1 for concepts.",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "documentation": {}
+    },
+    {
+        "label": "add_text_to_graph_data",
+        "kind": 2,
+        "importPath": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "description": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "peekOfCode": "def add_text_to_graph_data(data, text, tokenizer, use_text):\n    if use_text in {'False', '', False, None}:\n        return None\n    text_seq = torch.tensor(tokenizer(text, padding=False)['input_ids']).unsqueeze(0)\n    new_input_ids = torch.cat([data.input_ids, text_seq], dim=1)\n    old_seq_len = data.input_ids.shape[1]\n    text_seq_len = text_seq.shape[1]\n    new_seq_len = new_input_ids.shape[1]\n    new_is_graph = torch.zeros(size=(1, new_seq_len), dtype=torch.bool)\n    new_is_graph[:, :old_seq_len] = True",
+        "detail": ".cache.models--plenz--GLM-t5-small.snapshots.0768344da690c7eb65e69ba8cce34485566ae91c.wrapper_functions",
+        "documentation": {}
+    },
+    {
         "label": "GNN",
         "kind": 6,
         "importPath": "GraphLanguageModels.experiments.encoder.relation_prediction.train_GNN",
@@ -5020,15 +5512,6 @@
         "documentation": {}
     },
     {
-        "label": "GraphT5ForConditionalGeneration",
-        "kind": 6,
-        "importPath": "GraphLanguageModels.models.graph_T5.autoregressive_GLM",
-        "description": "GraphLanguageModels.models.graph_T5.autoregressive_GLM",
-        "peekOfCode": "class GraphT5ForConditionalGeneration(PreTrainedModel):\n    config_class = T5Config\n    def __init__(self, config: T5Config, encoder_model_size: str = \"t5-large\"):\n        super().__init__(config=config)\n        self.config = config\n        self.encoder_model_size = encoder_model_size\n        self.tokenizer = T5Tokenizer.from_pretrained(\n            self.config.modelsize, model_max_length=self.config.model_max_length\n        )\n        if \"flan\" in self.config.modelsize:",
-        "detail": "GraphLanguageModels.models.graph_T5.autoregressive_GLM",
-        "documentation": {}
-    },
-    {
         "label": "GraphT5Classifier",
         "kind": 6,
         "importPath": "GraphLanguageModels.models.graph_T5.classifier",
@@ -5506,47 +5989,11 @@
         "documentation": {}
     },
     {
-        "label": "get_batch",
-        "kind": 2,
-        "importPath": "GraphLanguageModels.minimal_working_example_generate",
-        "description": "GraphLanguageModels.minimal_working_example_generate",
-        "peekOfCode": "def get_batch(data_instances: List[Data], pad_token_id: int, device: str):\n    \"\"\"\n    slightly simplified version of the get_batch in experiments/encoder/train_LM.py\n    \"\"\"\n    max_seq_len = max([data.input_ids.shape[1] for data in data_instances])\n    # intialize tensors\n    input_ids = (\n        torch.ones((len(data_instances), max_seq_len), dtype=torch.long, device=device)\n        * pad_token_id\n    )",
-        "detail": "GraphLanguageModels.minimal_working_example_generate",
-        "documentation": {}
-    },
-    {
-        "label": "main",
-        "kind": 2,
-        "importPath": "GraphLanguageModels.minimal_working_example_generate",
-        "description": "GraphLanguageModels.minimal_working_example_generate",
-        "peekOfCode": "def main():\n    # define random parameters\n    modelsize = \"t5-large\"\n    init_additional_buckets_from = 1e6\n    # define test inputs (2 instances to implement batching)\n    graph1 = [\n        (\"dog\", \"is a\", \"animal\"),\n        (\"cat\", \"is a\", \"animal\"),\n        (\"black poodle\", \"is a\", \"dog\"),\n    ]",
-        "detail": "GraphLanguageModels.minimal_working_example_generate",
-        "documentation": {}
-    },
-    {
-        "label": "HF_CACHE_DIR",
-        "kind": 5,
-        "importPath": "GraphLanguageModels.minimal_working_example_generate",
-        "description": "GraphLanguageModels.minimal_working_example_generate",
-        "peekOfCode": "HF_CACHE_DIR = \"/home/students/kolber/seminars/kolber/.cache/\"\nos.environ[\"HF_HOME\"] = HF_CACHE_DIR\nimport torch\nfrom typing import List\nfrom models.graph_T5.autoregressive_GLM import GraphT5ForConditionalGeneration\nfrom models.graph_T5.wrapper_functions import (\n    Graph,\n    graph_to_graphT5,\n    get_embedding,\n    Data,",
-        "detail": "GraphLanguageModels.minimal_working_example_generate",
-        "documentation": {}
-    },
-    {
-        "label": "os.environ[\"HF_HOME\"]",
-        "kind": 5,
-        "importPath": "GraphLanguageModels.minimal_working_example_generate",
-        "description": "GraphLanguageModels.minimal_working_example_generate",
-        "peekOfCode": "os.environ[\"HF_HOME\"] = HF_CACHE_DIR\nimport torch\nfrom typing import List\nfrom models.graph_T5.autoregressive_GLM import GraphT5ForConditionalGeneration\nfrom models.graph_T5.wrapper_functions import (\n    Graph,\n    graph_to_graphT5,\n    get_embedding,\n    Data,\n    add_text_to_graph_data,",
-        "detail": "GraphLanguageModels.minimal_working_example_generate",
-        "documentation": {}
-    },
-    {
         "label": "create_target_prompt",
         "kind": 2,
         "importPath": "data.create_data",
         "description": "data.create_data",
-        "peekOfCode": "def create_target_prompt(graph):\n    target_prompt = \"summarize: \"\n    for triplet in graph:\n        if \"<extra_id_0>\" not in triplet:\n            continue\n        for element in triplet:\n            target_prompt += f\"{element} \"\n    target_prompt = target_prompt.replace(\"<extra_id_0>\", \"?\")\n    return target_prompt.strip()\ndef find_source_position(graph):",
+        "peekOfCode": "def create_target_prompt(graph):\n    target_prompt = \"summarize: \"\n    for triplet in graph:\n        if \"<extra_id_0>\" not in triplet:\n            continue\n        for element in triplet:\n            target_prompt += f\"{element} \"\n    # target_prompt = target_prompt.replace(\"<extra_id_0>\", \"?\")\n    return target_prompt.strip()\ndef find_source_position(graph):",
         "detail": "data.create_data",
         "documentation": {}
     },
@@ -5564,7 +6011,7 @@
         "kind": 2,
         "importPath": "data.create_data",
         "description": "data.create_data",
-        "peekOfCode": "def find_target_position(text):\n    tokenized_text = tokenizer.tokenize(text, add_special_tokens=True)\n    return tokenized_text.index(\"?\")\ndef create_graphs_and_labels(graphs, labels, mask_item=\"subject\"):\n    new_labels = []\n    new_graphs = []\n    triplet_mask_idx = triplet_func_to_idx[mask_item]\n    for graph, label in zip(graphs, labels):\n        new_graph = deepcopy(graph)\n        for triplet_idx, triplet in enumerate(graph):",
+        "peekOfCode": "def find_target_position(text):\n    tokenized_text = tokenizer.tokenize(text, add_special_tokens=True)\n    return tokenized_text.index(\"<extra_id_0>\")\ndef create_graphs_and_labels(graphs, labels, mask_item=\"subject\"):\n    new_labels = []\n    new_graphs = []\n    triplet_mask_idx = triplet_func_to_idx[mask_item]\n    for graph, label in zip(graphs, labels):\n        new_graph = deepcopy(graph)\n        for triplet_idx, triplet in enumerate(graph):",
         "detail": "data.create_data",
         "documentation": {}
     },
@@ -5618,7 +6065,7 @@
         "kind": 5,
         "importPath": "data.create_data",
         "description": "data.create_data",
-        "peekOfCode": "triplet_func_to_idx = {\"subject\": 0, \"relation\": 1, \"object\": 2}\ndef create_target_prompt(graph):\n    target_prompt = \"summarize: \"\n    for triplet in graph:\n        if \"<extra_id_0>\" not in triplet:\n            continue\n        for element in triplet:\n            target_prompt += f\"{element} \"\n    target_prompt = target_prompt.replace(\"<extra_id_0>\", \"?\")\n    return target_prompt.strip()",
+        "peekOfCode": "triplet_func_to_idx = {\"subject\": 0, \"relation\": 1, \"object\": 2}\ndef create_target_prompt(graph):\n    target_prompt = \"summarize: \"\n    for triplet in graph:\n        if \"<extra_id_0>\" not in triplet:\n            continue\n        for element in triplet:\n            target_prompt += f\"{element} \"\n    # target_prompt = target_prompt.replace(\"<extra_id_0>\", \"?\")\n    return target_prompt.strip()",
         "detail": "data.create_data",
         "documentation": {}
     },
@@ -5641,11 +6088,20 @@
         "documentation": {}
     },
     {
+        "label": "load_finetuned_model",
+        "kind": 2,
+        "importPath": "interpretability.patchscopes.code.GLM_patchscopes",
+        "description": "interpretability.patchscopes.code.GLM_patchscopes",
+        "peekOfCode": "def load_finetuned_model(model_path):\n    model = AutoModel.from_pretrained(\n        model_path,\n        low_cpu_mem_usage=True,\n        torch_dtype=None,\n        cache_dir=\"/home/students/kolber/seminars/kolber/.cache/\",\n        trust_remote_code=True,\n        revision=\"main\",\n    )\n    model.to(\"cuda\" if torch.cuda.is_available() else \"cpu\")",
+        "detail": "interpretability.patchscopes.code.GLM_patchscopes",
+        "documentation": {}
+    },
+    {
         "label": "prepare_model_and_tokenizer",
         "kind": 2,
         "importPath": "interpretability.patchscopes.code.GLM_patchscopes",
         "description": "interpretability.patchscopes.code.GLM_patchscopes",
-        "peekOfCode": "def prepare_model_and_tokenizer(model_name, torch_dtype=None):\n    mt = ModelAndTokenizer(\n        model_name,\n        low_cpu_mem_usage=False,\n        torch_dtype=torch_dtype,\n        device=\"cpu\",\n    )\n    mt.set_hs_patch_hooks = set_hs_patch_hooks_glm\n    mt.model.eval()\n    return mt",
+        "peekOfCode": "def prepare_model_and_tokenizer(model_name, torch_dtype=None, fine_tuned_path=None):\n    mt = ModelAndTokenizer(\n        model_name,\n        low_cpu_mem_usage=True,\n        torch_dtype=torch_dtype,\n        device=\"cuda\" if torch.cuda.is_available() else \"cpu\",\n        model=load_finetuned_model(fine_tuned_path) if fine_tuned_path else None,\n    )\n    mt.set_hs_patch_hooks = set_hs_patch_hooks_glm\n    mt.model.eval()",
         "detail": "interpretability.patchscopes.code.GLM_patchscopes",
         "documentation": {}
     },
@@ -5654,7 +6110,7 @@
         "kind": 5,
         "importPath": "interpretability.patchscopes.code.GLM_patchscopes",
         "description": "interpretability.patchscopes.code.GLM_patchscopes",
-        "peekOfCode": "palette_ = sns.color_palette(\"Set1\")\npalette = palette_[2:5] + palette_[7:]\nsns.set_theme(style=\"whitegrid\")\ntqdm.pandas()\n# Set Hugging Face cache directory\nos.environ[\"HF_HOME\"] = \"/home/students/kolber/seminars/kolber/.cache\"\n# Load model\nglm_model_name = \"plenz/GLM-t5-large\"\ngeneration_model_name = \"google-t5/t5-large\"\ndef prepare_model_and_tokenizer(model_name, torch_dtype=None):",
+        "peekOfCode": "palette_ = sns.color_palette(\"Set1\")\npalette = palette_[2:5] + palette_[7:]\nsns.set_theme(style=\"whitegrid\")\ntqdm.pandas()\n# Set Hugging Face cache directory\nos.environ[\"HF_HOME\"] = \"/home/students/kolber/seminars/kolber/.cache\"\n# Load model\nglm_model_name = \"plenz/GLM-t5-small\"\ngeneration_model_name = \"google-t5/t5-small\"\ndef load_finetuned_model(model_path):",
         "detail": "interpretability.patchscopes.code.GLM_patchscopes",
         "documentation": {}
     },
@@ -5663,7 +6119,7 @@
         "kind": 5,
         "importPath": "interpretability.patchscopes.code.GLM_patchscopes",
         "description": "interpretability.patchscopes.code.GLM_patchscopes",
-        "peekOfCode": "palette = palette_[2:5] + palette_[7:]\nsns.set_theme(style=\"whitegrid\")\ntqdm.pandas()\n# Set Hugging Face cache directory\nos.environ[\"HF_HOME\"] = \"/home/students/kolber/seminars/kolber/.cache\"\n# Load model\nglm_model_name = \"plenz/GLM-t5-large\"\ngeneration_model_name = \"google-t5/t5-large\"\ndef prepare_model_and_tokenizer(model_name, torch_dtype=None):\n    mt = ModelAndTokenizer(",
+        "peekOfCode": "palette = palette_[2:5] + palette_[7:]\nsns.set_theme(style=\"whitegrid\")\ntqdm.pandas()\n# Set Hugging Face cache directory\nos.environ[\"HF_HOME\"] = \"/home/students/kolber/seminars/kolber/.cache\"\n# Load model\nglm_model_name = \"plenz/GLM-t5-small\"\ngeneration_model_name = \"google-t5/t5-small\"\ndef load_finetuned_model(model_path):\n    model = AutoModel.from_pretrained(",
         "detail": "interpretability.patchscopes.code.GLM_patchscopes",
         "documentation": {}
     },
@@ -5672,7 +6128,7 @@
         "kind": 5,
         "importPath": "interpretability.patchscopes.code.GLM_patchscopes",
         "description": "interpretability.patchscopes.code.GLM_patchscopes",
-        "peekOfCode": "os.environ[\"HF_HOME\"] = \"/home/students/kolber/seminars/kolber/.cache\"\n# Load model\nglm_model_name = \"plenz/GLM-t5-large\"\ngeneration_model_name = \"google-t5/t5-large\"\ndef prepare_model_and_tokenizer(model_name, torch_dtype=None):\n    mt = ModelAndTokenizer(\n        model_name,\n        low_cpu_mem_usage=False,\n        torch_dtype=torch_dtype,\n        device=\"cpu\",",
+        "peekOfCode": "os.environ[\"HF_HOME\"] = \"/home/students/kolber/seminars/kolber/.cache\"\n# Load model\nglm_model_name = \"plenz/GLM-t5-small\"\ngeneration_model_name = \"google-t5/t5-small\"\ndef load_finetuned_model(model_path):\n    model = AutoModel.from_pretrained(\n        model_path,\n        low_cpu_mem_usage=True,\n        torch_dtype=None,\n        cache_dir=\"/home/students/kolber/seminars/kolber/.cache/\",",
         "detail": "interpretability.patchscopes.code.GLM_patchscopes",
         "documentation": {}
     },
@@ -5681,7 +6137,7 @@
         "kind": 5,
         "importPath": "interpretability.patchscopes.code.GLM_patchscopes",
         "description": "interpretability.patchscopes.code.GLM_patchscopes",
-        "peekOfCode": "glm_model_name = \"plenz/GLM-t5-large\"\ngeneration_model_name = \"google-t5/t5-large\"\ndef prepare_model_and_tokenizer(model_name, torch_dtype=None):\n    mt = ModelAndTokenizer(\n        model_name,\n        low_cpu_mem_usage=False,\n        torch_dtype=torch_dtype,\n        device=\"cpu\",\n    )\n    mt.set_hs_patch_hooks = set_hs_patch_hooks_glm",
+        "peekOfCode": "glm_model_name = \"plenz/GLM-t5-small\"\ngeneration_model_name = \"google-t5/t5-small\"\ndef load_finetuned_model(model_path):\n    model = AutoModel.from_pretrained(\n        model_path,\n        low_cpu_mem_usage=True,\n        torch_dtype=None,\n        cache_dir=\"/home/students/kolber/seminars/kolber/.cache/\",\n        trust_remote_code=True,\n        revision=\"main\",",
         "detail": "interpretability.patchscopes.code.GLM_patchscopes",
         "documentation": {}
     },
@@ -5690,7 +6146,7 @@
         "kind": 5,
         "importPath": "interpretability.patchscopes.code.GLM_patchscopes",
         "description": "interpretability.patchscopes.code.GLM_patchscopes",
-        "peekOfCode": "generation_model_name = \"google-t5/t5-large\"\ndef prepare_model_and_tokenizer(model_name, torch_dtype=None):\n    mt = ModelAndTokenizer(\n        model_name,\n        low_cpu_mem_usage=False,\n        torch_dtype=torch_dtype,\n        device=\"cpu\",\n    )\n    mt.set_hs_patch_hooks = set_hs_patch_hooks_glm\n    mt.model.eval()",
+        "peekOfCode": "generation_model_name = \"google-t5/t5-small\"\ndef load_finetuned_model(model_path):\n    model = AutoModel.from_pretrained(\n        model_path,\n        low_cpu_mem_usage=True,\n        torch_dtype=None,\n        cache_dir=\"/home/students/kolber/seminars/kolber/.cache/\",\n        trust_remote_code=True,\n        revision=\"main\",\n    )",
         "detail": "interpretability.patchscopes.code.GLM_patchscopes",
         "documentation": {}
     },
@@ -5699,7 +6155,7 @@
         "kind": 5,
         "importPath": "interpretability.patchscopes.code.GLM_patchscopes",
         "description": "interpretability.patchscopes.code.GLM_patchscopes",
-        "peekOfCode": "glm_mt = prepare_model_and_tokenizer(glm_model_name)\ngeneration_mt = prepare_model_and_tokenizer(generation_model_name)\ntriplet_func_to_idx = {\"subject\": 0, \"relation\": 1, \"object\": 2}\nrecords = []\nfor radius in range(1, 6):\n    for mask_triplet_element in triplet_func_to_idx.keys():\n        split = \"test\"\n        data = load_data(split, radius, mask_triplet_element)\n        for datapoint in data:\n            accuracy = evaluate_patch_glm_accuracy(",
+        "peekOfCode": "glm_mt = prepare_model_and_tokenizer(\n    glm_model_name,\n    fine_tuned_path=None,\n)\ngeneration_mt = prepare_model_and_tokenizer(generation_model_name)\ntriplet_func_to_idx = {\"subject\": 0, \"relation\": 1, \"object\": 2}\nrecords = []\nprint(glm_mt.device)\nprint(generation_mt.device)\nprint(glm_mt.model.device)",
         "detail": "interpretability.patchscopes.code.GLM_patchscopes",
         "documentation": {}
     },
@@ -5708,7 +6164,7 @@
         "kind": 5,
         "importPath": "interpretability.patchscopes.code.GLM_patchscopes",
         "description": "interpretability.patchscopes.code.GLM_patchscopes",
-        "peekOfCode": "generation_mt = prepare_model_and_tokenizer(generation_model_name)\ntriplet_func_to_idx = {\"subject\": 0, \"relation\": 1, \"object\": 2}\nrecords = []\nfor radius in range(1, 6):\n    for mask_triplet_element in triplet_func_to_idx.keys():\n        split = \"test\"\n        data = load_data(split, radius, mask_triplet_element)\n        for datapoint in data:\n            accuracy = evaluate_patch_glm_accuracy(\n                glm_mt=glm_mt,",
+        "peekOfCode": "generation_mt = prepare_model_and_tokenizer(generation_model_name)\ntriplet_func_to_idx = {\"subject\": 0, \"relation\": 1, \"object\": 2}\nrecords = []\nprint(glm_mt.device)\nprint(generation_mt.device)\nprint(glm_mt.model.device)\nprint(generation_mt.model.device)\nfor radius in tqdm(range(1, 6)):\n    for mask_triplet_element in triplet_func_to_idx.keys():\n        split = \"test\"",
         "detail": "interpretability.patchscopes.code.GLM_patchscopes",
         "documentation": {}
     },
@@ -5717,7 +6173,7 @@
         "kind": 5,
         "importPath": "interpretability.patchscopes.code.GLM_patchscopes",
         "description": "interpretability.patchscopes.code.GLM_patchscopes",
-        "peekOfCode": "triplet_func_to_idx = {\"subject\": 0, \"relation\": 1, \"object\": 2}\nrecords = []\nfor radius in range(1, 6):\n    for mask_triplet_element in triplet_func_to_idx.keys():\n        split = \"test\"\n        data = load_data(split, radius, mask_triplet_element)\n        for datapoint in data:\n            accuracy = evaluate_patch_glm_accuracy(\n                glm_mt=glm_mt,\n                generation_mt=generation_mt,",
+        "peekOfCode": "triplet_func_to_idx = {\"subject\": 0, \"relation\": 1, \"object\": 2}\nrecords = []\nprint(glm_mt.device)\nprint(generation_mt.device)\nprint(glm_mt.model.device)\nprint(generation_mt.model.device)\nfor radius in tqdm(range(1, 6)):\n    for mask_triplet_element in triplet_func_to_idx.keys():\n        split = \"test\"\n        data = load_data(split, radius, mask_triplet_element)",
         "detail": "interpretability.patchscopes.code.GLM_patchscopes",
         "documentation": {}
     },
@@ -5726,7 +6182,7 @@
         "kind": 5,
         "importPath": "interpretability.patchscopes.code.GLM_patchscopes",
         "description": "interpretability.patchscopes.code.GLM_patchscopes",
-        "peekOfCode": "records = []\nfor radius in range(1, 6):\n    for mask_triplet_element in triplet_func_to_idx.keys():\n        split = \"test\"\n        data = load_data(split, radius, mask_triplet_element)\n        for datapoint in data:\n            accuracy = evaluate_patch_glm_accuracy(\n                glm_mt=glm_mt,\n                generation_mt=generation_mt,\n                source_graph=datapoint[\"graph\"],",
+        "peekOfCode": "records = []\nprint(glm_mt.device)\nprint(generation_mt.device)\nprint(glm_mt.model.device)\nprint(generation_mt.model.device)\nfor radius in tqdm(range(1, 6)):\n    for mask_triplet_element in triplet_func_to_idx.keys():\n        split = \"test\"\n        data = load_data(split, radius, mask_triplet_element)\n        data = data.select(range(100))",
         "detail": "interpretability.patchscopes.code.GLM_patchscopes",
         "documentation": {}
     },
@@ -5735,7 +6191,7 @@
         "kind": 5,
         "importPath": "interpretability.patchscopes.code.GLM_patchscopes",
         "description": "interpretability.patchscopes.code.GLM_patchscopes",
-        "peekOfCode": "results = pd.DataFrame.from_records(records)\nresults.to_excel(\"results.xlsx\")",
+        "peekOfCode": "results = pd.DataFrame.from_records(records)\nresults.to_excel(\"results_ft.xlsx\")",
         "detail": "interpretability.patchscopes.code.GLM_patchscopes",
         "documentation": {}
     },
@@ -5942,7 +6398,7 @@
         "kind": 2,
         "importPath": "t5_experiments",
         "description": "t5_experiments",
-        "peekOfCode": "def create_token_list(fp):\n    token_list = []\n    with open(\"/home/students/kolber/seminars/kolber/token_list.txt\", \"r\") as file:\n        for line in file:\n            token_list.append(line.strip())\n    return token_list\nHF_CACHE_DIR = \"/home/students/kolber/seminars/kolber/.cache/\"\nN = 10000\nARROW = \"=>\"\nmodel = T5ForConditionalGeneration.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)",
+        "peekOfCode": "def create_token_list(fp):\n    token_list = []\n    with open(fp, \"r\") as file:\n        for line in file:\n            token_list.append(line.strip())\n    return token_list\nHF_CACHE_DIR = \"/home/students/kolber/seminars/kolber/.cache/\"\nN = 10000\nARROW = \"=>\"\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")",
         "detail": "t5_experiments",
         "documentation": {}
     },
@@ -5951,7 +6407,7 @@
         "kind": 5,
         "importPath": "t5_experiments",
         "description": "t5_experiments",
-        "peekOfCode": "HF_CACHE_DIR = \"/home/students/kolber/seminars/kolber/.cache/\"\nos.environ[\"HF_HOME\"] = HF_CACHE_DIR\nfrom transformers import (\n    AutoModelForSeq2SeqLM,\n    AutoTokenizer,\n    T5ForConditionalGeneration,\n)\nimport os\nimport random\ndef create_token_list(fp):",
+        "peekOfCode": "HF_CACHE_DIR = \"/home/students/kolber/seminars/kolber/.cache/\"\nos.environ[\"HF_HOME\"] = HF_CACHE_DIR\nfrom transformers import (\n    AutoModelForSeq2SeqLM,\n    AutoTokenizer,\n    T5ForConditionalGeneration,\n)\nimport os\nimport random\nimport torch",
         "detail": "t5_experiments",
         "documentation": {}
     },
@@ -5960,7 +6416,7 @@
         "kind": 5,
         "importPath": "t5_experiments",
         "description": "t5_experiments",
-        "peekOfCode": "os.environ[\"HF_HOME\"] = HF_CACHE_DIR\nfrom transformers import (\n    AutoModelForSeq2SeqLM,\n    AutoTokenizer,\n    T5ForConditionalGeneration,\n)\nimport os\nimport random\ndef create_token_list(fp):\n    token_list = []",
+        "peekOfCode": "os.environ[\"HF_HOME\"] = HF_CACHE_DIR\nfrom transformers import (\n    AutoModelForSeq2SeqLM,\n    AutoTokenizer,\n    T5ForConditionalGeneration,\n)\nimport os\nimport random\nimport torch\ndef create_token_list(fp):",
         "detail": "t5_experiments",
         "documentation": {}
     },
@@ -5969,7 +6425,7 @@
         "kind": 5,
         "importPath": "t5_experiments",
         "description": "t5_experiments",
-        "peekOfCode": "HF_CACHE_DIR = \"/home/students/kolber/seminars/kolber/.cache/\"\nN = 10000\nARROW = \"=>\"\nmodel = T5ForConditionalGeneration.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\ntokenizer = AutoTokenizer.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\ntoken_list = create_token_list(\"/home/students/kolber/seminars/kolber/token_list.txt\")\nfor i in range(N):\n    token1 = random.choice(token_list)\n    token2 = random.choice(token_list)\n    accuracy = 0",
+        "peekOfCode": "HF_CACHE_DIR = \"/home/students/kolber/seminars/kolber/.cache/\"\nN = 10000\nARROW = \"=>\"\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nmodel = T5ForConditionalGeneration.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\nmodel.to(device)\ntokenizer = AutoTokenizer.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\ntoken_list = create_token_list(\"/home/students/kolber/Investigating-GLM-hidden-states/token_list.txt\")\nfor i in range(N):\n    token1 = random.choice(token_list)",
         "detail": "t5_experiments",
         "documentation": {}
     },
@@ -5978,7 +6434,7 @@
         "kind": 5,
         "importPath": "t5_experiments",
         "description": "t5_experiments",
-        "peekOfCode": "N = 10000\nARROW = \"=>\"\nmodel = T5ForConditionalGeneration.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\ntokenizer = AutoTokenizer.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\ntoken_list = create_token_list(\"/home/students/kolber/seminars/kolber/token_list.txt\")\nfor i in range(N):\n    token1 = random.choice(token_list)\n    token2 = random.choice(token_list)\n    accuracy = 0\n    for j in range(10):",
+        "peekOfCode": "N = 10000\nARROW = \"=>\"\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nmodel = T5ForConditionalGeneration.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\nmodel.to(device)\ntokenizer = AutoTokenizer.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\ntoken_list = create_token_list(\"/home/students/kolber/Investigating-GLM-hidden-states/token_list.txt\")\nfor i in range(N):\n    token1 = random.choice(token_list)\n    token2 = random.choice(token_list)",
         "detail": "t5_experiments",
         "documentation": {}
     },
@@ -5987,7 +6443,16 @@
         "kind": 5,
         "importPath": "t5_experiments",
         "description": "t5_experiments",
-        "peekOfCode": "ARROW = \"=>\"\nmodel = T5ForConditionalGeneration.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\ntokenizer = AutoTokenizer.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\ntoken_list = create_token_list(\"/home/students/kolber/seminars/kolber/token_list.txt\")\nfor i in range(N):\n    token1 = random.choice(token_list)\n    token2 = random.choice(token_list)\n    accuracy = 0\n    for j in range(10):\n        token3 = random.choice(token_list)",
+        "peekOfCode": "ARROW = \"=>\"\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nmodel = T5ForConditionalGeneration.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\nmodel.to(device)\ntokenizer = AutoTokenizer.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\ntoken_list = create_token_list(\"/home/students/kolber/Investigating-GLM-hidden-states/token_list.txt\")\nfor i in range(N):\n    token1 = random.choice(token_list)\n    token2 = random.choice(token_list)\n    accuracy = 0",
+        "detail": "t5_experiments",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "t5_experiments",
+        "description": "t5_experiments",
+        "peekOfCode": "device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nmodel = T5ForConditionalGeneration.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\nmodel.to(device)\ntokenizer = AutoTokenizer.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\ntoken_list = create_token_list(\"/home/students/kolber/Investigating-GLM-hidden-states/token_list.txt\")\nfor i in range(N):\n    token1 = random.choice(token_list)\n    token2 = random.choice(token_list)\n    accuracy = 0\n    for j in range(10):",
         "detail": "t5_experiments",
         "documentation": {}
     },
@@ -5996,7 +6461,7 @@
         "kind": 5,
         "importPath": "t5_experiments",
         "description": "t5_experiments",
-        "peekOfCode": "model = T5ForConditionalGeneration.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\ntokenizer = AutoTokenizer.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\ntoken_list = create_token_list(\"/home/students/kolber/seminars/kolber/token_list.txt\")\nfor i in range(N):\n    token1 = random.choice(token_list)\n    token2 = random.choice(token_list)\n    accuracy = 0\n    for j in range(10):\n        token3 = random.choice(token_list)\n        inputs = tokenizer(",
+        "peekOfCode": "model = T5ForConditionalGeneration.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\nmodel.to(device)\ntokenizer = AutoTokenizer.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\ntoken_list = create_token_list(\"/home/students/kolber/Investigating-GLM-hidden-states/token_list.txt\")\nfor i in range(N):\n    token1 = random.choice(token_list)\n    token2 = random.choice(token_list)\n    accuracy = 0\n    for j in range(10):\n        token3 = random.choice(token_list)",
         "detail": "t5_experiments",
         "documentation": {}
     },
@@ -6005,7 +6470,7 @@
         "kind": 5,
         "importPath": "t5_experiments",
         "description": "t5_experiments",
-        "peekOfCode": "tokenizer = AutoTokenizer.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\ntoken_list = create_token_list(\"/home/students/kolber/seminars/kolber/token_list.txt\")\nfor i in range(N):\n    token1 = random.choice(token_list)\n    token2 = random.choice(token_list)\n    accuracy = 0\n    for j in range(10):\n        token3 = random.choice(token_list)\n        inputs = tokenizer(\n            f\"\"\"summarize: {token1}{ARROW}{token1};{token2}{ARROW}{token2};{token3}{ARROW}",
+        "peekOfCode": "tokenizer = AutoTokenizer.from_pretrained(\"t5-large\", cache_dir=HF_CACHE_DIR)\ntoken_list = create_token_list(\"/home/students/kolber/Investigating-GLM-hidden-states/token_list.txt\")\nfor i in range(N):\n    token1 = random.choice(token_list)\n    token2 = random.choice(token_list)\n    accuracy = 0\n    for j in range(10):\n        token3 = random.choice(token_list)\n        inputs = tokenizer(\n            f\"\"\"summarize: {token1}{ARROW}{token1};{token2}{ARROW}{token2};{token3}{ARROW}",
         "detail": "t5_experiments",
         "documentation": {}
     },
@@ -6014,7 +6479,7 @@
         "kind": 5,
         "importPath": "t5_experiments",
         "description": "t5_experiments",
-        "peekOfCode": "token_list = create_token_list(\"/home/students/kolber/seminars/kolber/token_list.txt\")\nfor i in range(N):\n    token1 = random.choice(token_list)\n    token2 = random.choice(token_list)\n    accuracy = 0\n    for j in range(10):\n        token3 = random.choice(token_list)\n        inputs = tokenizer(\n            f\"\"\"summarize: {token1}{ARROW}{token1};{token2}{ARROW}{token2};{token3}{ARROW}\n            \"\"\",",
+        "peekOfCode": "token_list = create_token_list(\"/home/students/kolber/Investigating-GLM-hidden-states/token_list.txt\")\nfor i in range(N):\n    token1 = random.choice(token_list)\n    token2 = random.choice(token_list)\n    accuracy = 0\n    for j in range(10):\n        token3 = random.choice(token_list)\n        inputs = tokenizer(\n            f\"\"\"summarize: {token1}{ARROW}{token1};{token2}{ARROW}{token2};{token3}{ARROW}\n            \"\"\",",
         "detail": "t5_experiments",
         "documentation": {}
     }
