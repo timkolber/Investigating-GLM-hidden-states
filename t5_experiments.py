@@ -11,11 +11,12 @@ from transformers import (
 
 import os
 import random
+import torch
 
 
 def create_token_list(fp):
     token_list = []
-    with open("/home/students/kolber/seminars/kolber/token_list.txt", "r") as file:
+    with open(fp, "r") as file:
         for line in file:
             token_list.append(line.strip())
     return token_list
@@ -24,11 +25,12 @@ def create_token_list(fp):
 HF_CACHE_DIR = "/home/students/kolber/seminars/kolber/.cache/"
 N = 10000
 ARROW = "=>"
-
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model = T5ForConditionalGeneration.from_pretrained("t5-large", cache_dir=HF_CACHE_DIR)
+model.to(device)
 tokenizer = AutoTokenizer.from_pretrained("t5-large", cache_dir=HF_CACHE_DIR)
 
-token_list = create_token_list("/home/students/kolber/seminars/kolber/token_list.txt")
+token_list = create_token_list("/home/students/kolber/Investigating-GLM-hidden-states/token_list.txt")
 
 for i in range(N):
     token1 = random.choice(token_list)
@@ -43,6 +45,7 @@ for i in range(N):
             """,
             return_tensors="pt",
         )
+        inputs.to(device)
         outputs = model.generate(**inputs)
         generated_seq = tokenizer.batch_decode(outputs, skip_special_tokens=True)[0]
         repeated_token = generated_seq.split("=>")[-1]
