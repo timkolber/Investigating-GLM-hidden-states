@@ -15,6 +15,7 @@ Then to install all the used python packages with the exact same versions, type 
 ```console
 foo@bar:~$ pip install -r requirements.txt
 ```
+To clone my forks of the GLM and Patchscope repositories, execute the get_repos.sh script.
 
 ## Usage
 Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
